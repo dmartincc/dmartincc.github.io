@@ -1,0 +1,62 @@
+# Jekyll config file
+# https://jekyllrb.com/docs/configuration/
+
+
+# Global configuration
+timezone: Europe/Madrid
+#safe: true  # Cannot change
+
+
+# Build Command Options
+#lsi: false  # Cannot change
+#incremental: false  # Cannot change
+
+
+# Site settings
+title: Soy un don nadie, que no sabe nada.
+description: Digo que se, sobre lo que no se. Escribo sobre mi vida, datos, ciencia, emprendimiento, negocios y natación.
+baseurl: "" 
+url: "https://dmartincc.com"
+
+permalink: /blog/:title/
+
+# Theme settings
+theme: minima
+
+twitter_username: dmartincc
+
+google_analytics: UA-45164598-3
+
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-toc
+
+sass:
+  style: compressed
+
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+
+
+# Settings cannot change
+## source: [your repo's top level directory]
+#highlighter: rouge
+#gist:
+#  noscript: false
+#kramdown:
+#  math_engine: mathjax
+
+# Default settings by Github
+github: [metadata]
+kramdown:
+  input: GFM
+  hard_wrap: false
+toc:
+  min_level: 2

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}">
+
+  {% include head.html %}
+
+  <body>
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      {% include blog-header-post.html %}
+
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </main>
+    </article>
+   
+    <!-- {% include share.html %} -->
+    {% include footer.html %}
+
+  </body>
+
+</html>

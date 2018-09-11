@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<br>
+<br>
+  <header class="post-header">
+    
+    <p class="post-meta">
+
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {% include locale-dates.html date=page.date %}
+        Actualizado el {{ day }} de {{ month }} de {{ year }}
+      </time>
+    </p>
+  </header>
+  <div class="post-content" itemprop="articleBody">
+    {{ page.intro | markdownify }}
+    {% if page.toc %}
+    <br>
+      <div class="section-nav">
+        <h1><b>🔖 Navega el contenido</b></h1>
+        {% include toc.html html=content ordered=true h_min=2 h_max=3 %}
+      </div>
+    <br>
+    {% endif %}
+    {{ content | toc_only }}
+  </div>
+  {% include recommended-posts.html %}
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
+</article>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-11T05:43:05+02:00</updated><id>http://localhost:4000/</id><title type="html">Soy un don nadie, que no sabe nada.</title><subtitle>Digo que se, sobre lo que no se. Escribo sobre mi vida, datos, ciencia, emprendimiento, negocios y natación.</subtitle><entry><title type="html">My Personal Mobility Data 2015</title><link href="http://localhost:4000/blog/my-personal-mobility-data/" rel="alternate" type="text/html" title="My Personal Mobility Data 2015" /><published>2018-09-10T10:00:00+02:00</published><updated>2018-09-10T10:00:00+02:00</updated><id>http://localhost:4000/blog/my-personal-mobility-data</id><content type="html" xml:base="http://localhost:4000/blog/my-personal-mobility-data/">&lt;p&gt;Here is presented my mobility digital traces over the last year.&lt;/p&gt;
+
+&lt;p&gt;First, I wanted to extract a power law of activities durations, where the top left chart represents activities in term of duration.&lt;/p&gt;
+
+&lt;p&gt;In terms of space, I wanted to represent the total destinations that I visited across the year, where there three clusters, which are linked in a spation temporal scale. From the main cluster, that’s where my daily activity occurs, therefore, urban traces come to live, showing up my personal city, where I work, live, etc.&lt;/p&gt;
+
+&lt;p&gt;In the temporal side the daily gyration radius [1] was calculated, in order to have sense of daily activities throughout the year. Burst of activity can be appreciated, which exceed my average daily mobility and can be linked to certain periods of times over the year.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/3612/1*8sbnoEuzBo8w-bp6vu7n_g.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All the data was collected with a &lt;a href=&quot;http://flask.pocoo.org/&quot;&gt;Flask&lt;/a&gt; application which has granted access to my Google fit data.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/nature06958&quot;&gt;Marta C. González, César A. Hidalgo, and Albert-László Barábasi. Understanding individual human mobility patterns, June 7, 2008.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>David</name></author><category term="lab" /><summary type="html">Here is presented my mobility digital traces over the last year.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/photo-1491118217331-c147f566d809.jpeg" /></entry><entry><title type="html">More people, more fun: The scaling of events in cities</title><link href="http://localhost:4000/blog/more-people-more-fun/" rel="alternate" type="text/html" title="More people, more fun: The scaling of events in cities" /><published>2018-09-10T10:00:00+02:00</published><updated>2018-09-10T10:00:00+02:00</updated><id>http://localhost:4000/blog/more-people-more-fun</id><content type="html" xml:base="http://localhost:4000/blog/more-people-more-fun/">&lt;p&gt;&lt;strong&gt;“The first requisite to happiness is that a man must be born in a famous city” Eurípides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On the other hand, according to the United Nations 54% of the global population lives in urban areas and it is predicted to increase to 66% by 2050 [1]. This first statement tell us about the ubiquity of cities and how they are great centers of mass, developing hubs of knowledge and know how scattered around the globe. These hubs of information are drivers of development and progress for the individuals who live in [2].&lt;/p&gt;
+
+&lt;p&gt;With the current blast of information, it is frequent to listen conversations comparing cities between each other in terms of, which one is best to have pizza, which one is the best to go clubbing, which one is the best to visit museums and so on. It is in human nature to extract knowledge and share it from their experiences when they travel. However, does anyone know which is the best city in terms of social events productivity and which is the best one to travel according to individuals interests?&lt;/p&gt;
+
+&lt;p&gt;At &lt;a href=&quot;http://www.smartvel.com&quot;&gt;Smartvel&lt;/a&gt;, we mainly work with social events data, which can be concerts, theaters, conferences, art exhibitions, sport events and so on, in order to help travellers to be better informed. We thought that cities’ populations could be a proxy for predicting the production of events and the spreading of information in urban areas. In the scientific literature, it has already been discovered that cities sizes are predictors of population-level variables such as productive and patenting activity, crime, contagious diseases rates [3], electric cable length or personal income [2]. Data consists of events aggregated by city for over a year, from September 2014 to August 2015.&lt;/p&gt;
+
+&lt;h2 id=&quot;scaling-and-power-laws&quot;&gt;&lt;strong&gt;Scaling and power laws&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Power laws distributions are everywhere in nature [4], but what is a power law? It is just when you have two variables and one varies as a power of another. All the population-level variables, that we have seen above, fall under power law functions of population size with exponents that scale with super-linearity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/3408/1*gu37DFZ3dNN_nZuyRIrb0A.png&quot; alt=&quot;**Figure 1:** City events power law distribution&quot; /&gt;Figure 1: City events power law distribution&lt;/p&gt;
+
+&lt;p&gt;In figure 1, it can been seen that the number of events in cities follows a power law. When looking at the number of events against populations, figure 2, a pattern emerge and it can be appreciated a super-linearity effect, when scaling population sizes. However, there is some biased for big cities with a small number of events for their populations. This can be due to two reasons. One, we have not entered that market yet, therefore it has not been put focus on collecting events for those cities, or two, those cities do not have enough mass centre in order to generate social events.&lt;/p&gt;
+
+&lt;h2 id=&quot;findings&quot;&gt;&lt;strong&gt;Findings&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;In order to see how the number of events scales super-linearly more clearly, it has been plotted each city with its total relevance, figure 3. At &lt;a href=&quot;http://www.smartvel.com&quot;&gt;Smartvel&lt;/a&gt;, there is a relevance system that uses collaborative intelligence in order to score events, ranging from places relevances, performers relevances and categories relevances, this system enables us to rank events according to their importance. In figure 2, it clearly appears a super linear increase in the number of events. Another detail to pay attention, it is that when a city has more than 200 events over a year the capacity of production for those cities increase exponentially.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*lYSUWiDW7PF-1nXMrapobg.png&quot; alt=&quot;**Figure 2:** *Cities’ number of events correlated with their populations, there is a super-linear pattern. Data has been filtered by cities countries (USA, France, Portugal, UK and Spain) A. Number of events by city correlated with populations and total relevance. B. Two fitted regression models, one with linear regression model and a second one with two degree of freedom for capturing exponential scaling of big populations. Also a clustering algorithm has been applied for detecting different group of cities.*&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure 2: Cities’ number of events correlated with their populations, there is a super-linear pattern. Data has been filtered by cities countries (USA, France, Portugal, UK and Spain) A. Number of events by city correlated with populations and total relevance. B. Two fitted regression models, one with linear regression model and a second one with two degree of freedom for capturing exponential scaling of big populations. Also a clustering algorithm has been applied for detecting different group of cities.&lt;/p&gt;
+
+&lt;p&gt;After all the data analysis, we thought that some predictive models could be developed in order to know the number of events of a certain city. These models, operationally, gives us a lot of insight, because it will ensure that over a period of one year there is feasible number of events.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*JUtWFMieXahXUqgT.&quot; alt=&quot;**Figure 3:** A. Cities’ relevances against number of events, which also follows an exponential increase, size of cities is defined by average relevance, in order to find cities worth to visit. B. A linear fitted model coloured by the clustering algorithm applied&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 3:&lt;/strong&gt; A. Cities’ relevances against number of events, which also follows an exponential increase, size of cities is defined by average relevance, in order to find cities worth to visit. B. A linear fitted model coloured by the clustering algorithm applied&lt;/p&gt;
+
+&lt;p&gt;Consequently, it can be obvious that big cities are more productive when sharing information across social events. However, which are the cities that have events worthy to attend? In figure 3, those cities show up, which are small but have very relevant events and are worthy to attend.&lt;/p&gt;
+
+&lt;p&gt;When looking at certain countries’ cities separately the same pattern emerges, where big cities are on the right hand side of the charts, and small and with high social activity are above the trend line. Figure 4 gives a much clearer image of where the production of events it is above average. Big and high dynamic cities.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2350/0*6kbYRmi4-e3QnpNa.&quot; alt=&quot;**Figure 4:** Cities events correlated with populations for United States, Spain, United Kingdom and France, where cities sizes is defined by average relevance.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 4:&lt;/strong&gt; Cities events correlated with populations for United States, Spain, United Kingdom and France, where cities sizes is defined by average relevance.&lt;/p&gt;
+
+&lt;h2 id=&quot;cities-profiling&quot;&gt;&lt;strong&gt;Cities profiling&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Cities are life living organisms, behaving differently despite of being in a same country or geopolitical area. Therefore the productivity of one city to produce different kind of events depend on multiple factors, which make the essence of cities, such as universities, museums, local communities, music and art scenes, and so on. This means that two cities from a same country are totally different in terms of their city souls. In figure 5 we present the most important cities in their capacities to be hubs of events creation and how differ in their productions between each other. It can be seen that there is a set of categories that are common across all cities, such as &lt;em&gt;music, football, theater, culture *and&lt;/em&gt; museums* that vary all of them together from 65% in San Francisco to up to 95% in London. However, their productions differ depending on the cities characteristics.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2560/1*_cHPTsMrhIe9QlfUzf2ETQ.png&quot; alt=&quot;**Figure 5:** Cities production distribution of events by category&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 5:&lt;/strong&gt; Cities production distribution of events by category&lt;/p&gt;
+
+&lt;p&gt;One question that arises when studying cities and their events categories distributions, it is to know how diverse are in the generation of events. In order to calculate diversity, it was used the &lt;a href=&quot;https://en.wikipedia.org/wiki/Diversity_index&quot;&gt;Shannon entropy&lt;/a&gt; [5], also known in ecology by the Shannon diversity index [6], that reflects the different number of types that are in dataset, in this case, events categories. Over the Shannon index it has been calculated the &lt;a href=&quot;https://en.wikipedia.org/wiki/E._C._Pielou&quot;&gt;Pielou&lt;/a&gt;’s evenness index [7], which is constrained between 0 and 1. The less variation in communities between the species, the higher the evenness index is.&lt;/p&gt;
+
+&lt;p&gt;In figure 6, it can be seen that there is a clear correlation between population and categories variability, this might imply that bigger cities have more specialisation or selection of the information, where in small cities every event can show up in every channel of propagation, however, in big cities events cannibalised between each other for being in online events platforms.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/0*8oHGYfsEYY0lVwpN.&quot; alt=&quot;**Figure 6:** Cities normalised diversities against population for France, Portugal, Spain, United States and United Kingdom.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Figure 6:&lt;/strong&gt; Cities normalised diversities against population for France, Portugal, Spain, United States and United Kingdom.&lt;/p&gt;
+
+&lt;p&gt;We wanted to go further and test if web searchers (or number of visitors) super-scale with their populations [8], in this case we have used Wikipedia page views, which are provided by the service &lt;a href=&quot;http://stats.grok.se/&quot;&gt;http://stats.grok.se/&lt;/a&gt;. In figure 7, it can be seen that cities populations are super-linear against Wikipedia page views, with an exponent equal to 1.1, which is higher than one, implying super-linearity. However, there is some variability depending on social-media factors, that can generate some noise in our measurements.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2244/1*il3nM1FgyT2zMLup8bgbFA.png&quot; alt=&quot;**Figure 7:** Cities populations groups and Wikipedia pageviews medians for the last 90 days. Red line is fitted model without log-log, and the blue dashed line is the log-log fitted model, which shows super-linearity.&quot; /&gt;&lt;em&gt;&lt;strong&gt;Figure 7:&lt;/strong&gt; Cities populations groups and Wikipedia pageviews medians for the last 90 days. Red line is fitted model without log-log, and the blue dashed line is the log-log fitted model, which shows super-linearity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The distribution of events varies geographically, having big cities in developed countries higher proportion of events by citizen, this can be appreciated in figure 8, where countries are represented by their events populations proportions. In addition, North America and Europe are great geo-political areas for events production.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/4188/1*JNA8W2K9vaGUENG4nCbe3g.png&quot; alt=&quot;**Figure 8:** Cartogram of countries by normalised number of events by countries populations.&quot; /&gt;&lt;em&gt;&lt;strong&gt;Figure 8:&lt;/strong&gt; Cartogram of countries by normalised number of events by countries populations.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;where-to-travel&quot;&gt;&lt;strong&gt;Where to travel?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;When individuals travel to visit a city have different motives, ones travel to discover the city, others to attend a conference, a concert, to run a marathon, etc. Therefore, there are many reasons on the actions of visiting cities. In case you just want to discover a city and know what you can do or you have a passion about some topic. This next lines may help you.&lt;/p&gt;
+
+&lt;p&gt;If you love &lt;strong&gt;music&lt;/strong&gt;, Hamburg is your city, up to 90% of their events are music related, follow by London with 83%. But what happen if you don´t miss a &lt;strong&gt;museum&lt;/strong&gt; and their expositions, Sevilla (17%), Zurich (15%) and Berlin (11%) are those with higher number of museums related events. Are you a foodie?, Los Angeles, San Francisco and Miami are great cities for finding &lt;strong&gt;gastronomy&lt;/strong&gt; events for delighting your palate. However, for those that run marathons around the world, San Francisco (2%), Brussels (1%) and Lisbon (1%) have a great &lt;strong&gt;running&lt;/strong&gt; scenes. These is an example of how cities differ in their social events productions and how they range based on the topic.&lt;/p&gt;
+
+&lt;p&gt;According to figure 7, if you like to have a diverse offer of events, maybe you should travel to cities like London, New York, Chicago, Paris, Madrid or Barcelona, where you will not get bored.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;To sum up, the production of events at cities follow a power law, where population can be used as predictor variable. Firstly, big cities according to the power law distribution are bigger hubs for generating and sharing information in the form of social events, having more dynamic scenes. Secondly, urban areas with high populations sizes does not imply diversity indexes which are top ranked among all cities. Finally, cities are characterised by several factors, such as population, geography, economic diversity, weather and so on, which shape the capacity of generating geographic hubs of information.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;United Nations — &lt;a href=&quot;http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html&quot;&gt;World’s population increasingly urban with more than half living in urban areas &lt;/a&gt;(2014)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Luís M. A. Bettencourt, José Lobo, Dirk Helbing, Christian Kühnert, and Geoffrey — Growth, innovation, scaling, and the pace of life in cities.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Wei Pan, Gourab Ghoshal, Coco Krumme, Manuel Cebrian, and Alex Pentland — Urban characteristics attributable to density-driven tie formation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;M. E. J. Newman — Power laws, Pareto distributions and Zipf’s law&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shannon, C. E. and Weaver W. (1948) A mathematical theory of communication. The Bell System Technical Journal, 27, 379–423 and 623–656.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hill, M. O. (1973). “Diversity and evenness: a unifying notation and its consequences”. Ecology 54: 427–432&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mulder, C. P. H.; Bazeley-White, E.; Dimitrakopoulos, P. G.; Hector, A.; Scherer-Lorenzen, M.; Schmid, B. (2004). “Species evenness and productivity in experimental plant communities”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;M. Lenormand, B. Gonçalves, A. Tugores and J. Ramasco (2015). &lt;a href=&quot;http://arxiv.org/pdf/1501.07788.pdf&quot;&gt;“Human diffusion and city influence”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>David</name></author><category term="lab" /><summary type="html">“The first requisite to happiness is that a man must be born in a famous city” Eurípides</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://cdn-images-1.medium.com/max/1600/1*A2TstjXew6lD6qxs3r5hDw.png" /></entry><entry><title type="html">📈 How to setup a product growth process from scratch for your startup</title><link href="http://localhost:4000/blog/how-to-setup-a-product-growth-process-for-your-startup/" rel="alternate" type="text/html" title="📈 How to setup a product growth process from scratch for your startup" /><published>2018-09-10T10:00:00+02:00</published><updated>2018-09-10T10:00:00+02:00</updated><id>http://localhost:4000/blog/how-to-setup-a-product-growth-process-for-your-startup</id><content type="html" xml:base="http://localhost:4000/blog/how-to-setup-a-product-growth-process-for-your-startup/">&lt;p&gt;It’s now three months since we launched Zensei, Cherni and me, after some changes in our lives we made the decision to bet on this business idea, which has a great vision, to help people to have access to cutting edge preventive primary health using data across the globe.&lt;/p&gt;
+
+&lt;p&gt;We have a clear roadmap, but we didn’t make the mistake to solve the whole problem at once. Our approach was “Divide and conquer”, and the first objective of these first months was to validate our idea and maximize our learning for the next stage of the product.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-did-we-do&quot;&gt;&lt;strong&gt;What did we do?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Our process is compose of four simple steps, first, user research and design, second, build a prototype, third, test our prototype, and finally, learn from your simple product and marketing acquisition tactics.&lt;/p&gt;
+
+&lt;h3 id=&quot;user-research--design&quot;&gt;User Research &amp;amp; Design&lt;/h3&gt;
+
+&lt;p&gt;Ok, we got an idea, but was that idea worth working? The first thing that we did was to read as much as possible on the problem that our idea tries to solve, based on that knowledge, we carried out an online survey with potential users.&lt;/p&gt;
+
+&lt;p&gt;We achieved to gather nearly 250 responses, which were very valuable to design our first prototype. We decided to build a simple bot in Messenger, despite the numbers from our survey that told us that we were going to have some problems with that platform, due to it’s not commonly used in Spain.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2128/1*lYPQI4gzyMWViDg-6qMsJw.png&quot; alt=&quot;User feedback on using Messenger&quot; /&gt;&lt;em&gt;User feedback on using Messenger&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;However, that platform and technology was going to give us speed and very valuable feedback thanks to its nature, because users can talk to the bot, and we could afterward analyse those comments and interactions.&lt;/p&gt;
+
+&lt;p&gt;So, our design efforts were mainly focus on interaction and UX. No need for fancy designs. Just plain copies which force you to think about the problem instead of colours and shapes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/3324/1*9zD6ZFBJPV_Jqth2CPctNw.jpeg&quot; alt=&quot;User journeys with Zensei&quot; /&gt;&lt;em&gt;User journeys with Zensei&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;build&quot;&gt;Build&lt;/h3&gt;
+
+&lt;p&gt;With the bot’s interactions and UX designed, we jumped to code, and less than a month we lauched Zensei Bot in Messenger in May 29.&lt;/p&gt;
+
+&lt;p&gt;Here we had the same premise, we needed to use the technology to our benefit and be fast, so Cherni decided to learn the serverless framework, a new paradigm of programming without servers.&lt;/p&gt;
+
+&lt;p&gt;Despite a tiny problem with recurrent functions on AWS and to be coding in javascript, this technology helped us to deliver fast and build a prototype which is also going to be the backend of our coming mobile app. We are currently build it.&lt;/p&gt;
+
+&lt;p&gt;We also dedicated some time to build a scrapy data collection infrastructure which would help us to learn afterwards. We use Mixpanel for logs collection and Google Analytics for dashboarding, and we made sure that we could trace user between our landing and the prototype.&lt;/p&gt;
+
+&lt;h3 id=&quot;test&quot;&gt;Test&lt;/h3&gt;
+
+&lt;p&gt;Here comes the interesting part. After we launched a digital product, as Andrew Chen says, [“&lt;strong&gt;Startups are cheaper to build, but more expensive to grow”](http://andrewchen.co/startups-are-cheaper-to-build-more-expensive-to-grow/)&lt;/strong&gt;, you cannot leave your product alone in the middle of the ocean of internet. If you do that, you are lost.&lt;/p&gt;
+
+&lt;p&gt;Therefore, you need to establish a clear set of experiments to acquire users. Our main focus was on macro optimisations, such as these ones:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which are best performing contents, audiences and channels?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which is the audience that performs better?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which is the content that performs better?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which are the keywords that perform better?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;With these research questions, we define several experiments, which ranged from doing some emails campaigns, Facebook campaigns, AdWords, youtube, contact specialise journalists, write blog posts and so on.&lt;/p&gt;
+
+&lt;p&gt;We also had several coffees with &lt;a href=&quot;https://twitter.com/alvarovmz&quot;&gt;Álvaro Vila&lt;/a&gt; from &lt;a href=&quot;https://witei.com/es/&quot;&gt;Witei&lt;/a&gt;, he is one of the ones, who knows how to build and growth a Real State CRM and make it viable without any funding. He advised us on how to use digital marketing and to squeeze as much as possible our tiny budget.&lt;/p&gt;
+
+&lt;p&gt;In terms of channels, we benchmark several channels in order to prioritise them, as Brain Balfour says on his post [&lt;strong&gt;5 Steps To Choose Your Customer Acquisition Channel](https://www.coelevate.com/essays/5-steps-to-choose-your-customer-acquisition-channel). **Using&lt;/strong&gt; **this approach we came up with this table.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2312/1*bArVPoXiyJeRnwAVZNdQ3g.png&quot; alt=&quot;Channels Benchmark&quot; /&gt;&lt;em&gt;Channels Benchmark&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;After having priotarized our efforts, we started to write some blog posts and marketing campaigns copies with our personas in mind, in our first step in the process we defined clear personas who could be interested on Zensei’s value proposition.&lt;/p&gt;
+
+&lt;p&gt;Over a month we tested every channel and we collected very interested learnings that we are incorporating to our current product.&lt;/p&gt;
+
+&lt;p&gt;I also met with a friend of mine, &lt;a href=&quot;http://web.media.mit.edu/~cebrian/&quot;&gt;Manuel Cebrian&lt;/a&gt;, a worldwide expert in viral cascades and gimmicks over social networks. With him I discussed several approaches that we could use in order to create some awareness.&lt;/p&gt;
+
+&lt;p&gt;From those afternoons came a simple app we build using emojis and word2vec models in order to gimmick people, however, we dismissed that experiment, because it wasn’t align with our vision exactly. Here you can play &lt;a href=&quot;https://zenseiapp.com/game/&quot;&gt;EmojiGame&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moreover, we have more gimmicks that we are going to launch in September, Stay tuned!&lt;/p&gt;
+
+&lt;h3 id=&quot;learn&quot;&gt;Learn&lt;/h3&gt;
+
+&lt;p&gt;If you like to work with data, as we do. This is your compass for defining your product strategy.&lt;/p&gt;
+
+&lt;p&gt;Thanked we build a scrapy data infrastructure, we could analyze our data and learn a lot.&lt;/p&gt;
+
+&lt;p&gt;First, we defined our key metric, GROWTH, and what is growth? &lt;a href=&quot;http://www.paulgraham.com/growth.html&quot;&gt;This post&lt;/a&gt; from Paul Graham defines pretty clear what is growth for a startup.. how can we track our growth? Like this, at least this is how Facebook works it out. You can what &lt;a href=&quot;https://www.youtube.com/watch?v=n_yHZ_vKjno&quot;&gt;this video&lt;/a&gt; from Alex Schultz from Facebook.&lt;/p&gt;
+
+&lt;p&gt;GROWTH = NEW USERS — CHURN USERS + ACTIVATED USERS&lt;/p&gt;
+
+&lt;p&gt;Due to recurrence was by default in our designs, we achieved an average weekly recurrence of 43% over 12 weeks since launched and a weekly average growth of 21%, these metrics look promising, but can we explain them? Can we learn from them?&lt;/p&gt;
+
+&lt;p&gt;Yes, first plot your data, only data will give you amount of insights. As this chart of our weekly recurrence. Great, nearly product market fit. But we need more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2004/1*B1pxVe5F2MWcKZ5nYubwQw.png&quot; alt=&quot;Average Weekly Users Retention Over 12 Weeks&quot; /&gt;&lt;em&gt;Average Weekly Users Retention Over 12 Weeks&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You need to learn much more, so we built some attribution models for each of our key metrics from different points of view of user acquisition channels, such as campaigns, referrals, sources.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/2000/1*nJEdi2sfIAqqg6sa-0rq9A.png&quot; alt=&quot;Attribution model result from user sources&quot; /&gt;&lt;em&gt;Attribution model result from user sources&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is how it looks like the outcome of one of our attirbution models. We can see that Whatsapp is a strong source of user acquisition. So we will take that into account for our future product design. And, for example, we can say that we know which sources are driving recurrence with a 51% of accuracy. Not bad.&lt;/p&gt;
+
+&lt;p&gt;And finally, user feedback, so so valuable to improve your product. People will tell you what they want, like and love. Listen to them.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-words&quot;&gt;Final Words&lt;/h2&gt;
+
+&lt;p&gt;Growth is the intersection between Engineering, Product Design, Data and Marketing, if you are missing any of them your product is not going to grow. Thankfully, at &lt;a href=&quot;https://zenseiapp.com&quot;&gt;Zensei&lt;/a&gt; we know some about them.&lt;/p&gt;
+
+&lt;p&gt;Some advice, don’t desperate, growth experiments are like scientific experiments, some times work and other no. Just use your learning for minimise the uncertainty.&lt;/p&gt;
+
+&lt;p&gt;So reflecting on the first product growth cycle complete, we achieve the following outcomes.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Validate our business idea.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set a product growth process.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create some awareness.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We are now in the process of building a brand new mobile app using all our learning from this first phase, we will start to play with viral loops and gimmicks, looking forward to show you our learnings.&lt;/p&gt;
+
+&lt;p&gt;If you want to test &lt;a href=&quot;https://zenseiapp.com&quot;&gt;Zensei&lt;/a&gt; mobile app just right when is out of the oven, you just need to subscribe to this 👉 &lt;a href=&quot;https://landings.zenseiapp.com/?utm_source=invitation&amp;amp;utm_medium=medium&amp;amp;utm_campaign=growth_post&quot;&gt;waiting list &lt;/a&gt;. Seats are limited, be the first one to use our app and stay healthier 📱&lt;/p&gt;
+
+&lt;p&gt;We are also looking for seed funding 💸💸💸, if you are interested on betting in a Machine Learning, InsureTech and Digital Health startup, feel free to drop us an email to &lt;a href=&quot;http://hola@zenseiapp.com&quot;&gt;hola@zenseiapp.com&lt;/a&gt;, we have top world industry and scientific advisors, who are helping us to build a preventive health technology to avoid environment, lifestyle and social factors risks which constitute 60% of our health, and based on state of the art scientific research on digital epidemiology, behavioural economics and machine learning.&lt;/p&gt;
+
+&lt;p&gt;We aim to help millions of people world wide to manage their health risks.&lt;/p&gt;
+
+&lt;p&gt;🌍📱🏥&lt;/p&gt;</content><author><name>David</name></author><category term="oficina" /><summary type="html">It’s now three months since we launched Zensei, Cherni and me, after some changes in our lives we made the decision to bet on this business idea, which has a great vision, to help people to have access to cutting edge preventive primary health using data across the globe.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/photo-1523875176340-1298db8ee216.jpeg" /></entry><entry><title type="html">The 8 points you must follow to improve your machine learning classifiers</title><link href="http://localhost:4000/blog/how-to-improve-machine-learning-classifiers/" rel="alternate" type="text/html" title="The 8 points you must follow to improve your machine learning classifiers" /><published>2018-09-10T10:00:00+02:00</published><updated>2018-09-10T10:00:00+02:00</updated><id>http://localhost:4000/blog/how-to-improve-machine-learning-classifiers</id><content type="html" xml:base="http://localhost:4000/blog/how-to-improve-machine-learning-classifiers/">&lt;h2 id=&quot;metrics&quot;&gt;&lt;strong&gt;Metrics&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;A main part of the training and testing process of a classifier is to compute several metrics, such as the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Precision_and_recall&quot;&gt;Precision&lt;/a&gt;&lt;/strong&gt; is the fraction of retrieved documents that are &lt;a href=&quot;https://en.wikipedia.org/wiki/Relevance_%28information_retrieval%29&quot;&gt;relevant&lt;/a&gt; or is the probability that a (randomly selected) retrieved document is relevant to the query.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;precision = ({ relevant documents } ∩ { retrieved documents }) / {retrieved documents }&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Precision_and_recall&quot;&gt;Recall&lt;/a&gt;&lt;/strong&gt; is the fraction of the documents that are relevant to the query that are successfully retrieved or is the probability that a (randomly selected) relevant document is retrieved in a search.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;recall = ({ relevant documents } ∩ { retrieved documents }) / { relevant documents }&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/F1_score&quot;&gt;F1-Score&lt;/a&gt;&lt;/strong&gt; combines precision and recall is the &lt;a href=&quot;https://en.wikipedia.org/wiki/Harmonic_mean&quot;&gt;harmonic mean&lt;/a&gt; of precision and recall.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;F1 = 2 · precision · recall / (precision + recall)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;methodology&quot;&gt;&lt;strong&gt;Methodology&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;From my experience developing classifiers for multiple purposes, these are my advised points to follow:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Identify what you want to predict&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Label one document with just one class.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Multilabel one document with several classes, with unlimited number of classes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Multiclass one document with a defined set of classes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Get sample data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At least with 10K data points covering all possible predictions, however, it is recommended to get as much data as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Clean and transform your data to the desired format&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Get your features from your structured or unstructured data and set of labels associated to predictors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Supervised the learning/training of your model&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It is needed to human checked the data selected for training your model, for doing so, it is required to have a consistent idea of what you are classifying, this means that a convention should be made in terms of what each label/category means and what comprises.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Example:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Today I feel lucky for being alive, however, this disease is killing me slowly. Positive — Negative (Is it positive or negative? Very subjective)&lt;/em&gt;
+&lt;em&gt;I feel great today Positive (Clearly positive)&lt;/em&gt;
+&lt;em&gt;Yesterday, I ate too much pizza and my tummy hurts Negative (Clearly negative)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;5. Train and test your model&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When a checked dataset is ready to be used, train your classifier with that dataset, and test it over subset of your whole dataset, avoiding overfitting, this means that the training and testing data set should not have the same documents (66% train — 33% test)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6. Check the metrics from the previous step&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Make sure to have a F1 score which meets your expectations of quality. Have in mind that we are dealing with probabilistic models, which by no means, do not return deterministic results, so level of uncertainty should be expected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;7. Deploy your model&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If the metrics meet the expected quality, deploy your models into production.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;8. Iterate between points 5 and 7&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Until you get a robust model with which your operations and data science team are comfortable with.&lt;/p&gt;
+
+&lt;h2 id=&quot;crowdsourcing-your-training-process&quot;&gt;&lt;strong&gt;Crowdsourcing your training process&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;When training and human reviewing of datasets, it is normal to have team in charge of doing this tasks, this might comprise several problems which are state in following points:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Mind the tools that your team is using&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Make sure that the members of your team are using the same tools, in order to avoid mistakes. If you have capabilities for build an ad-hoc web tool for training your models, do it!, you will avoid mistakes in your models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Choose the right people for the job&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Training a supervised model can be very very very tedious, it is a repetitive task and also should be done with a lot of care, because a simple mistake is going to be represented in your future predictions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Allow external crowdsourced training process to users&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Enable to final users to give feedback on predictions, but be careful to the trolls, setup limits.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Mechanical Turk&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have your pockets full of bucks, you can use Amazon Mechanical Turk, a convenient approach if what you are looking for is to have a trained dataset fast.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;When training classifiers, the following points should be taken into consideration:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Define what you want to predict&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Get enough data that covers all possible cases&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Define what each category means&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Curate your dataset for training the classifier&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Train and test your classifier, having into account precision, recall and f1-score&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>David</name></author><category term="lab" /><summary type="html">Metrics</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/photo-1516981879613-9f5da904015f.jpeg" /></entry><entry><title type="html">How data can help us to live longer, happier and healthier</title><link href="http://localhost:4000/blog/how-data-can-help-us-live-longer/" rel="alternate" type="text/html" title="How data can help us to live longer, happier and healthier" /><published>2018-09-10T10:00:00+02:00</published><updated>2018-09-10T10:00:00+02:00</updated><id>http://localhost:4000/blog/how-data-can-help-us-live-longer</id><content type="html" xml:base="http://localhost:4000/blog/how-data-can-help-us-live-longer/">&lt;h2 id=&quot;bio-wearables&quot;&gt;&lt;strong&gt;Bio Wearables&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Monitoring is key to prevention&lt;/strong&gt; and these new technologies allow us to gather vast amounts of informations from sensors data, keeping track in real time of bio and mobility metrics from individuals. The bio tracking devices are already with us, the quantification self movent is currently focused on activitity, but it will move to the more health side, where we will be recording data about our daily intakes, oxygen consumption, temperature, sugar levels in blood, pulse, activity, intestinal activity, emotions, basically, anything that can be measured.&lt;/p&gt;
+
+&lt;h2 id=&quot;health-personal-assistants&quot;&gt;&lt;strong&gt;Health personal assistants&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Medical practitioners were like gods in the all times, relying in their experience and expertise. Nowadays, health information is all over the internet, and individuals tend to diagnose themselves from not realiable sources. With the current machine learning technologies and choosing quality content and information, &lt;strong&gt;symptom checkers&lt;/strong&gt; are trying to tackle this problem, where individuals can get reliable diagnoses about their symptoms, empowering them to take the best decisions. Imaging, a person in a far village in Africa or South America, with no access to a medical practitioner, however, with access to satellite internet, this kind of tools could help to assign resources when needed and help patients to have advice on early treatments. Also, this new personal assistants could help practitioners to be updated in their knowledge of symptoms, diseases and treatments.&lt;/p&gt;
+
+&lt;h2 id=&quot;treatment-prescription&quot;&gt;&lt;strong&gt;Treatment prescription&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Prescription engines are needed in order to help to maximize the efficiency of any treatment when fighting any disease. &lt;strong&gt;A mix of genetic, patients bio historical data and prescriptive models are a great match&lt;/strong&gt;, this approach can help us to design ad hoc treatments from medicines to cancer interventions for patients. Based on facts, patient traits, genes and environmental factors it would be possible to have more efficient and cheaper treatments.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-epidemiology&quot;&gt;&lt;strong&gt;Digital Epidemiology&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;We live an big village where pandemic agents can cross borders just in hours&lt;/strong&gt;, travelling from Central Africa to Hong Kong in less than 24 hours, infecting people all around the world. One of the disadvantages from globalization are these kind of threats that can put millions of people at risk with devastating consequences. However, nowadays we have the tools to monitoring these pandemic agents, using early detection data from global monitoring systems of diseases, transportation data, social networking data, health personal assistants data and environmental factors. We can treat this complex system as a giant organisim where people are infected, like cells in our system are infected by virus or damaged by cancer. Applying the same concepts of diagnose, prevention and treatment we can try to save the world from the next pandemic caused by tiny organisims that can kill millions of people. We are in the early stage of this new practice where epidemiologists, computer scientist, medical practitioners and governmental organisations have to much to say and work.&lt;/p&gt;
+
+&lt;h2 id=&quot;predicting-medical-prognostics&quot;&gt;&lt;strong&gt;Predicting Medical Prognostics&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Any human being wants to die in peace&lt;/strong&gt;, sometimes this does not happens, due to a bad diagnose or inefficient treatments. Normally, one of the questions that a patient asks after being diagnosed to his doctor is, How much do I have? and doctors, I am afraid that they would never have a right answer. Data can help us to have more accurate medical prognostics, enabling us to avoid those last days at the hospital, and really rest in peace at home with our love ones. Gathering data from millions of diagnoses, treatments and prognostics it would be possible to have prognostics closer to the reality.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;We can do better to tackle some of the most primitive health problems, using data, computers, ethics, knowledge and know how from health professionals, I am sure we can!&lt;/p&gt;</content><author><name>David</name></author><category term="lab" /><summary type="html">Bio Wearables</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/photo-1520931737576-7d1628862026.jpeg" /></entry></feed>

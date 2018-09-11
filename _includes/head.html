@@ -1,0 +1,62 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="theme-color" content="#f58888">
+
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}""{% endif %}">
+
+  <!-- For Facebook -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://dmartincc.com/assets/zensei.png{% endif %}"/>
+  <meta property="og:url" content="{% if page.url %}{{ page.url | absolute_url }}{% else %}https://dmartincc.com{% endif %}"/>
+  <meta property="og:site_name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
+  <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}"/>
+
+  <!-- for Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://dmartincc.com/assets/zensei.png{% endif %}" />
+
+  <!-- For Google+ -->
+  <!-- <html itemscope itemtype="http://schema.org/Article"> -->
+  <meta itemprop="name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://dmartincc.com/assets/zensei.png{% endif %}">
+
+  <title>{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+  <link rel="shortcut icon" href="/img/yo_emoji.png" />
+  <link rel="apple-touch-icon" href="/img/yo_emoji.png"/>
+  <link rel="icon" href="/img/yo_emoji.png"/>
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
+
+  <!-- Hotjar Tracking Code for https://dmartincc.com -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:969234,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+
+  <script id="mcjs">
+  !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a518c767a6166cb42b4e9b0f5/fb447f39a61aaf9fdebd0d0d6.js");
+  </script>
+  
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
+</head>

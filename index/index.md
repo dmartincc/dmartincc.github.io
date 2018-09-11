@@ -71,7 +71,7 @@ Cosa que he intentado que no han funcionado o si.
 
 👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia y tiempo a ayudar millones de personas con problemas respiratorios. Deje una oferta de trabajo en NY por Zensei. WIP.
 
-👷 [**Blog personal**](https://zenseiapp.com), desde Septiembre del 2018. Me he propuesto escribir semanalmente sobre algo interesante en este blog. WIP.
+👷 [**Blog personal**](https://dmartincc.com), desde Septiembre del 2018. Me he propuesto escribir semanalmente sobre algo interesante en este blog. WIP.
 
 ## **Mis proyectos de futuro y sueños**
 

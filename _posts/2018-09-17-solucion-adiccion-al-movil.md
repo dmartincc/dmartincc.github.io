@@ -2,7 +2,7 @@
 layout: post
 toc: true
 comments: true
-title:  "Cómo conseguir solucionar la adicción al móvil 📵(y no morir de ansiedad)"
+title:  "Cómo conseguir solucionar la adicción al móvil 📵 (y no morir de ansiedad)"
 date:   2018-09-17 10:00:00 +0200
 author: David
 keywords: nomofobia, adiccion al movil, adicción a la tecnología, adicción a fortnite

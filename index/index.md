@@ -29,57 +29,49 @@ Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aporta
 
 💻 [**Oficina**](/oficina). Proyectos en los que trabajo e intento ganarme la vida. Data science, startups, diseño de producto y productividad.
 <div>
-{% for post in site.posts | last | limit : 4 %}
-	{% if post.category == 'oficina' %}
+{% for post in site.categories['oficina'] | limit : 1 %}
     <p>
       <b>Último artículo:</b>
       <a itemprop="url" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
     </p>
-	{% endif %}
 {% endfor %}
 </div>
 
 🔬 [**Lab**](/lab). Estudio un Doctorado en Ingeniería Mátemática. Aprendo sobre datos, salud, comportamiento humano y computación social.
 <div>
-{% for post in site.posts | last | limit : 2 %}
-	{% if post.category == 'lab' %}
+{% for post in site.categories['lab'] | limit : 1 %}
     <p>
       <b>Último artículo:</b>
       <a itemprop="url" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
     </p>
-	{% endif %}
 {% endfor %}
 </div>
 
 📵 [**Móvil**](/móvil). El móvil es una gran herramienta, pero está diseñado para mantenernos enganchanos. Aquí te cuento como utilizar el móvil de forma saludable.
 <div>
-{% for post in site.posts | last | limit : 2 %}
-	{% if post.category == 'móvil' %}
+{% for post in site.categories['móvil'] | limit : 1 %}
     <p>
       <b>Último artículo:</b>
       <a itemprop="url" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
     </p>
-	{% endif %}
 {% endfor %}
 </div>
 
 🏊‍♂️ **Piscina**. He nadado en 20 años más de 10.000km. Lo único que he conseguido ha sido marearme dando virajes.
 <div>
-{% for post in site.posts | last | limit : 2 %}
-	{% if post.category == 'piscina' %}
+{% for post in site.categories['piscina'] | limit : 1 %}
     <p>
       <b>Último artículo:</b>
       <a itemprop="url" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
     </p>
-	{% endif %}
 {% endfor %}
 </div>
 
@@ -99,29 +91,25 @@ Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aporta
 
 🐐 **Granja**. Me he criado en una granja con vacas, cabras, caballos, gallinas, huerto, etc. Intento aprender de mi padre por si hay un holocausto.
 <div>
-{% for post in site.posts | last | limit : 2 %}
-	{% if post.category == 'granja' %}
+{% for post in site.categories['granja'] | limit : 1 %}
     <p>
       <b>Último artículo:</b>
       <a itemprop="url" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
     </p>
-	{% endif %}
 {% endfor %}
 </div>
 
 💭 **Mi mundo**. Pienso luego existo, pero de forma inconexa y de esto no sé nada de nada.
 <div>
-{% for post in site.posts | last | limit : 2 %}
-	{% if post.category == 'mi mundo' %}
+{% for post in site.categories['mi mundo'] | limit : 1 %}
     <p>
       <b>Último artículo:</b>
       <a itemprop="url" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
     </p>
-	{% endif %}
 {% endfor %}
 </div>
 

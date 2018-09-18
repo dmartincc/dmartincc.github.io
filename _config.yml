@@ -18,7 +18,7 @@ description: Solo sé, que no sé nada. Escribo sobre mi vida, datos, comportami
 baseurl: "" 
 url: "https://dmartincc.com"
 
-permalink: /blog/:title/
+permalink: /:categories/:title/
 
 # Theme settings
 theme: minima

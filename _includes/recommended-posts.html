@@ -1,6 +1,7 @@
 <ul class="post-list">
 {% assign posts = site.posts | sample:3 %}
 {% for post in posts %}
+{% if post.category == include.category %}
 <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
     <h2>
       <a itemprop="url" href="{{ post.url | relative_url }}">
@@ -19,5 +20,6 @@
     </p>
     <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
 </li>
+{% endif %}
 {% endfor %}
 </ul>

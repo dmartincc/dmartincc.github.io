@@ -43,7 +43,7 @@ We also dedicated some time to build a scrapy data collection infrastructure whi
 
 ### Test
 
-Here comes the interesting part. After we launched a digital product, as Andrew Chen says, [“**Startups are cheaper to build, but more expensive to grow”](http://andrewchen.co/startups-are-cheaper-to-build-more-expensive-to-grow/)**, you cannot leave your product alone in the middle of the ocean of internet. If you do that, you are lost.
+Here comes the interesting part. After we launched a digital product, as Andrew Chen says, [“Startups are cheaper to build, but more expensive to grow”](http://andrewchen.co/startups-are-cheaper-to-build-more-expensive-to-grow/), you cannot leave your product alone in the middle of the ocean of internet. If you do that, you are lost.
 
 Therefore, you need to establish a clear set of experiments to acquire users. Our main focus was on macro optimisations, such as these ones:
 
@@ -59,7 +59,7 @@ With these research questions, we define several experiments, which ranged from 
 
 We also had several coffees with [Álvaro Vila](https://twitter.com/alvarovmz) from [Witei](https://witei.com/es/), he is one of the ones, who knows how to build and growth a Real State CRM and make it viable without any funding. He advised us on how to use digital marketing and to squeeze as much as possible our tiny budget.
 
-In terms of channels, we benchmark several channels in order to prioritise them, as Brain Balfour says on his post [**5 Steps To Choose Your Customer Acquisition Channel](https://www.coelevate.com/essays/5-steps-to-choose-your-customer-acquisition-channel). **Using** **this approach we came up with this table.
+In terms of channels, we benchmark several channels in order to prioritise them, as Brain Balfour says on his post [5 Steps To Choose Your Customer Acquisition Channel](https://www.coelevate.com/essays/5-steps-to-choose-your-customer-acquisition-channel). **Using** this approach we came up with this table.
 
 ![Channels Benchmark](https://cdn-images-1.medium.com/max/2312/1*bArVPoXiyJeRnwAVZNdQ3g.png)*Channels Benchmark*
 
@@ -112,10 +112,6 @@ So reflecting on the first product growth cycle complete, we achieve the followi
 1. Create some awareness.
 
 We are now in the process of building a brand new mobile app using all our learning from this first phase, we will start to play with viral loops and gimmicks, looking forward to show you our learnings.
-
-If you want to test [Zensei](https://zenseiapp.com) mobile app just right when is out of the oven, you just need to subscribe to this 👉 [waiting list ](https://landings.zenseiapp.com/?utm_source=invitation&utm_medium=medium&utm_campaign=growth_post). Seats are limited, be the first one to use our app and stay healthier 📱
-
-We are also looking for seed funding 💸💸💸, if you are interested on betting in a Machine Learning, InsureTech and Digital Health startup, feel free to drop us an email to [hola@zenseiapp.com](http://hola@zenseiapp.com), we have top world industry and scientific advisors, who are helping us to build a preventive health technology to avoid environment, lifestyle and social factors risks which constitute 60% of our health, and based on state of the art scientific research on digital epidemiology, behavioural economics and machine learning.
 
 We aim to help millions of people world wide to manage their health risks.
 

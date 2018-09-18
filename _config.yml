@@ -26,6 +26,8 @@ theme: minima
 twitter_username: dmartincc
 
 google_analytics: UA-45164598-3
+disqus:
+  shortname: dmartincc
 
 
 # Build settings

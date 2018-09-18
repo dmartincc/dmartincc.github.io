@@ -1,7 +1,9 @@
 ---
 layout: blog
-permalink: /blog/
-category: blog
+permalink: /oficina/
+title: Cómo me organizo el trabajo
+image: /img/photo-1519219788971-8d9797e0928e.jpeg
+category: oficina
 ---
 
 <div class="home">
@@ -10,6 +12,7 @@ category: blog
 
     <ul class="post-list">
       {% for post in site.posts %}
+        {% if post.category == 'oficina' %}
         <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <h2>
               <a itemprop="url" href="{{ post.url | relative_url }}">
@@ -26,8 +29,9 @@ category: blog
                 Leer Más
               </a>
             </p>
-            <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
+            <img class="post-cover" src="{{post.img}}" alt="">
         </li>
+        {% endif %}
       {% endfor %}
     </ul>
 

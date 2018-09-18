@@ -99,7 +99,22 @@
 .section-nav {
   background-color: #f9f9f9;
   margin: 5px 0;
-  padding: 10px 30px;
+  padding: 20px;
   border: 1px solid #E8E8E8;
   border-radius: 3px;
+}
+
+.category {
+  display: inline-block; 
+  border: 1px solid #ffffff; 
+  color: #ffffff; 
+  border-radius: 99em; 
+  padding: 6px 12px; 
+  width: auto; 
+  text-align: center;
+}
+
+.category:hover {
+  border: 1px solid #337ab7; 
+  color: #337ab7; 
 }

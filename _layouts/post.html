@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<br>
-<br>
   <header class="post-header">
     
     <p class="post-meta">
@@ -10,7 +8,7 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {% include locale-dates.html date=page.date %}
-        Actualizado el {{ day }} de {{ month }} de {{ year }}
+        ⏳ Actualizado el {{ day }} de {{ month }} de {{ year }}
       </time>
     </p>
   </header>
@@ -26,8 +24,7 @@ layout: default
     {% endif %}
     {{ content | toc_only }}
   </div>
-  {% include recommended-posts.html %}
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  {% include disqus_comments.html %}
+  {% include recommended-posts.html category=page.category %}
+ 
 </article>

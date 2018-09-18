@@ -4,8 +4,8 @@ toc: true
 title:  "The 8 points you must follow to improve your machine learning classifiers"
 date:   2018-09-10 10:00:00 +0200
 author: David
-keywords: data, machine lerning
-category: lab
+keywords: data, machine learning
+category: oficina
 image: /img/photo-1516981879613-9f5da904015f.jpeg
 description: The training procedure is a key task of the whole process of predicting values from supervised classifiers. This means that when a classifier is trained, it predicts what it has been taught, therefore, the trained dataset must met quality, consistency and reliability.
 intro: The training procedure is a key task of the whole process of predicting values from supervised classifiers. This means that when a classifier is trained, it predicts what it has been taught, therefore, the trained dataset must met quality, consistency and reliability.

@@ -1,15 +1,17 @@
 ---
 layout: blog
-permalink: /blog/
-category: blog
+permalink: /móvil/
+title: Cómo combatir la adicción al móvil
+image: /img/photo-1523809902886-b497cb430890.jpeg
+category: móvil
 ---
 
 <div class="home">
   <br>
-  <!--  { content }  -->
 
     <ul class="post-list">
       {% for post in site.posts %}
+        {% if post.category == 'móvil' %}
         <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <h2>
               <a itemprop="url" href="{{ post.url | relative_url }}">
@@ -26,11 +28,11 @@ category: blog
                 Leer Más
               </a>
             </p>
-            <!-- <img class="post-cover" src="{{post.img}}" alt=""> -->
+            <img class="post-cover" src="{{post.img}}" alt="">
         </li>
+        {% endif %}
       {% endfor %}
     </ul>
 
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
 </div>

@@ -13,7 +13,9 @@ Sueño desde pequeño con hacer algo que pueda ayudar a millones de personas.
 
 No sé si podré ayudarte en algo, porque no se de casi nada. 
 
-Pero aquí te contaré mi aprendizajes que ido teniendo a lo largo de mi vida y sobre las cosas que se algo.
+Pero tengo unas ganas locas de aportar valor.
+
+Aquí te contaré mi aprendizajes que ido teniendo a lo largo de mi vida y sobre las cosas que se algo.
 
 ¿Aquí te dejo mi principal aprendizaje hasta ahora?
 
@@ -25,17 +27,103 @@ Practicalo, seguro que te va mucho mejor.
 
 Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aportar algo en:
 
-💻 **Oficina**. Proyectos en los que trabajo e intento ganarme la vida. Data science, startups, diseño de producto y productividad.
+💻 [**Oficina**](/oficina). Proyectos en los que trabajo e intento ganarme la vida. Data science, startups, diseño de producto y productividad.
+<div>
+{% for post in site.posts | last | limit : 4 %}
+	{% if post.category == 'oficina' %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+	{% endif %}
+{% endfor %}
+</div>
 
-🔬 **Lab**. Estudio un Doctorado en Ingeniería Mátemática. Aprendo sobre datos, salud, comportamiento humano y computación social.
+🔬 [**Lab**](/lab). Estudio un Doctorado en Ingeniería Mátemática. Aprendo sobre datos, salud, comportamiento humano y computación social.
+<div>
+{% for post in site.posts | last | limit : 2 %}
+	{% if post.category == 'lab' %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+	{% endif %}
+{% endfor %}
+</div>
+
+📵 [**Móvil**](/móvil). El móvil es una gran herramienta, pero está diseñado para mantenernos enganchanos. Aquí te cuento como utilizar el móvil de forma saludable.
+<div>
+{% for post in site.posts | last | limit : 2 %}
+	{% if post.category == 'móvil' %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+	{% endif %}
+{% endfor %}
+</div>
 
 🏊‍♂️ **Piscina**. He nadado en 20 años más de 10.000km. Lo único que he conseguido ha sido marearme dando virajes.
+<div>
+{% for post in site.posts | last | limit : 2 %}
+	{% if post.category == 'piscina' %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+	{% endif %}
+{% endfor %}
+</div>
 
 🎸 **Local de ensayo**. Toco música lo-fi para oídos con telarañas. Un día soñé con ser una rock star y la novia que tenía lo jodió.
+<div>
+{% for post in site.posts | last | limit : 2 %}
+	{% if post.category == 'local de ensayo' %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+	{% endif %}
+{% endfor %}
+</div>
 
 🐐 **Granja**. Me he criado en una granja con vacas, cabras, caballos, gallinas, huerto, etc. Intento aprender de mi padre por si hay un holocausto.
+<div>
+{% for post in site.posts | last | limit : 2 %}
+	{% if post.category == 'granja' %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+	{% endif %}
+{% endfor %}
+</div>
 
 💭 **Mi mundo**. Pienso luego existo, pero de forma inconexa y de esto no sé nada de nada.
+<div>
+{% for post in site.posts | last | limit : 2 %}
+	{% if post.category == 'mi mundo' %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+	{% endif %}
+{% endfor %}
+</div>
 
 ## **Mis 30 segundos de gloria**
 
@@ -63,7 +151,7 @@ Cosa que he intentado que no han funcionado o si.
 
 ❌ **helth.ai**, 2016. Un asistente de salud via email. FALLIDO.
 
-👌 [**Politibot**](http://politibot.io), 2016. Ayudé a un robot a que cuente historias sobre política. FUNCIONANDO.
+✅ [**Politibot**](http://politibot.io), 2016. Ayudé a un robot a que cuente historias sobre política. FUNCIONANDO.
 
 ## **Mis proyectos en los que estoy trabajando**
 
@@ -71,13 +159,13 @@ Cosa que he intentado que no han funcionado o si.
 
 👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia y tiempo a ayudar millones de personas con problemas respiratorios. Deje una oferta de trabajo en NY por Zensei. WIP.
 
-👷 [**Blog personal**](https://dmartincc.com), desde Septiembre del 2018. Me he propuesto escribir semanalmente sobre algo interesante en este blog. WIP.
+👷 [**Blog personal**](/blog), desde Septiembre del 2018. Me he propuesto escribir semanalmente sobre algo interesante en este blog. WIP.
 
 ## **Mis proyectos de futuro y sueños**
 
 No tengo ni idea, pero me gustaría algún día:
 
-🎓 Terminar mi doctorado.
+🎓 Terminar mi doctorado y escribir un libro sobre él.
 
 🎸 Volver a tocar la guitarra a diario y montar un nuevo grupo.
 
@@ -90,6 +178,8 @@ No tengo ni idea, pero me gustaría algún día:
 🥗 Construir un invernadero bajo tierra.
 
 🐬 Nadar con delfines.
+
+🎨 Pintar y hacer escultura.
 
 
 

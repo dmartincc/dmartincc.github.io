@@ -3,9 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="theme-color" content="#f58888">
+  <meta name="theme-color" content="black">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}""{% endif %}">
+  <title>▷ {% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
 
   <!-- For Facebook -->
   <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}"/>
@@ -27,8 +30,8 @@
   <meta itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
   <meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url | escape }}{% else %}https://dmartincc.com/assets/zensei.png{% endif %}">
 
-  <title>{% if page.title %}{{ page.title | escape }} {% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <link rel="prefetch" href="https://dmartincc.com">
+  <link rel="prerender" href="https://dmartincc.com">
 
   <link rel="shortcut icon" href="/img/yo_emoji.png" />
   <link rel="apple-touch-icon" href="/img/yo_emoji.png"/>

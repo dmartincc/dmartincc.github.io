@@ -227,5 +227,5 @@ Mucho ánimo.
 
 <div class="section-cta">
 👉 Aquí puedes echar un vistazo a un artículo que he escrito para entender 
-<a target="_blank" href="/móvil/solucion-adiccion-al-movil">porque somos adictos al móvil</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" href="/móvil/solucion-adiccion-al-movil">el porqué somos adictos al móvil</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=zenseiapp08-21&l=ur2&o=30&camp=3638" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>

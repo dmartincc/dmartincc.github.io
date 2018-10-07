@@ -1,162 +1,58 @@
 <!doctype html>
 <html lang="es" itemscope itemtype="http://schema.org/WebSite">
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-<title>Soy un Don Nadie, que no tiene ni puta idea sobre casi nada.</title>
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "Person",
-  "url": "https://dmartincc.com",
-  "name": "David Martín-Corral",
-  "email": "hola@dmartincc.com",
-  "sameAs": [
-    "https://twitter.com/dmartincc",
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
- "@context": "http://schema.org",
- "@type": "BreadcrumbList",
- "itemListElement":
- [
-  {
-   "@type": "ListItem",
-   "position": 1,
-   "item":
-   {
-    "@id": "http://dmartincc.com/blog",
-    "name": "Mis escritos"
-    }
-  },
-  {
-   "@type": "ListItem",
-  "position": 2,
-  "item":
-   {
-     "@id": "http://dmartincc.com/móvil",
-     "name": "Cómo combatir la adicción al móvil"
-   }
-  },
-  {
-   "@type": "ListItem",
-  "position": 3,
-  "item":
-   {
-     "@id": "http://dmartincc.com/genética",
-     "name": "Aprende sobre los test géneticos de ADN"
-   }
-  }
- ]
-}
-</script>
-
-<meta name="description" content="{{ site.description | escape }}">
-<meta name="author" content="dmartincc">
-
-<!-- Mobile viewport optimization h5bp.com/ad -->
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1"> <!-- allows zoom -->
-<meta name="theme-color" content="#f58888" />
-
-<link rel="canonical" href="https://dmartincc.com">
-
-<!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
-<meta http-equiv="cleartype" content="on">
-
-<link rel="shortcut icon" href="/img/yo_emoji.png" />
-<link rel="apple-touch-icon" href="/img/yo_emoji.png"/>
-<link rel="icon" type="image/png" href="/img/yo_emoji.png"/>
-
-<link rel="stylesheet" type="text/css" href="/assets/main.css" />
-<!-- <link rel="stylesheet" href="https://grids.graaf.space/1170/12/16.css">--> <!-- Bootstrap Grid -->
-
-<!-- for Twitter -->
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{{ site.title | escape }}" />
-<meta name="twitter:description" content="{{ site.description | escape }}" />
-<meta name="twitter:image" content="https://zenseiapp.com/assets/zensei.png" />
-
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous">
-
-<style>.async-hide { opacity: 0 !important} </style>
-
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<style type="text/css">
-  #mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
-  #mergeRow-gdpr {margin-top: 20px;}
-  #mergeRow-gdpr fieldset label {font-weight: normal;}
-  #mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
-</style>
-
-{% include google-analytics.html %}
-
-</head>
-<body>
-<div class="hero-header" style="
-  background-image: url('/img/landing.jpg'); 
-  background-size: cover;
-  background-repeat:   no-repeat;
-  background-position: center center;">  
-  <br>
-  <div>
-    <a href="/"><img src="/img/yo_emoji.png" width="20"><p style="color: white; font-weight: bold">dmartincc</p></a>
-  </div>
-  <br>
-  <br>
-  <div class="container-narrow center" id="fade-in">
-    <h1 style="font-size:42px"><strong>Soy un Don Nadie, que no tiene ni p*** idea de casi nada.</strong></h1>
-    <br>
-    <h2>
-      Solo sé, que no sé nada. Escribo sobre datos, comportamiento humano, emprendimiento, negocios, natación y la vida en una granja.
-    </h2>
-    <br>
-    <br>
-    <br>
-  </div>
-</div>
-
-<br>
-<br>
-<div class="container-narrow">
-  <div class="wrapper">
-    <div class="post-content" aria-label="Content">
-      <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-        <header class="post-header">
-          <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-          <p class="post-meta">
-            Actualizado el
-            <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              {% include locale-dates.html date=page.date %}
-              {{ day }} de {{ month }} de {{ year }}
-            </time>
-          </p>
-        </header>
-        <div class="post-content" itemprop="articleBody">
-          {{ content }}
-        </div>
-      </article>
+  {% include head.html %}
+  <body>
+    <div class="hero-header" style="
+      background-image: url('/img/landing.jpg'); 
+      background-size: cover;
+      background-repeat:   no-repeat;
+      background-position: center center;">  
+      <br>
+      <div>
+        <a href="/"><img src="/img/yo_emoji.png" width="20"><p style="color: white; font-weight: bold">dmartincc</p></a>
+      </div>
+      <br>
+      <br>
+      <div class="container-narrow center" id="fade-in">
+        <h1 style="font-size:42px"><strong>Soy un Don Nadie, que no tiene ni p*** idea de casi nada.</strong></h1>
+        <br>
+        <h2>
+          Solo sé, que no sé nada. Escribo sobre datos, comportamiento humano, emprendimiento, negocios, natación y la vida en una granja.
+        </h2>
+        <br>
+        <br>
+        <br>
+      </div>
     </div>
-  </div>
-  {% include mailchimp-form.html %}
-</div>
 
-    
+    <br>
+    <br>
+    <div class="container-narrow">
+      <div class="wrapper">
+        <div class="post-content" aria-label="Content">
+          <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+            <header class="post-header">
+              <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+              <p class="post-meta">
+                ⏳ Actualizado el
+                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                  {% include locale-dates.html date=page.date %}
+                  <b>{{ day }} de {{ month }} de {{ year }}</b>
+                </time>
+              </p>
+            </header>
+            <div class="post-content" itemprop="articleBody">
+              {{ content }}
+            </div>
+          </article>
+        </div>
+      </div>
+      {% include mailchimp-form.html %}
+    </div>
 
-{% include footer.html %}
+    {% include footer.html %}
 
-</body>
+  </body>
 </html>

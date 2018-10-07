@@ -21,7 +21,7 @@ category: oficina
             </h2>
             <p>
               <!-- <span class="post-meta">Por {{ post.author }}</span> · -->
-              <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include locale-dates.html date=post.date %}{{ day }} de {{ month }} de {{ year }}</time>
+              <time class="post-meta" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{% include locale-dates.html date=post.date %}⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b></time>
             </p>
             <p itemprop="description">
               {{ post.description | escape }}

@@ -1,17 +1,18 @@
 ---
 layout: blog
-permalink: /móvil/
-title: Cómo combatir la adicción al móvil
-image: /img/photo-1523809902886-b497cb430890.jpeg
-category: móvil
+permalink: /genética/
+title: Aprende sobre los test géneticos de ADN
+image: /img/F14-10_FISH_chromosome.jpg
+category: genética
 ---
 
 <div class="home">
   <br>
+  <!--  { content }  -->
 
     <ul class="post-list">
       {% for post in site.posts %}
-        {% if post.category == 'móvil' %}
+        {% if post.category == 'genética' %}
         <li itemprop="blogPosts" itemscope itemtype="http://schema.org/BlogPosting">
             <h2>
               <a itemprop="url" href="{{ post.url | relative_url }}">
@@ -34,5 +35,6 @@ category: móvil
       {% endfor %}
     </ul>
 
+    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
 </div>

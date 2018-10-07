@@ -8,7 +8,7 @@ layout: default
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {% include locale-dates.html date=page.date %}
-        ⏳ Actualizado el {{ day }} de {{ month }} de {{ year }}
+        ⏳ Actualizado el <b>{{ day }} de {{ month }} de {{ year }}</b>
       </time>
     </p>
   </header>

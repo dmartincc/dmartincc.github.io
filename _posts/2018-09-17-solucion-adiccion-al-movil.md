@@ -188,7 +188,7 @@ Ahora veamos que consecuencias puede provocar la adicción al móvil en nuestra 
 
 Una de las primera patologías debido a un mal uso del móvil es:
 
-La [nomofobia](https://es.wikipedia.org/wiki/Nomofobia) que es el miedo irracional a salir de casa sin el teléfono móvil.
+La [nomofobia](/móvil/nomofobia-tratamiento) que es el miedo irracional a salir de casa sin el teléfono móvil.
 
 Y es la abrevación del ingles "No mobile phone phobia".
 

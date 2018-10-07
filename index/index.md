@@ -11,11 +11,11 @@ Por eso sigo aprendiendo día a día.
 
 Sueño desde pequeño con hacer algo que pueda ayudar a millones de personas.
 
-No sé si podré ayudarte en algo, porque no se de casi nada. 
+No sé si podré ayudarte en algo, porque no sé de casi nada. 
 
 Pero tengo unas ganas locas de aportar valor.
 
-Aquí te contaré mi aprendizajes que ido teniendo a lo largo de mi vida y sobre las cosas que se algo.
+Aquí te contaré mi aprendizajes que ido teniendo a lo largo de mi vida y sobre las cosas que sé algo.
 
 ¿Aquí te dejo mi principal aprendizaje hasta ahora?
 
@@ -27,7 +27,7 @@ Practicalo, seguro que te va mucho mejor.
 
 Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aportar algo en:
 
-💻 [**Oficina**](/oficina). Proyectos en los que trabajo e intento ganarme la vida. Data science, startups, diseño de producto y productividad.
+💻 [**Productividad**](/oficina). Proyectos en los que trabajo e intento ganarme la vida. Data science, startups, diseño de producto y productividad. Ganar más con menos.
 <div>
 {% for post in site.categories['oficina'] | limit : 1 %}
     <p>
@@ -54,6 +54,18 @@ Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aporta
 📵 [**Móvil**](/móvil). El móvil es una gran herramienta, pero está diseñado para mantenernos enganchanos. Aquí te cuento como utilizar el móvil de forma saludable.
 <div>
 {% for post in site.categories['móvil'] | limit : 1 %}
+    <p>
+      <b>Último artículo:</b>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+{% endfor %}
+</div>
+
+🧬 [**Genética**](/genética). De pequeño soñé con ser ingeniero genético. Me quedé en ingeniero.
+<div>
+{% for post in site.categories['genética'] | limit : 1 %}
     <p>
       <b>Último artículo:</b>
       <a itemprop="url" href="{{ post.url | relative_url }}">
@@ -147,7 +159,9 @@ Cosa que he intentado que no han funcionado o si.
 
 👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia y tiempo a ayudar millones de personas con problemas respiratorios. Deje una oferta de trabajo en NY por Zensei. WIP.
 
-👷 [**Blog personal**](/blog), desde Septiembre del 2018. Me he propuesto escribir semanalmente sobre algo interesante en este blog. WIP.
+👷 [**Blog personal**](/blog), desde Septiembre del 2018. Me he propuesto escribir semanalmente sobre algo interesante en este blog y monetizarlo en el largo plazo. WIP.
+
+👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias.
 
 ## **Mis proyectos de futuro y sueños**
 

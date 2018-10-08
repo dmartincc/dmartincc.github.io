@@ -121,4 +121,24 @@ Basicamente, que todavía la tecnología está algo verde.
 
 Pero estoy más que seguro que van a mejorar.
 
+## **¿Cuánto cuesta una prueba de adn?**
+
+El precio de una prueba genética va desde los 90€ hasta más de 2.000€.
+
+Normalmente una pruba recreativa tiene un precio entre 90€ y 300€.
+
+Y una test de adn médico puede llegar a alcanzar más un precio de más de 2.000€.
+
+Como ves el precio depende del tipo de exámen que que vayas a elegir.
+
+Ahora vamos a ver los mejores test genéticos para cada necesidad y cuanto cuestan.
+
+Bien.
+
+Te cuento ahora mismo.
+
+## ¿Cuáles son los mejores test genéticos del mercado?
+
+
+
 

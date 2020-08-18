@@ -1,145 +1,59 @@
 ---
 layout: landing
-title:  "🙋‍♂️ Hola, soy David."
+title:  "🙋‍♂️ Hola, ¿me dejas que te cuente una historia?"
 date: 2018-10-06 00:00:00 +0200
 permalink: /
 ---
 
 Un Don Nadie que no tiene __ni p*** idea de casi nada.__
 
-Por eso sigo aprendiendo día a día.
-
 Sueño desde pequeño con hacer algo que pueda ayudar a millones de personas.
 
-No sé si podré ayudarte en algo, porque no sé de casi nada. 
+Por eso, me he dedicado a estudiar y observar. Parece que no voy mal desencaminado, con tesón y paciencia estoy más cerca de conseguirlo.
 
-Pero tengo unas ganas locas de aportar valor.
+Esto me ha llevado a ser una persona que entra en flujo cuando aprende y ser polifacético.
 
-Aquí te contaré mi aprendizajes que ido teniendo a lo largo de mi vida y sobre las cosas que sé algo.
+Aquí te dejo mi principal aprendizaje hasta ahora.
 
-¿Aquí te dejo mi principal aprendizaje hasta ahora?
+__La vida va de NOSOTROS y no de YO.__
 
-__Piensa más en los demás y menos en tí.__
+Practícalo, seguro que te va mucho mejor.
 
-Practicalo, seguro que te va mucho mejor.
-
-## **¿Sobre qué sé algo?**
+## **¿Qué me gusta y sobre qué sé algo?**
 
 Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aportar algo en:
 
-💻 [**Productividad**](/oficina). Proyectos en los que trabajo e intento ganarme la vida. Data science, startups, diseño de producto y productividad. Ganar más con menos.
-<div>
-{% for post in site.categories['oficina'] | limit : 1 %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-{% endfor %}
-</div>
+🔬 **Datos y salud**. He dedicado 6 años de mi vida, mientras trabajaba, a estudiar un doctorado en computación epidemiológica, computación social y comportamiento humano. Toda mi experiencia laboral ha sido como Data Scientist.
 
-🔬 [**Lab**](/lab). Estudio un Doctorado en Ingeniería Mátemática. Aprendo sobre datos, salud, comportamiento humano y computación social.
-<div>
-{% for post in site.categories['lab'] | limit : 1 %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-{% endfor %}
-</div>
+💵 **Negocios**. De pequeño soñé con ser ingeniero genético. Me quedé en ingeniero industrial para llevar el negocio familiar. Al final monté mi propio negocio.
 
-📵 [**Móvil**](/móvil). El móvil es una gran herramienta, pero está diseñado para mantenernos enganchanos. Aquí te cuento como utilizar el móvil de forma saludable.
-<div>
-{% for post in site.categories['móvil'] | limit : 1 %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-{% endfor %}
-</div>
+🎸 **Local de ensayo**. Toco música lo-fi y psicodélica para oídos con telarañas. Un día soñé con ser una rock star y la novia que tenía lo jodió.
 
-🧬 [**Genética**](/genética). De pequeño soñé con ser ingeniero genético. Me quedé en ingeniero.
-<div>
-{% for post in site.categories['genética'] | limit : 1 %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-{% endfor %}
-</div>
+🐐 **Granja**. Me he criado y vivo en una granja con vacas, cabras, caballos, gallinas, huerto, etc. Intento aprender de mi padre por si hay un holocausto.
 
-🏊‍♂️ **Piscina**. He nadado en 20 años más de 10.000km. Lo único que he conseguido ha sido marearme dando virajes.
-<div>
-{% for post in site.categories['piscina'] | limit : 1 %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-{% endfor %}
-</div>
+🧠 **Mi mundo**. Pienso luego existo, pero de forma inconexa y de esto no sé nada de nada. Empecé la licenciatura de filosofía. Opté por ser autodidacta y leer mucho. Me obsesiona la psiconáutica y la disolución del ego.
 
-🎸 **Local de ensayo**. Toco música lo-fi para oídos con telarañas. Un día soñé con ser una rock star y la novia que tenía lo jodió.
-<div>
-{% for post in site.posts | last | limit : 2 %}
-	{% if post.category == 'local de ensayo' %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-	{% endif %}
-{% endfor %}
-</div>
+🏊‍♂️ **Piscina**. He nadado en 20 años más de 10.000km. Lo único que he conseguido ha sido marearme dando virajes y ser campeón de España master.
 
-🐐 **Granja**. Me he criado en una granja con vacas, cabras, caballos, gallinas, huerto, etc. Intento aprender de mi padre por si hay un holocausto.
-<div>
-{% for post in site.categories['granja'] | limit : 1 %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-{% endfor %}
-</div>
+🤪 **Skate**. He ofrecido algún hueso al dios del skate. O estás concentrado encima de la tabla o te la pegas. Me gusta porque me hace sentirme vivo.
 
-💭 **Mi mundo**. Pienso luego existo, pero de forma inconexa y de esto no sé nada de nada.
-<div>
-{% for post in site.categories['mi mundo'] | limit : 1 %}
-    <p>
-      <b>Último artículo:</b>
-      <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </p>
-{% endfor %}
-</div>
-
-## **Mis 30 segundos de gloria**
+## **Mi historia**
 
 Hola, ¿qué tal? Yo una vez fuí a un campamento. Otro día hice un curso de escritura con Espido Freire y me puse a escribir.
 
 Además de eso, soy un ingeniero granjero que estudió para llevar la empresa familiar. Pero no sé si algún día se materilizará.
 
-Ahora me dedico a eso de los datos y productos digitales.
+Ahora me dedico a eso de los datos, productos digitales y salud.
 
 Soy de Toledo, España. Y no de Toledo de Ohio.
 
-Vivo en Madrid. Antes he vivido en Ploiesti, Edimburgo, Glasgow, Barcelona y ahora sueño con vivir en la playa con mi chica.
+Viví en Madrid durante 9 años. Antes he vivido en Ploiesti, Edimburgo, Glasgow, Barcelona y ahora sueño con vivir en la playa.
 
 Ah! Soy y he sido profe en varias universidad y escuelas de negocio. Enseñar, enseñar,... ayudo a descubrir el mundo. 
 
 Cosas de la vida. Estuve el 10 de septiembre de 2011 en la terraza de una de las Twin Towers en NY.
+
+He sacrificado muchas cosas de la vida por conseguir mis sueños.
 
 ## **Mis proyectos pasados**
 
@@ -157,31 +71,49 @@ Cosa que he intentado que no han funcionado o si.
 
 ¿En qué estoy trabajando ahora mismo? Espero que funcionen.
 
-👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia y tiempo a ayudar millones de personas con problemas respiratorios. Deje una oferta de trabajo en NY por Zensei. WIP.
+👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia y tiempo a ayudar millones de personas con problemas respiratorios. Deje una oferta de trabajo en NY por montar Zensei. WIP.
 
-👷 [**Blog personal**](/blog), desde Septiembre del 2018. Me he propuesto escribir semanalmente sobre algo interesante en este blog y monetizarlo en el largo plazo. WIP.
+👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature.
 
-👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias.
+👷 **CÑPN**, arte y moda. Muy pronto.
 
 ## **Mis proyectos de futuro y sueños**
 
 No tengo ni idea, pero me gustaría algún día:
 
-🎓 Terminar mi doctorado y escribir un libro sobre él.
-
-🎸 Volver a tocar la guitarra a diario y montar un nuevo grupo.
-
-🥚 Vender un servicio de subscripción de huevos a domicilio.
-
-🎹 Aprender a tocar el sintentizador para hacer ruido.
-
-🏄‍♂️ Aprender a surfear y a montar el skate. 
-
 🥗 Construir un invernadero bajo tierra.
 
 🐬 Nadar con delfines.
 
-🎨 Pintar y hacer escultura.
+🎨 Volver a pintar y hacer escultura.
+
+## **Apariciones de mi trabajo en medios**
+
+ABC: [Un científico toledano y su receta para evitar rebrotes de coronavirus](https://www.abc.es/espana/castilla-la-mancha/toledo/abci-cientifico-toledano-y-receta-para-evitar-rebrotes-202008092022_noticia.html)
+
+Vozpopuli: [Los humanos y algoritmos detrás de Politibot](https://www.vozpopuli.com/economia-y-finanzas/startups/humanos-algoritmos-detras-Politibot-chatbot-startup-telegram-inteligencia-artificial_0_1096691048.html)
+
+Hipertextual: [Zensei, la evolución del bot que analiza el aire que respiras](https://hipertextual.com/2018/04/zensei-app-ambiente)
+
+## **Últimos artículos que he escrito**
+
+<div>
+{% for post in site.posts | limit: 3 %}
+    <p>
+      <a itemprop="url" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </p>
+{% endfor %}
+</div>
+
+¿Quieres ver más? [**Mira aquí**](/blog).
+
+Si quieres ponerte en contacto conmigo. Puedes escribirme [**aquí**](mailto:hola@dmartincc.com)
+
+No soy muy activo en redes, a lo mejor me encuentra en:
+
+[Twitter](https://twitter.com/Dmartincc) o [LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/)
 
 
 

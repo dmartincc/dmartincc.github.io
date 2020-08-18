@@ -15,10 +15,10 @@
       <br>
       <br>
       <div class="container-narrow center" id="fade-in">
-        <h1 style="font-size:42px"><strong>Soy un Don Nadie, que no tiene ni p*** idea de casi nada.</strong></h1>
+        <h1 style="font-size:42px"><strong>David Martín-Corral Calvo</strong></h1>
         <br>
         <h2>
-          Solo sé, que no sé nada. Escribo sobre datos, comportamiento humano, emprendimiento, negocios, natación y la vida en una granja.
+          Soy un Don Nadie, que no tiene ni p*** idea de casi nada.
         </h2>
         <br>
         <br>
@@ -33,15 +33,7 @@
         <div class="post-content" aria-label="Content">
           <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
             <header class="post-header">
-              <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-              <p class="post-meta">
-                ⏳ Actualizado el
-                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                  {% include locale-dates.html date=page.date %}
-                  <b>{{ day }} de {{ month }} de {{ year }}</b>
-                </time>
-              </p>
+              <h2 class="post-title" itemprop="name headline">{{ page.title | escape }}</h2>
             </header>
             <div class="post-content" itemprop="articleBody">
               {{ content }}
@@ -49,7 +41,6 @@
           </article>
         </div>
       </div>
-      {% include mailchimp-form.html %}
     </div>
 
     {% include footer.html %}

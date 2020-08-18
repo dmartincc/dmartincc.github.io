@@ -24,7 +24,7 @@ Practícalo, seguro que te va mucho mejor.
 
 Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aportar algo en:
 
-🔬 **Datos y salud**. He dedicado 6 años de mi vida, mientras trabajaba, a estudiar un doctorado en computación epidemiológica, computación social y comportamiento humano. Toda mi experiencia laboral ha sido como Data Scientist.
+🔬 **Datos y salud**. He dedicado 6 años de mi vida, a la vez que trabajaba, a estudiar un doctorado en computación epidemiológica, computación social y comportamiento humano. Toda mi experiencia laboral en la industria y académica ha sido como Data Scientist.
 
 💵 **Negocios**. De pequeño soñé con ser ingeniero genético. Me quedé en ingeniero industrial para llevar el negocio familiar. Al final monté mi propio negocio.
 
@@ -72,7 +72,7 @@ Cosa que he intentado que no han funcionado o si.
 
 ¿En qué estoy trabajando ahora mismo? Espero que funcionen.
 
-👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia y tiempo a ayudar millones de personas con problemas respiratorios. Deje una oferta de trabajo en NY por montar Zensei. WIP.
+👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia, tiempo y conocimientos a ayudar a millones de personas con problemas respiratorios a cuidarse. Deje una oferta de trabajo en NY por montar Zensei. WIP.
 
 👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature.
 

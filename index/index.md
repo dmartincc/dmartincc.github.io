@@ -44,7 +44,7 @@ Hola, ¿qué tal? Yo una vez fuí a un campamento. Otro día hice un curso de es
 
 Además de eso, soy un ingeniero granjero que estudió para llevar la empresa familiar. Pero no sé si algún día se materilizará.
 
-Ahora me dedico a eso de los datos, productos digitales y salud.
+Ahora me dedico a eso de los datos, productos digitales y salud. Básicamente, un [científico de datos](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) de esos que saben de todo un poco y de nada.
 
 Soy de Toledo, España. Y no de Toledo de Ohio.
 

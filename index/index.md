@@ -6,13 +6,13 @@ date: 2018-10-06 00:00:00 +0200
 permalink: /
 ---
 
-Un Don Nadie que no tiene __ni p*** idea de casi nada.__
+Lo primero, soy un Don Nadie que no tiene __ni p*** idea de casi nada__ y obsesionado con la disolución del ego.
 
-Sueño desde pequeño con hacer algo que pueda ayudar a millones de personas.
+Sueño desde pequeño con hacer algo que pueda ayudar a vivir mejor a millones de personas. Ese es el mi baremo del éxito.
 
 Por eso, me he dedicado a estudiar y observar. Parece que no voy mal desencaminado, con tesón y paciencia estoy más cerca de conseguirlo.
 
-Esto me ha llevado a ser una persona que entra en flujo cuando aprende y ser polifacético.
+Esto me ha llevado a ser una persona que entra en flujo cuando aprende y a ser polifacético.
 
 Aquí te dejo mi principal aprendizaje hasta ahora.
 

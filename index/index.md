@@ -1,7 +1,7 @@
 ---
 layout: landing
 title:  "David Martín-Corral Calvo"
-stitle:  "🙋‍♂️ Hola, ¿me dejas que te cuente una historia?"
+subtitle:  "🙋‍♂️ Hola, ¿me dejas que te cuente una historia?"
 date: 2018-10-06 00:00:00 +0200
 permalink: /
 ---

@@ -111,4 +111,6 @@ Seguiré trabajando para cumplir mi sueño.
 
 Esto me lo digo para ti y para mi. Recuerda, disfruta del viaje, identifica tus debilidades y miedos, enfréntate a ellos mediante el juego e intenta aprender lo máximo posible.
 
-Yo mientras tanto seguiré haciendo teletrabajo desde mi granja, que esto va para largo. (Lo sé soy un privilegiado, pero todo tiene su lado negativo, no es oro todo lo que reluce).   
+Yo mientras tanto seguiré haciendo teletrabajo desde mi granja, que esto va para largo. (Lo sé soy un privilegiado, pero todo tiene su lado negativo, no es oro todo lo que reluce).  
+
+P.D.- Siempre que tengo una buena noticia en mi vida, tengo otra para compensarla. El día que deje mi trabajo en Sanitas para montar Zensei, me dijerón que me subián el precio del alquiler 200€ y cuando finalmente salió publicado el artículo en Nature, me dijeron que tenía una avería en el coche de 2.500€. Sé que son monetarias, pero me ayudan a tener los pies en la tierra. ¿Casualidades?

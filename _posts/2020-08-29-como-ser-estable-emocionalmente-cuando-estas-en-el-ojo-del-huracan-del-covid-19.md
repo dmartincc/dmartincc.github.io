@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Cómo ser estable emocionalmente cuando estás en el ojo del huracán del COVID-19
 date: 2020-08-29 22:00:00 +0000
 author: David

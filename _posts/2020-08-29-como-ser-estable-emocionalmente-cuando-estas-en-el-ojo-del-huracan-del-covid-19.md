@@ -9,6 +9,7 @@ image: "/uploads/the_triumph_of_death_by_pieter_bruegel_the_elder.jpg"
 description: Mi visión sobre como mantener la estabilidad emocional cuando estás en
   el ojo del huracán de la COVID-19
 comments: true
+
 ---
 Mira. Si me das permiso, quería contarte una historia personal, que a lo mejor tú también has vivido o no. No lo sé.
 
@@ -86,7 +87,9 @@ Por una parte, habíamos conseguido inversión en la empresa para montar el equi
 
 Por otra parte, venía estudiando un doctorado en epidemiología computacional, me iba a encerrar hubiera habido epidemia o no, ya que tenía que escribir la tesis para entregarla, pero claro, aparece un virus y sabía que algo podía aportar, tenía la responsabilidad moral de ayudar. Así que durante la semana del 14 de Marzo hice las llamadas pertinentes para ofrecerme como recurso. Yo digo que me presenté a filas, estaba buscando un general que me dirigiera.
 
-Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo, un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados. Aquí te dejo el link al artículo, por si te interesa. [Estrategias para minimizar la segunda ola del COVID.]()
+Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo ha sido un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados. Pero no es normal publicar el primer artículo en una revista como Nature, lo he tenido que procesar mentalmente. 
+
+Aquí te dejo el link al artículo, por si te interesa. [Estrategias para minimizar la segunda ola del COVID.]()
 
 Lo que quiero decir, es que la suerte te tiene que encontrar trabajando. Nada cae del cielo. Lo que también es verdad es que anímicamente después de tal esfuerzo, te quedas tocado, pero te hace crecer como persona.
 
@@ -94,7 +97,7 @@ Como te decía, todavía no puedo decir que casi he cumplido mis sueños cuando 
 
 Así que puedo decir que estoy apunto de terminar mi doctorado, a final de año tengo que haber leído mi tesis, se titula: Modelos de epidemiología computacional sobre redes sociales. Parece que está de moda.
 
-Y durante los próximos meses en Zensei tenemos que aprovechar la próxima ola de la epidemia de la COVID para hacer viable nuestra clínica virtual respiratoria. Mi pensamiento positivo es: “¿Qué startup tiene un experto en sistemas complejos, dinámicas virales y comportamiento humano para hacer un lanzamiento?”. Uy, si parece que soy yo el que sabe de esas cosas. 
+Y durante los próximos meses en Zensei tenemos que aprovechar la próxima ola de la epidemia de la COVID para hacer viable nuestra clínica virtual respiratoria. Mi pensamiento positivo es: “¿Qué startup tiene un experto en sistemas complejos, dinámicas virales y comportamiento humano para hacer un lanzamiento?”. Uy, si parece que soy yo el que sabe de esas cosas.
 
 Hay que pasar de la teoría a la práctica. Hemos hecho unos pocos experimentos y han salido según lo esperado.
 

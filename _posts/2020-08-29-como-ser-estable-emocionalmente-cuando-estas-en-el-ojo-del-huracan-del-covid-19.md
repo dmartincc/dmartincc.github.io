@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo ser estable emocionalmente cuando estás en el ojo del huracán del COVID-19
-date: 2020-08-10 22:00:00 +0000
+date: 2020-08-10T22:00:00.000+00:00
 author: David
 keywords: covid
 category: virus
@@ -30,11 +30,11 @@ Bien.
 
 Si me das 5 minutos te cuento a qué me dedico, cómo podemos ayudar, cómo he llegado a donde he llegado y cómo lidio con el estrés emocional de montar una empresa a la vez que termino mi doctorado.
 
-En Abril del 2017, con mi amigo y socio, Cherni, fundamos Zensei, desde sus inicios sabíamos que íbamos a trabajar en salud preventiva. Los dos teníamos experiencia en el sector tecnológico y de salud. Cherni, fue el CTO de doctor24, primera plataforma de videoconsulta médica de España, y yo, venía de trabajar en Sanitas y de ayudar a montar el departamento de Data & Analytics. Antes habíamos trabajado juntos en una startup de turismo, donde yo empecé en Octubre del 2014 mi doctorado en epidemiología computacional, a la vez que trabajaba.
+En Abril del 2017, con mi amigo y socio, Cherni, fundamos [Zensei](https://zenseiapp.com/), desde sus inicios sabíamos que íbamos a trabajar en salud preventiva. Los dos teníamos experiencia en el sector tecnológico y de salud. Cherni, fue el CTO de doctor24, primera plataforma de videoconsulta médica de España, y yo, venía de trabajar en Sanitas y de ayudar a montar el departamento de Data & Analytics. Antes habíamos trabajado juntos en una startup de turismo, donde yo empecé en Octubre del 2014 mi doctorado en epidemiología computacional, a la vez que trabajaba.
 
 Conocíamos el sector, sabíamos ejecutar y teníamos conocimientos de los últimos avances en el estado del arte de los datos y la modelización epidemiológica, si alguien podía hacerlo, esos éramos nosotros. Durante 3 años hasta Abril del 2020, fuimos cucarachas, agarrados con el dinero hasta niveles insospechados. Esa actitud nos permitió lanzar pilotos y testear el mercado. Al año de llevar trabajando en temas de salud preventiva, gracias a nuestros pilotos y metodología de investigación, identificamos un nicho con mucho potencial, gran volumen de mercado y poca saturación. El mercado de la salud respiratoria.
 
-**_Consejo:_** _El problema que resuelves como emprendedor tiene que encontrarte a ti y no al revés. Tiene que ser fruto de tu proceso exploratorio. Para ello es necesario lanzar soluciones al mercado para testear tus hipótesis y hacer muchas entrevistas con usuarios y clientes. En nuestro caso, si en 3 años no nos hemos sentamos con más de 500 personas, no nos hemos sentado con nadie._
+**_Consejo I:_** _El problema que resuelves como emprendedor tiene que encontrarte a ti y no al revés. Tiene que ser fruto de tu proceso exploratorio. Para ello es necesario lanzar soluciones al mercado para testear tus hipótesis y hacer muchas entrevistas con usuarios y clientes. En nuestro caso, si en 3 años no nos hemos sentamos con más de 500 personas, no nos hemos sentado con nadie._
 
 Esto nos hace una de las empresas tecnológicas con mayor experiencia y conocimientos en salud preventiva, salud respiratoria, datos, epidemiología y producto digital. Nos gusta decir que somos expertos en la psicología y comportamiento del paciente respiratorio.
 
@@ -50,9 +50,9 @@ Salud respiratoria, datos, epidemiología y productos digitales. Parece que tene
 
 Por eso, muy pronto vamos a lanzar al mercado, nuestra clínica virtual respiratoria basada en datos que ofrecer un servicio preventivo asistencial a pacientes respiratorios. Este servicio asistencial de salud respiratoria responderá las siguientes preguntas de nuestros usuarios:
 
-1. ¿Cuáles son los desencadenantes de mis síntomas respiratorios? ¿Son los pólenes, la polución, los virus respiratorios, el clima, la falta de adherencia al medicamento o el estrés? Estas preguntas las respondemos con modelos epidemiológicos personalizados explicativos para cada paciente. Lo que se llama medicina personalizada.
-2. ¿Tendré síntomas mañana? Es decir, según la situación de mi entorno y mis hábitos cuál es la probabilidad de desarrollar síntomas respiratorios. En este caso utilizamos modelos predictivos de machine learning y de epidemiología poblacional para poder calcular dicha probabilidad. Y así poder alertar a nuestros usuarios con consejos accionables para modificar sus comportamientos diarios.
-3. ¿Cómo puedo ayudar a mi médico a tomar mejores decisiones de diagnóstico y tratamiento? Hemos diseñado una anamnesis digital para pacientes respiratorios que mejora la relación médico paciente. Permitiendo una comunicación mucho más empática y centrada en dar soluciones.
+1. **¿Cuáles son los desencadenantes de mis síntomas respiratorios?** ¿Son los pólenes, la polución, los virus respiratorios, el clima, la falta de adherencia al medicamento o el estrés? Estas preguntas las respondemos con modelos epidemiológicos personalizados explicativos para cada paciente. Lo que se llama medicina personalizada.
+2. **¿Tendré síntomas mañana?** Es decir, según la situación de mi entorno y mis hábitos cuál es la probabilidad de desarrollar síntomas respiratorios. En este caso utilizamos modelos predictivos de machine learning y de epidemiología poblacional para poder calcular dicha probabilidad. Y así poder alertar a nuestros usuarios con consejos accionables para modificar sus comportamientos diarios.
+3. **¿Cómo puedo ayudar a mi médico a tomar mejores decisiones de diagnóstico y tratamiento?** Hemos diseñado una anamnesis digital para pacientes respiratorios que mejora la relación médico paciente. Permitiendo una comunicación mucho más empática y centrada en dar soluciones.
 
 La identificación de estas necesidades del paciente es el fruto de mucha investigación de usuario, básicamente, escuchar a muchas personas y sus problemas.
 
@@ -66,15 +66,15 @@ Si montar una empresa emocionalmente es una montaña rusa, hacerlo a la vez que 
 
 Por suerte, soy una persona bastante estable emocionalmente y creo que con la cabeza bastante estructurada. Pero el problema, es que en un doctorado y en montar una empresa existe un componente de soledad y sacrificio muy grande. No vas a tener a nadie dándote palmaditas en la espalda diciéndote lo bien que lo estás haciendo. Todo lo contrario.
 
-Uno de los grandes problemas que he visto en el entorno emprendedor son personas que les cambia su estado de ánimo y entran en depresión. La presión es muchísima. En mi caso el doble. En la mayoría de los casos la presión es autoimpuesta.
+Uno de los grandes problemas que he visto en el entorno emprendedor son personas que les cambia su estado de ánimo y entran en depresión. La presión es muchísima. En mi caso el doble. En la mayoría de los casos la presión es auto impuesta.
 
 Y más cuando la gente que más te importa no cree en lo que haces. Se pregunta, ¿por qué no trabajas? ¿Con el buen sueldo que tenías antes? etc… No ayuda.
 
-**_Consejo I:_** _Psicología positiva. Los pensamientos condicionan nuestras emociones y no al revés. El cerebro es plástico y podemos condicionar nuestras emociones mediante pensamientos positivos. Quien te recrimine que vives en un mundo de flower power por lo positivo que eres, lo siento, es un pesimista. Si no me animo yo, no lo hará nadie._
+**_Consejo II:_** _Psicología positiva. Los pensamientos condicionan nuestras emociones y no al revés. El cerebro es plástico y podemos condicionar nuestras emociones mediante pensamientos positivos. Quien te recrimine que vives en un mundo de flower power por lo positivo que eres, lo siento, es un pesimista. Si no me animo yo, no lo hará nadie._
 
-**_Consejo II:_** _Haz deporte. Yo nado de siempre, hago ejercicios funcionales y patino el skate. Me encanta montarme en el skate, si no estás concentrado, te la pegas. Ya me he roto algún hueso por ir pensando en otras cosas y no poner foco._
+**_Consejo III:_** _Haz deporte. Yo nado de siempre, hago ejercicios funcionales y patino el skate. Me encanta montarme en el skate, si no estás concentrado, te la pegas. Ya me he roto algún hueso por ir pensando en otras cosas y no poner foco._
 
-**_Consejo III:_** _Ten aficiones. Yo hago música para desconectar y ayudo lo que puedo en la granja familiar. Desconecta._
+**_Consejo IV:_** _Ten aficiones. Yo hago música para desconectar y ayudo lo que puedo en la granja familiar. Desconecta._
 
 Para terminar quería contarte como ha sido mi confinamiento. Lo bueno es que mentalmente estaba preparado, sabía desde un principio que íbamos a estar encerrados entorno a unos 60 días. Es lo que tiene haber estado estudiando durante los últimos 6 años todo tipo de epidemias virales.
 
@@ -86,7 +86,7 @@ Por una parte, habíamos conseguido inversión en la empresa para montar el equi
 
 Por otra parte, venía estudiando un doctorado en epidemiología computacional, me iba a encerrar hubiera habido epidemia o no, ya que tenía que escribir la tesis para entregarla, pero claro, aparece un virus y sabía que algo podía aportar, tenía la responsabilidad moral de ayudar. Así que durante la semana del 14 de Marzo hice las llamadas pertinentes para ofrecerme como recurso. Yo digo que me presenté a filas, estaba buscando un general que me dirigiera.
 
-Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo, un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados.
+Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo, un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados. Aquí te dejo el link al artículo, por si te interesa. [Estrategias para minimizar la segunda ola del COVID.]()
 
 Lo que quiero decir, es que la suerte te tiene que encontrar trabajando. Nada cae del cielo. Lo que también es verdad es que anímicamente después de tal esfuerzo, te quedas tocado, pero te hace crecer como persona.
 
@@ -94,7 +94,13 @@ Como te decía, todavía no puedo decir que casi he cumplido mis sueños cuando 
 
 Así que puedo decir que estoy apunto de terminar mi doctorado, a final de año tengo que haber leído mi tesis, se titula: Modelos de epidemiología computacional sobre redes sociales. Parece que está de moda.
 
-Y durante los próximos meses en Zensei tenemos que aprovechar la próxima ola de la epidemia de la COVID para hacer viable nuestra clínica virtual respiratoria. Mi pensamiento positivo es: “¿Qué startup tiene un experto en sistemas complejos, dinámicas virales y comportamiento humano para hacer un lanzamiento?”. Uy, si parece que soy yo el que sabe de esas cosas.
+Y durante los próximos meses en Zensei tenemos que aprovechar la próxima ola de la epidemia de la COVID para hacer viable nuestra clínica virtual respiratoria. Mi pensamiento positivo es: “¿Qué startup tiene un experto en sistemas complejos, dinámicas virales y comportamiento humano para hacer un lanzamiento?”. Uy, si parece que soy yo el que sabe de esas cosas. 
+
+Hay que pasar de la teoría a la práctica. Hemos hecho unos pocos experimentos y han salido según lo esperado.
+
+Consejo V: Satura primero los nodos pequeños para luego ir a los super nodos. Y asegúrate que tu mensaje se céntrate en eventos y emociones.
+
+Bien.
 
 Mi vida es incertidumbre, trabajo para minimizarla y sentirme cómodo con ella. La verdad, no sé dónde llegaré, no busco la fama, no busco el dinero, solo saber que he hecho algo por mucha gente y que realmente los he ayudado. Y tengo la suerte y fortuna de haberme rodeado de un equipo espectacular en Zensei, de tener un director de tesis que ha creído en mí y amigos que me ponen los pies en la tierra.
 

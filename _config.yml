@@ -18,7 +18,7 @@ description: Científico de datos, Ingeniero, Científico y Empresario libre pen
 baseurl: "" 
 url: "https://dmartincc.com"
 
-permalink: /:categories/:title/
+permalink: /:title/
 
 # Theme settings
 theme: minima

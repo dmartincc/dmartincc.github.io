@@ -34,7 +34,7 @@ En Abril del 2017, con mi amigo y socio, Cherni, fundamos Zensei, desde sus inic
 
 Conocíamos el sector, sabíamos ejecutar y teníamos conocimientos de los últimos avances en el estado del arte de los datos y la modelización epidemiológica, si alguien podía hacerlo, esos éramos nosotros. Durante 3 años hasta Abril del 2020, fuimos cucarachas, agarrados con el dinero hasta niveles insospechados. Esa actitud nos permitió lanzar pilotos y testear el mercado. Al año de llevar trabajando en temas de salud preventiva, gracias a nuestros pilotos y metodología de investigación, identificamos un nicho con mucho potencial, gran volumen de mercado y poca saturación. El mercado de la salud respiratoria.
 
-Consejo: El problema que resuelves como emprendedor tiene que encontrarte a ti y no al revés. Tiene que ser fruto de tu proceso exploratorio. Para ello es necesario lanzar soluciones al mercado para testear tus hipótesis y hacer muchas entrevistas con usuarios y clientes. En nuestro caso, si en 3 años no nos hemos sentamos con más de 500 personas, no nos hemos sentado con nadie.
+**_Consejo:_** _El problema que resuelves como emprendedor tiene que encontrarte a ti y no al revés. Tiene que ser fruto de tu proceso exploratorio. Para ello es necesario lanzar soluciones al mercado para testear tus hipótesis y hacer muchas entrevistas con usuarios y clientes. En nuestro caso, si en 3 años no nos hemos sentamos con más de 500 personas, no nos hemos sentado con nadie._
 
 Esto nos hace una de las empresas tecnológicas con mayor experiencia y conocimientos en salud preventiva, salud respiratoria, datos, epidemiología y producto digital. Nos gusta decir que somos expertos en la psicología y comportamiento del paciente respiratorio.
 
@@ -70,11 +70,11 @@ Uno de los grandes problemas que he visto en el entorno emprendedor son personas
 
 Y más cuando la gente que más te importa no cree en lo que haces. Se pregunta, ¿por qué no trabajas? ¿Con el buen sueldo que tenías antes? etc… No ayuda.
 
-Consejo I: Psicología positiva. Los pensamientos condicionan nuestras emociones y no al revés. El cerebro es plástico y podemos condicionar nuestras emociones mediante pensamientos positivos. Quien te recrimine que vives en un mundo de flower power por lo positivo que eres, lo siento, es un pesimista. Si no me animo yo, no lo hará nadie.
+**_Consejo I:_** _Psicología positiva. Los pensamientos condicionan nuestras emociones y no al revés. El cerebro es plástico y podemos condicionar nuestras emociones mediante pensamientos positivos. Quien te recrimine que vives en un mundo de flower power por lo positivo que eres, lo siento, es un pesimista. Si no me animo yo, no lo hará nadie._
 
-Consejo II: Haz deporte. Yo nado de siempre, hago ejercicios funcionales y patino el skate. Me encanta montarme en el skate, si no estás concentrado, te la pegas. Ya me he roto algún hueso por ir pensando en otras cosas y no poner foco.
+**_Consejo II:_** _Haz deporte. Yo nado de siempre, hago ejercicios funcionales y patino el skate. Me encanta montarme en el skate, si no estás concentrado, te la pegas. Ya me he roto algún hueso por ir pensando en otras cosas y no poner foco._
 
-Consejo III: Ten aficiones. Yo hago música para desconectar y ayudo lo que puedo en la granja familiar. Desconecta.
+**_Consejo III:_** _Ten aficiones. Yo hago música para desconectar y ayudo lo que puedo en la granja familiar. Desconecta._
 
 Para terminar quería contarte como ha sido mi confinamiento. Lo bueno es que mentalmente estaba preparado, sabía desde un principio que íbamos a estar encerrados entorno a unos 60 días. Es lo que tiene haber estado estudiando durante los últimos 6 años todo tipo de epidemias virales.
 
@@ -86,7 +86,7 @@ Por una parte, habíamos conseguido inversión en la empresa para montar el equi
 
 Por otra parte, venía estudiando un doctorado en epidemiología computacional, me iba a encerrar hubiera habido epidemia o no, ya que tenía que escribir la tesis para entregarla, pero claro, aparece un virus y sabía que algo podía aportar, tenía la responsabilidad moral de ayudar. Así que durante la semana del 14 de Marzo hice las llamadas pertinentes para ofrecerme como recurso. Yo digo que me presenté a filas, estaba buscando un general que me dirigiera.
 
-Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo, un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados.
+Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo, un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados.
 
 Lo que quiero decir, es que la suerte te tiene que encontrar trabajando. Nada cae del cielo. Lo que también es verdad es que anímicamente después de tal esfuerzo, te quedas tocado, pero te hace crecer como persona.
 

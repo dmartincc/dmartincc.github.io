@@ -8,7 +8,7 @@ category: virus
 image: "/uploads/the_triumph_of_death_by_pieter_bruegel_the_elder.jpg"
 description: Mi visión sobre como mantener la estabilidad emocional cuando estás en
   el ojo del huracán de la COVID-19
-
+comments: true
 ---
 Mira. Si me das permiso, quería contarte una historia personal, que a lo mejor tú también has vivido o no. No lo sé.
 
@@ -104,4 +104,6 @@ Bien.
 
 Mi vida es incertidumbre, trabajo para minimizarla y sentirme cómodo con ella. La verdad, no sé dónde llegaré, no busco la fama, no busco el dinero, solo saber que he hecho algo por mucha gente y que realmente los he ayudado. Y tengo la suerte y fortuna de haberme rodeado de un equipo espectacular en Zensei, de tener un director de tesis que ha creído en mí y amigos que me ponen los pies en la tierra.
 
-Seguiré trabajando para cumplir mi sueño, pero recuerda, disfruta del viaje, identifica tus debilidades y miedos, enfréntate a ellos mediante el juego e intenta aprender lo máximo posible.
+Seguiré trabajando para cumplir mi sueño.
+
+Esto me lo digo para ti y para mi. Recuerda, disfruta del viaje, identifica tus debilidades y miedos, enfréntate a ellos mediante el juego e intenta aprender lo máximo posible.

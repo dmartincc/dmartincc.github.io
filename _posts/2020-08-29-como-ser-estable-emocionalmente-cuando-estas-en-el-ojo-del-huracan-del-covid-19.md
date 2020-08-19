@@ -5,7 +5,7 @@ date: 2020-08-29 22:00:00 +0000
 author: David
 keywords: covid
 category: virus
-image: ''
+image: "/uploads/the_triumph_of_death_by_pieter_bruegel_the_elder.jpg"
 description: Mi visión sobre como mantener la estabilidad emocional cuando estás en
   el ojo del huracán de la COVID-19
 

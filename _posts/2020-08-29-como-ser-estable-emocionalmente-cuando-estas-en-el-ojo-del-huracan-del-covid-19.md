@@ -11,7 +11,9 @@ description: Mi visión sobre como mantener la estabilidad emocional cuando est�
 comments: true
 
 ---
-Mira. Si me das permiso, quería contarte una historia personal, que a lo mejor tú también has vivido o no. No lo sé.
+Voy a contarte una historia personal y unos pocos consejos que utilizo para mantenerme estable emocionalmente. 
+
+Empezamos.
 
 Como todo niño pequeño, yo soñaba. Seguro que tú también soñabas, por ejemplo en ser astronauta, bombero, futbolista, cantante, etc… Pero en mi caso, yo soñaba con ser científico, ingeniero genético, escritor, … no sé, en algo que me permitiera ayudar a millones de personas y dejar un legado, que de verdad tuviera un impacto.
 
@@ -87,7 +89,7 @@ Por una parte, habíamos conseguido inversión en la empresa para montar el equi
 
 Por otra parte, venía estudiando un doctorado en epidemiología computacional, me iba a encerrar hubiera habido epidemia o no, ya que tenía que escribir la tesis para entregarla, pero claro, aparece un virus y sabía que algo podía aportar, tenía la responsabilidad moral de ayudar. Así que durante la semana del 14 de Marzo hice las llamadas pertinentes para ofrecerme como recurso. Yo digo que me presenté a filas, estaba buscando un general que me dirigiera.
 
-Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo ha sido un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados. Pero no es normal publicar el primer artículo en una revista como Nature, lo he tenido que procesar mentalmente. 
+Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo ha sido un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados. Pero no es normal publicar el primer artículo en una revista como Nature, lo he tenido que procesar mentalmente.
 
 Aquí te dejo el link al artículo, por si te interesa. [Estrategias para minimizar la segunda ola del COVID.]()
 
@@ -111,6 +113,6 @@ Seguiré trabajando para cumplir mi sueño.
 
 Esto me lo digo para ti y para mi. Recuerda, disfruta del viaje, identifica tus debilidades y miedos, enfréntate a ellos mediante el juego e intenta aprender lo máximo posible.
 
-Yo mientras tanto seguiré haciendo teletrabajo desde mi granja, que esto va para largo. (Lo sé soy un privilegiado, pero todo tiene su lado negativo, no es oro todo lo que reluce).  
+Yo mientras tanto seguiré haciendo teletrabajo desde mi granja, que esto va para largo. (Lo sé soy un privilegiado, pero todo tiene su lado negativo, no es oro todo lo que reluce).
 
 P.D.- Siempre que tengo una buena noticia en mi vida, tengo otra para compensarla. El día que deje mi trabajo en Sanitas para montar Zensei, me dijerón que me subián el precio del alquiler 200€ y cuando finalmente salió publicado el artículo en Nature, me dijeron que tenía una avería en el coche de 2.500€. Sé que son monetarias, pero me ayudan a tener los pies en la tierra. ¿Casualidades?

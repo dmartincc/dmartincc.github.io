@@ -110,3 +110,5 @@ Mi vida es incertidumbre, trabajo para minimizarla y sentirme cómodo con ella. 
 Seguiré trabajando para cumplir mi sueño.
 
 Esto me lo digo para ti y para mi. Recuerda, disfruta del viaje, identifica tus debilidades y miedos, enfréntate a ellos mediante el juego e intenta aprender lo máximo posible.
+
+Yo mientras tanto seguiré haciendo teletrabajo desde mi granja, que esto va para largo. (Lo sé soy un privilegiado, pero todo tiene su lado negativo, no es oro todo lo que reluce).   

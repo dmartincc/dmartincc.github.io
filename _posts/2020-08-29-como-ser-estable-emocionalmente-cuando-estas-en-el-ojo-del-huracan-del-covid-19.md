@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo ser estable emocionalmente cuando estás en el ojo del huracán del COVID-19
-date: 2020-08-10 22:00:00 +0000
+date: 2020-08-10T22:00:00.000+00:00
 author: David
 keywords: covid
 category: virus
@@ -86,7 +86,7 @@ Por una parte, habíamos conseguido inversión en la empresa para montar el equi
 
 Por otra parte, venía estudiando un doctorado en epidemiología computacional, me iba a encerrar hubiera habido epidemia o no, ya que tenía que escribir la tesis para entregarla, pero claro, aparece un virus y sabía que algo podía aportar, tenía la responsabilidad moral de ayudar. Así que durante la semana del 14 de Marzo hice las llamadas pertinentes para ofrecerme como recurso. Yo digo que me presenté a filas, estaba buscando un general que me dirigiera.
 
-Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo, un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados.
+Así que pasé 60 días de trabajo, de 9 a 5 de la tarde trabajando para Zensei (decidimos permanecer en perfil bajo a la espera de la segunda ola) y de 6 de la tarde hasta altas horas de la madrugada trabajando con el equipo científico en el que estaba. El resultado de este esfuerzo, un aprendizaje impagable y mi primer artículo como coautor publicado en Nature. Como se lo explico a la gente, hubo un pistoletazo en una carrera y nosotros veníamos entrenados. Aquí te dejo el link al artículo, por si te interesa. [Estrategias para minimizar la segunda ola del COVID.]()
 
 Lo que quiero decir, es que la suerte te tiene que encontrar trabajando. Nada cae del cielo. Lo que también es verdad es que anímicamente después de tal esfuerzo, te quedas tocado, pero te hace crecer como persona.
 

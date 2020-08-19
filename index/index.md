@@ -20,6 +20,8 @@ __La vida va de NOSOTROS y no de YO.__
 
 Practícalo, seguro que te va mucho mejor.
 
+<br>
+
 ## **¿Qué me gusta y sobre qué sé algo?**
 
 Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aportar algo en:
@@ -37,6 +39,8 @@ Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aporta
 🏊‍♂️ **Piscina**. He nadado en 20 años más de 10.000km. Lo único que he conseguido ha sido marearme dando virajes y ser campeón de España master.
 
 🤪 **Skate**. He ofrecido algún hueso al dios del skate. O estás concentrado encima de la tabla o te la pegas. Me gusta porque me hace sentirme vivo.
+
+<br>
 
 ## **Mi historia**
 
@@ -56,6 +60,8 @@ Cosas de la vida. Estuve el 10 de septiembre de 2011 en la terraza de una de las
 
 He sacrificado muchas cosas de la vida por conseguir mis sueños.
 
+<br>
+
 ## **Mis proyectos pasados**
 
 Cosa que he intentado que no han funcionado o si.
@@ -68,6 +74,8 @@ Cosa que he intentado que no han funcionado o si.
 
 ✅ [**Politibot**](http://politibot.io), 2016. Ayudé a un robot a que cuente historias sobre política. FUNCIONANDO.
 
+<br>
+
 ## **Mis proyectos en los que estoy trabajando**
 
 ¿En qué estoy trabajando ahora mismo? Espero que funcionen.
@@ -77,6 +85,8 @@ Cosa que he intentado que no han funcionado o si.
 👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature.
 
 👷 **CÑPN**, arte y moda. Muy pronto.
+
+<br>
 
 ## **Mis proyectos de futuro y sueños**
 
@@ -88,6 +98,8 @@ No tengo ni idea, pero me gustaría algún día:
 
 🎨 Volver a pintar y hacer escultura.
 
+<br>
+
 ## **Apariciones de mi trabajo en medios**
 
 ABC: [Un científico toledano y su receta para evitar rebrotes de coronavirus](https://www.abc.es/espana/castilla-la-mancha/toledo/abci-cientifico-toledano-y-receta-para-evitar-rebrotes-202008092022_noticia.html)
@@ -96,13 +108,15 @@ Vozpopuli: [Los humanos y algoritmos detrás de Politibot](https://www.vozpopuli
 
 Hipertextual: [Zensei, la evolución del bot que analiza el aire que respiras](https://hipertextual.com/2018/04/zensei-app-ambiente)
 
+<br>
+
 ## **Últimos artículos que he escrito**
 
 <div>
 {% for post in site.posts | limit: 3 %}
     <p>
       <a itemprop="url" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
+       {{ post.title | escape }}
       </a>
     </p>
 {% endfor %}

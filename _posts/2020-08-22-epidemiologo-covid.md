@@ -25,6 +25,10 @@ Desde las primeras noticias que tuve de su existencia, empecé a monitorizar dia
 
 A principios de Marzo, el virus nos acechaba y el contagio comunitario estaba ya presente. Después de estudiar durante casi 6 años un doctorado en epidemiología y sociología computacional y comportamiento humano, algo sé del tema, podía aportar y tenía la responsabilidad moral de ayudar. Teníamos señales que nos confirmaban lo que podía pasar y lo que se nos venía encima.
 
+Azul, curva oficial de la gripe para la campaña de 2019-2020, rojo, búsquedas en google sobre la gripe, podemos ver perfectamente el cambio de comportamiento, la curva debería haber seguido una dinámica parecida a la de la gripe ofocial. Amarillo, [predicción del modelo de la gripe que tenemos en Zensei. ](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
+
+![](/uploads/screen-shot-2020-08-20-at-12-50-55.png)
+
 #### **Última semana de Febrero y primera semana Marzo**
 
 A mi madre ya la venía avisando, que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (Me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra.
@@ -76,6 +80,12 @@ Empiezo a trabajar con Alberto, no nos conocíamos. Él en Zaragoza y yo desde T
 Empezamos a preparar el modelo, los datos y las estrategias de salida para ver cómo podemos volver a reconectar todo. Durante cuánto tiempo, qué medidas de distanciamiento social. Cuando todo estaba empezando, nosotros ya estábamos pensando a 3 o 4 meses vista.
 
 Empiezan los días de locura trabajando, haciendo horario español y estadounidense, pocas horas de sueño.
+
+**16 de Marzo. Lunes.**
+
+Trabajando desde mi habitación en la granja.
+
+![](https://lh3.googleusercontent.com/40yZbMtSrc_LaSMmNb1V9_qSS81nws2E_JrM9duBu-hEhcQI_lOduNgInrR4RPdzSEzkU02r9Qz9maZ7aiGrCMhTOkr7ON7EcRVA_QEgFPrOVQWpjSgdelmlWVO2_p-9RawpWoNTTYJ2-3BXUIxPKt_2kLnEDY_a5_MxBxh3iH1RmBEVDYNzdfrW0GTLvAUtTfLc1iwpBUA9fegc7a2vFpmgukRlabWLb7FbdezjmMVMAUrSp0SUn4ry9eU6F2bI7H5-6Zqax6E9f79mepv4ZNc0KaqDGZrYIqL_UJGnQyzdcdOfAK0lRwVQ0ddad46zdVUun0Fw5wkan_QD7YzzI01y_igDfPSe3pWEVAEknfug2z7Mxo0i_qDk6si8d4KF9NJ9qyMwBPIIDlnFXar145s-O7I9enuMFLf0ed2KpvNxkJO1rQPVOGe5kxXUc0KD7ecNq8xffV5fgpvTq2oKyhSTM0H8aIhUVnaPLWcC45mk62_hLl0vlsCDfWo5OXiyKv9M8BHH7r6jDJQNR8k4gRDmUDchWJ-Bu9qjpVWlt2JJxe9zkggzKhX0MxVli59eIogU9QSo13U92S9f0vW6nH27ETGX5vbZiGDUihwtLut8v-hFILBVCSUy1XbEIqK4oJUGU_pI7mp--YVhqcMwJ8Jz2_PqwVTA2cos2ZcUZhHo2KD3rAZoRb0OafQ5z6k=w735-h979-no?authuser=0)
 
 **22 de Marzo. Domingo.**
 

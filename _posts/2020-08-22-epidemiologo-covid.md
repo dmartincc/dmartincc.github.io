@@ -11,7 +11,7 @@ description: Historia sobre como ha vivido un epidemiólogo el confinamiento.
 comments: true
 
 ---
-Te voy a contar como un epidemiólogo computacional, como yo, está viviendo  toda esta situación de incertidumbre y de locura colectiva. Pero antes quiero darte un poco de contexto.
+Te voy a contar como un **epidemiólogo computacional**, como yo, está viviendo  toda esta situación de incertidumbre y de locura colectiva. Pero antes quiero darte un poco de contexto.
 
 Soy David Martín-Corral Calvo, doctorando en computación social y epidemiológica. Entrego mi tesis en los próximos meses. Y además soy emprendedor y cofundador de [Zensei,  una clínica virtual respiratoria basada en datos.](https://zenseiapp.com)
 
@@ -77,7 +77,7 @@ Empezamos a preparar el modelo, los datos y las estrategias de salida para ver c
 
 Empiezan los días de locura trabajando, haciendo horario español y estadounidense, pocas horas de sueño.
 
-_22 de Marzo. Domingo._
+**22 de Marzo. Domingo.**
 
 Empezamos a tener los primeros resultados consistentes de las simulaciones y las estrategias de distanciamiento social. Ya determinamos que la probabilidad de rebrotes y segunda ola era alta pese al confinamiento.
 
@@ -86,7 +86,7 @@ Publicamos este primer informe.
 
 Se lo presentamos a quién más sabe de estas cosas. Alex Vespignani. Ve potencial, nos ponemos a trabajar para mejorar el modelo y los resultados e identificar una estrategia óptima para minimizar los rebrotes y la segunda ola de contagios, con el objetivo de no saturar el sistema hospitalario. Definimos los niveles óptimos del famoso Test, Trace and Isolate. Testear, Trazar y Aislar.
 
-_6 de Mayo. Miércoles._
+**6 de Mayo. Miércoles.**
 
 Después de casi un mes de trabajo sin parar enviamos el manuscrito del artículo a Nature. Los revisores nos lo rechazan. Nos invitan a enviarlo Nature Human Behaviour. Una subrevista de Nature.
 
@@ -94,9 +94,9 @@ Después de casi un mes de trabajo sin parar enviamos el manuscrito del artícul
 
 Salgo a desfogarme.
 
-Tenía tantas ganas de patinar, que me vine arriba, me di un trompazo montando con el skate y me dejé la muñeca tocada, todavía estoy recuperándome. Menos mal que no me partí ningún hueso.
+Tenía tantas ganas de patinar, que me vine arriba saltando bordillos, que me di un trompazo monumental montando con el skate y me dejé la muñeca tocada, todavía estoy recuperándome. Menos mal que no me rompí ningún hueso.
 
-_5 de Agosto. Miércoles._
+**5 de Agosto. Miércoles.**
 
 Después de muchas revisiones. El artículo es publicado en Nature Human Behaviour. Aquí puedes acceder.
 
@@ -104,9 +104,8 @@ Después de muchas revisiones. El artículo es publicado en Nature Human Behavio
 
 Resumen para dummies del estudio:
 
-Necesitamos identificar mediante tests al menos el 50% de los casos positivos.
-
-Necesitamos trazar los contactos de al menos el 40% de los contactos de los casos positivos para aislarlos y cortar las cadenas de contagio.
+* Necesitamos identificar mediante tests al menos el 50% de los casos positivos.
+* Necesitamos trazar los contactos de al menos el 40% de los contactos de los casos positivos para aislarlos y cortar las cadenas de contagio.
 
 Mi primer artículo como coautor, publicado en [Nature Human Behaviour](https://www.nature.com/nathumbehav/) y retuiteado por [Eric Topol, reputado cardiólogo y autor de Deep Medicine](https://drerictopol.com/). Muy orgulloso de mi aportación y de aprender a cómo hacer ciencia.
 

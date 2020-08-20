@@ -31,7 +31,9 @@ Azul, curva oficial de la gripe para la campaña de 2019-2020, rojo, búsquedas 
 
 #### **Última semana de Febrero y primera semana Marzo**
 
-A mi madre ya la venía avisando, que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (Me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra.
+A mi madre ya la venía avisando, que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (Me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra. Yo ya tenía asumido que ibamos a estar 60 días. 
+
+De hecho un amigo, cuando paso todo, me dijo: "David, tío, ha pasado exactamente todo lo que dijiste". Claro, todas las curvas epidémicas son iguales. Y cuando hablaba por videollamadas y les comentaba a amigos todo lo que iba a pasar, les cambiaba la cara y me decían: "Callaté, no queremos saberlo". No sé. La mente humana funciona así.
 
 #### **Semana del estado de alarma**
 

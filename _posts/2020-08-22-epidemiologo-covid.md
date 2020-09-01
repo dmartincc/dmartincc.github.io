@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Epidemiologo no convecional y emprendedor
+title: La historia de un epidemiologo no convecional y emprendedor (Parte I)
 date: 2020-08-31 22:00:00 +0000
 author: David
 keywords: covid

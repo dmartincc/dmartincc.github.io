@@ -2,7 +2,7 @@
 layout: post
 title: Estado emocional de un epidemiólogo no convencional durante el huracán del
   COVID (Parte 1)
-date: 2020-08-10T22:00:00.000+00:00
+date: 2020-08-31 22:00:00 +0000
 author: David
 keywords: covid
 category: virus
@@ -19,7 +19,7 @@ Parece que estoy de moda, pero hoy solo te voy a hablar sobre mi faceta científ
 
 Empezamos.
 
-En diciembre del 2019 aparece un nuevo virus, llamado SARS-Cov-2, que causa problemas respiratorios, ahora conocemos la enfermedad que provoca como la COVID-19.
+En diciembre del 2019 aparece un nuevo virus, llamado [SARS-Cov-2](https://es.wikipedia.org/wiki/SARS-CoV-2), que causa problemas respiratorios, ahora conocemos la enfermedad que provoca como la COVID-19.
 
 Desde las primeras noticias que tuve de su existencia, empecé a monitorizar diariamente los casos en China y los casos importados que iban apareciendo en otros países. Al principio, algo escéptico, no era la primera pandemia que se originaba en los últimos en Asia. Sabíamos del riesgo, pero nunca pensamos que llegaríamos a donde estamos hoy. Todo era incierto.
 

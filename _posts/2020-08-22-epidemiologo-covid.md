@@ -108,11 +108,17 @@ Se lo presentamos a quién más sabe de estas cosas. Alex Vespignani. Ve potenci
 
 Después de casi un mes de trabajo sin parar enviamos el manuscrito del artículo a Nature. Los revisores nos lo rechazan. Nos invitan a enviarlo Nature Human Behaviour. Una subrevista de Nature.
 
+Mi estado y el de otra mucha gente durante el confinamiento podía ser explicado por el cuadro titulado [condición humana](https://en.wikipedia.org/wiki/The_Human_Condition_(Magritte)) de [René Magritte](https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte). Estábamos encerrados con nuestro pensamiento (cuadro) a través de una venta mirando el exterior.
+
+![The Human Condition, 1933 by Rene Magritte](https://www.renemagritte.org/images/paintings/the-human-condition.jpg)
+
+Y a mí que me gusta observar el comportamiento humano, podía ver que cuadro tenía todas y cada una de las personas con las que hablaba. No me cansaba de decirles que socializaran, ya fuera hablando con amigos y familiares, por teléfono, chat, videoconferencia, como fuera. Somos seres sociales y necesitamos esas interacciones para un buen estado de salud.
+
 #### **Termina el estado de alarma.**
 
 Salgo a desfogarme.
 
-Tenía tantas ganas de patinar, que me vine arriba saltando bordillos, que me di un trompazo monumental montando con el skate y me dejé la muñeca tocada, todavía estoy recuperándome. Menos mal que no me rompí ningún hueso.
+Tenía tantas ganas de patinar, que me vine arriba saltando bordillos, me di un trompazo monumental montando con el skate y me dejé la muñeca tocada, todavía estoy recuperándome. Menos mal que no me rompí ningún hueso. Fue una temeridad por mi parte.
 
 **5 de Agosto. Miércoles.**
 
@@ -127,14 +133,20 @@ Resumen para dummies del estudio:
 
 Mi primer artículo como coautor, publicado en [Nature Human Behaviour](https://www.nature.com/nathumbehav/) y retuiteado por [Eric Topol, reputado cardiólogo y autor de Deep Medicine](https://drerictopol.com/). Muy orgulloso de mi aportación y de aprender a cómo hacer ciencia.
 
-En contra. Solo ví una película durante todo el confinamiento. Roma de Fellini.
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you <a href="https://twitter.com/hashtag/TestTraceIsolate?src=hash&ref_src=twsrc%5Etfw">#TestTraceIsolate</a> right, then reopening can be done right. New modeling report <a href="https://twitter.com/NatureHumBehav?ref_src=twsrc%5Etfw">@NatureHumBehav</a> <a href="https://t.co/8IkEODt7af">https://t.co/8IkEODt7af</a> by <a href="https://twitter.com/cosnet_bifi?ref_src=twsrc%5Etfw">@cosnet_bifi</a> and collaborators <a href="https://t.co/cyyXeMhTn2">pic.twitter.com/cyyXeMhTn2</a></p>— Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1291012030594334721?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+En contra. Solo ví una película durante todo el confinamiento. Roma de Fellini. Y vi este cuadro de [Marc Eemans](https://fr.wikipedia.org/wiki/Marc_Eemans) de la vanguardía belga que me encanto. Justo como me sentía, un desnudo emocional para prepararme al futuro.
+
+![](https://lh3.googleusercontent.com/wBw9FJPIOBTDRXCIUvpSpYLAdmdRn3ZMTVbKOzGK2prUzyjVjo2bBwTK7EhifwEF7SYp2bqbdaAqo1MoPWbhDxBw-NbRWIlq9K4eNAnFVrFBzBXL6pLWxZm0QJqFzTHSGRuQJd-1apl42AS1u7O-vDBZHdzKg_G_O2rLIyEG897WFh-JBYOsu9mfPm8WFv2G-DpIhmHRjxpKH_Cntm7y2w7XHILfCRqUYS9xWvVG8z46flM6Eghwaa3Gm1uOTZd43qfq8_UpuirOyoiIc7UHBayBRcSuwF46ufggqXfzIiJQ8t0joyNWFBf8olUPIvpaKDaruEK9bYzHdy6PMo1Imm9_QkZuQQkRm4Gc6EyMvqnk73WJ51_w-KyIfZfhJc7WQ0ziK7XCtGGdG4OyGVQ4qDZQu1DhHwE8HpojMXqLfabRzo5UiUxpfW8bZ_PzrAYlxmKIbHM4_A5I-of3mApA3rqP4L02_Dym22DEQRULwn1FVjKxMgZVWtrr5PMBoWPRze48odad9pkuJXzWrJbMREk61MJcg4km_K36-TexG7e79MMSHrDdZ7Bvx06G3MVoMhmViYrxOD6hlTPCD_tmWVwOaPRarey2nPixnhKBS4Jr4oqQkab7px20ufkHDnNT3nN_gQ_y5gyalsu3VZ4-gBTeJ15ogDA0sqBUlm8_QXXK3mt65tnfvJoHKPLZRQ4=w735-h979-no?authuser=0)
 
 Vale.
 
 Durante todo ese tiempo pasaron muchas más cosas, que hicieron que mis niveles de cortisoles, hormona del estrés, fueran muy altos y afectaran mucho a mi estado anímico. Como supongo también te pasó a tí durante el confinamiento.
 Como ves un poco en el ojo del huracán he estado y estoy. No soy Fernando Simón, ni tengo su presión mediática, pero si una presión emocional algo parecida desde otro punto de vista. Y esto todavía no ha acabado.
+
+Por eso ahora mismo, según te escribo, el cuadro que mejor representa mi estado emocional es el [Amanecer](https://en.wikipedia.org/wiki/Dawn_(painting)) de Odd Nerdrum. Representa un amanecer a una nueva era sin recursos y con una sociedad sin rumbo.
+
+![](https://webartacademy.com/wp-content/uploads/2010/08/Web_Art_Academy_Dawn_-Odd_Nerdrum.jpg)
 
 Bien.
 

@@ -23,6 +23,12 @@ En diciembre del 2019 aparece un nuevo virus, llamado SARS-Cov-2, que causa prob
 
 Desde las primeras noticias que tuve de su existencia, empecé a monitorizar diariamente los casos en China y los casos importados que iban apareciendo en otros países. Al principio, algo escéptico, no era la primera pandemia que se originaba en los últimos en Asia. Sabíamos del riesgo, pero nunca pensamos que llegaríamos a donde estamos hoy. Todo era incierto.
 
+Me gusta expresar mi situaciones emocionales con cuadros. En ese momento, antes de que empezara toda esta locura y por motivos personales, y me sentía identificado con _Vanitas_ (1636), de [Antonio de Pereda](https://es.wikipedia.org/wiki/Antonio_de_Pereda "Antonio de Pereda"). El cuadro es una alegoría de la vanidad. Es decir, la importancia de lo material es mínima, la muerte nos alcanza a todos.
+
+![Vanitas – HiSoUR Arte Cultura Historia](https://i2.wp.com/www.hisour.com/wp-content/uploads/2018/04/Vanitas.jpg?fit=960%2C739&ssl=1)
+
+Este estado emocional me hacía estar preparado para lo que venía y poner foco en lo importante.
+
 A principios de Marzo, el virus nos acechaba y el contagio comunitario estaba ya presente. Después de estudiar durante casi 6 años un doctorado en epidemiología y sociología computacional y comportamiento humano, algo sé del tema, podía aportar y tenía la responsabilidad moral de ayudar. Teníamos señales que nos confirmaban lo que podía pasar y lo que se nos venía encima.
 
 Azul, curva oficial de la gripe para la campaña de 2019-2020, rojo, búsquedas en google sobre la gripe, podemos ver perfectamente el cambio de comportamiento, la curva debería haber seguido una dinámica parecida a la de la gripe ofocial. Amarillo, [predicción del modelo de la gripe que tenemos en Zensei. ](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)

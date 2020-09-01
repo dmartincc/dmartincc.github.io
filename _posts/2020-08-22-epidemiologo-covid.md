@@ -95,6 +95,12 @@ Trabajando desde mi habitación en la granja.
 
 ![](https://lh3.googleusercontent.com/40yZbMtSrc_LaSMmNb1V9_qSS81nws2E_JrM9duBu-hEhcQI_lOduNgInrR4RPdzSEzkU02r9Qz9maZ7aiGrCMhTOkr7ON7EcRVA_QEgFPrOVQWpjSgdelmlWVO2_p-9RawpWoNTTYJ2-3BXUIxPKt_2kLnEDY_a5_MxBxh3iH1RmBEVDYNzdfrW0GTLvAUtTfLc1iwpBUA9fegc7a2vFpmgukRlabWLb7FbdezjmMVMAUrSp0SUn4ry9eU6F2bI7H5-6Zqax6E9f79mepv4ZNc0KaqDGZrYIqL_UJGnQyzdcdOfAK0lRwVQ0ddad46zdVUun0Fw5wkan_QD7YzzI01y_igDfPSe3pWEVAEknfug2z7Mxo0i_qDk6si8d4KF9NJ9qyMwBPIIDlnFXar145s-O7I9enuMFLf0ed2KpvNxkJO1rQPVOGe5kxXUc0KD7ecNq8xffV5fgpvTq2oKyhSTM0H8aIhUVnaPLWcC45mk62_hLl0vlsCDfWo5OXiyKv9M8BHH7r6jDJQNR8k4gRDmUDchWJ-Bu9qjpVWlt2JJxe9zkggzKhX0MxVli59eIogU9QSo13U92S9f0vW6nH27ETGX5vbZiGDUihwtLut8v-hFILBVCSUy1XbEIqK4oJUGU_pI7mp--YVhqcMwJ8Jz2_PqwVTA2cos2ZcUZhHo2KD3rAZoRb0OafQ5z6k=w735-h979-no?authuser=0)
 
+Mi estado y el de otra mucha gente durante el confinamiento podía ser explicado por el cuadro titulado [condición humana](https://en.wikipedia.org/wiki/The_Human_Condition_(Magritte)) de [René Magritte](https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte). Estábamos encerrados con nuestro pensamiento (cuadro) a través de una venta mirando el exterior.
+
+![The Human Condition, 1933 by Rene Magritte](https://www.renemagritte.org/images/paintings/the-human-condition.jpg)
+
+Y a mí que me gusta observar el comportamiento humano, podía ver que cuadro tenía todas y cada una de las personas con las que hablaba. No me cansaba de decirles que socializaran, ya fuera hablando con amigos y familiares, por teléfono, chat, videoconferencia, como fuera. Somos seres sociales y necesitamos esas interacciones para un buen estado de salud.
+
 **22 de Marzo. Domingo.**
 
 Empezamos a tener los primeros resultados consistentes de las simulaciones y las estrategias de distanciamiento social. Ya determinamos que la probabilidad de rebrotes y segunda ola era alta pese al confinamiento.
@@ -107,12 +113,6 @@ Se lo presentamos a quién más sabe de estas cosas. Alex Vespignani. Ve potenci
 **6 de Mayo. Miércoles.**
 
 Después de casi un mes de trabajo sin parar enviamos el manuscrito del artículo a Nature. Los revisores nos lo rechazan. Nos invitan a enviarlo Nature Human Behaviour. Una subrevista de Nature.
-
-Mi estado y el de otra mucha gente durante el confinamiento podía ser explicado por el cuadro titulado [condición humana](https://en.wikipedia.org/wiki/The_Human_Condition_(Magritte)) de [René Magritte](https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte). Estábamos encerrados con nuestro pensamiento (cuadro) a través de una venta mirando el exterior.
-
-![The Human Condition, 1933 by Rene Magritte](https://www.renemagritte.org/images/paintings/the-human-condition.jpg)
-
-Y a mí que me gusta observar el comportamiento humano, podía ver que cuadro tenía todas y cada una de las personas con las que hablaba. No me cansaba de decirles que socializaran, ya fuera hablando con amigos y familiares, por teléfono, chat, videoconferencia, como fuera. Somos seres sociales y necesitamos esas interacciones para un buen estado de salud.
 
 #### **Termina el estado de alarma.**
 

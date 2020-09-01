@@ -65,11 +65,11 @@ Se desata la locura. Se empiezan a movilizar recursos de forma espontánea en Ma
 
 _Medio día_
 
-Mi nombre le llega a algún político. Consulto con mi directo que hago. Me dice: “Dediquemos nos a lo que sabemos hacer” y así hicimos.
+Mi nombre le llega a algún político. Consulto con mi director de tesis, [Esteban Moro](https://twitter.com/estebanmoro), que hago. Me dice: “Dediquemos nos a lo que sabemos hacer” y así hicimos.
 
 _Media tarde_
 
-Asaltamos a puerta fría a Yamir Moreno y Alberto Aleta. Les ponemos en antecedentes. Yo venía trabajando desde Enero del 2019 en un modelo epidemiológicos multicapa con datos reales de movilidad del área metropolitana de Boston para ver diferencias de transmisión de la gripe en entre clases sociales. El modelo estaba basado en una metodología desarrollada por ellos en un artículo publicado en Diciembre del 2018. Nos pusimos a trabajar, Alberto tuneó el modelo para el COVID y empezamos a hacer simulaciones con los datos reales que estábamos utilizando de Boston.
+Asaltamos a puerta fría a [Yamir Moreno](https://twitter.com/cosnet_bifi?lang=en) y [Alberto Aleta](https://twitter.com/SrAleta). Les ponemos en antecedentes. Yo venía trabajando desde Enero del 2019 en un modelo epidemiológicos multicapa con datos reales de movilidad del área metropolitana de Boston para ver diferencias de transmisión de la gripe en entre clases sociales. El modelo estaba basado en una metodología desarrollada por ellos en un artículo publicado en Diciembre del 2018. Nos pusimos a trabajar, Alberto tuneó el modelo para el COVID y empezamos a hacer simulaciones con los datos reales que estábamos utilizando de Boston.
 
 El utilizar datos reales de movilidad de una área metropolitana como Boston de 6M de personas, eran ideales para poder inferir estrategias que puedan ser utilizadas en otras áreas metropolitanas en cualquier parte del globo.
 
@@ -155,6 +155,8 @@ Por eso ahora mismo, según te escribo, el cuadro que mejor representa mi estado
 Por último, el cuadro de [Ofelía](https://en.wikipedia.org/wiki/Ophelia_(painting)) Sir [John Everett Millais](https://en.wikipedia.org/wiki/John_Everett_Millais), creo que es el sentimiento de muchos de nosotros. Y parte de la situación actual es debido a lo que representa el cuadro. La muerte de la naturaleza, Ofelia personaje de Hamlet de William Shakespeare, por la locura de su enamorado, en este caso la especia humana. En en el caso de la obra literaria es el príncipe Hamlet.
 
 ![John Everett Millais - Ophelia - Google Art Project.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg/1920px-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg)
+
+Esto me lleva al tema de la disolución del ego como solución al problema actual. Pronto escribiré todo lo que estoy estudiando sobre el tema.
 
 Bien.
 

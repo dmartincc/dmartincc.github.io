@@ -7,7 +7,7 @@ keywords: covid
 category: virus
 image: "/uploads/the_triumph_of_death_by_pieter_bruegel_the_elder.jpg"
 description: Historia sobre como ha vivido un epidemiólogo digital el confinamiento
-  y publica en Nature una solución para los rebrotes.
+  y publica en Nature una solución para los rebrotes del COVID-19-
 comments: true
 
 ---

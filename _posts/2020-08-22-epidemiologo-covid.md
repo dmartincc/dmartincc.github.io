@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Estado emocional de un epidemiólogo no convencional durante el huracán del
-  COVID (Parte 1)
+title: Epidemiologo no convecional y emprendedor
 date: 2020-08-31 22:00:00 +0000
 author: David
 keywords: covid
@@ -13,7 +12,7 @@ comments: true
 ---
 Te voy a contar como un **epidemiólogo computacional**, como yo, está viviendo  toda esta situación de incertidumbre y de locura colectiva. Pero antes quiero darte un poco de contexto.
 
-Soy David Martín-Corral Calvo, doctorando en computación social y epidemiológica. Entrego mi tesis en los próximos meses. Y además soy emprendedor y cofundador de [Zensei,  una clínica virtual respiratoria basada en datos.](https://zenseiapp.com)
+Soy David Martín-Corral Calvo, doctorando en computación social y epidemiológica. Entrego mi tesis en los próximos meses. Y además soy emprendedor y cofundador de [Zensei, una clínica virtual respiratoria basada en datos.](https://zenseiapp.com)
 
 Parece que estoy de moda, pero hoy solo te voy a hablar sobre mi faceta científica. La emprendedora la dejo para otro día.
 

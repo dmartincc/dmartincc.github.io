@@ -126,7 +126,7 @@ Después de muchas revisiones. El artículo es publicado en Nature Human Behavio
 
 [Modelling the impact of testing, contact tracing and household quarantine on second waves of COVID-19](https://www.nature.com/articles/s41562-020-0931-9.epdf?sharing_token=itW75rYaCm6fRP4rDkJov9RgN0jAjWel9jnR3ZoTv0MLrFAv4IoCVan9pnzRUjws17XD5c9eFPRjdQalW_PlN1diAsH2Stgnr-G-hwDVRa-bRNAD0DMsdBmBds_Sm2KNwy9CIWJGXpY8_q1uWy9YeJzfmvGIKOMIFgcxqIMT7Rg%3D)
 
-Resumen para dummies del estudio:
+Resumen los no entendidos del estudio:
 
 * Necesitamos identificar mediante tests al menos el 50% de los casos positivos.
 * Necesitamos trazar los contactos de al menos el 40% de los contactos de los casos positivos para aislarlos y cortar las cadenas de contagio.
@@ -135,11 +135,11 @@ Mi primer artículo como coautor, publicado en [Nature Human Behaviour](https://
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you <a href="https://twitter.com/hashtag/TestTraceIsolate?src=hash&ref_src=twsrc%5Etfw">#TestTraceIsolate</a> right, then reopening can be done right. New modeling report <a href="https://twitter.com/NatureHumBehav?ref_src=twsrc%5Etfw">@NatureHumBehav</a> <a href="https://t.co/8IkEODt7af">https://t.co/8IkEODt7af</a> by <a href="https://twitter.com/cosnet_bifi?ref_src=twsrc%5Etfw">@cosnet_bifi</a> and collaborators <a href="https://t.co/cyyXeMhTn2">pic.twitter.com/cyyXeMhTn2</a></p>— Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1291012030594334721?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-En contra. 
+En contra.
 
-Solo vi una película durante todo el confinamiento. Roma de Fellini. 
+Solo vi una película durante todo el confinamiento. Roma de Fellini.
 
-Emocionalmente cuando vi este cuadro de [Marc Eemans](https://fr.wikipedia.org/wiki/Marc_Eemans) de la vanguardía belga, me encanto. Justo como me sentía, un desnudo emocional para prepararme para el futuro. 
+Emocionalmente cuando vi este cuadro de [Marc Eemans](https://fr.wikipedia.org/wiki/Marc_Eemans) de la vanguardía belga, me encanto. Justo como me sentía, un desnudo emocional para prepararme para el futuro.
 
 ![](https://lh3.googleusercontent.com/wBw9FJPIOBTDRXCIUvpSpYLAdmdRn3ZMTVbKOzGK2prUzyjVjo2bBwTK7EhifwEF7SYp2bqbdaAqo1MoPWbhDxBw-NbRWIlq9K4eNAnFVrFBzBXL6pLWxZm0QJqFzTHSGRuQJd-1apl42AS1u7O-vDBZHdzKg_G_O2rLIyEG897WFh-JBYOsu9mfPm8WFv2G-DpIhmHRjxpKH_Cntm7y2w7XHILfCRqUYS9xWvVG8z46flM6Eghwaa3Gm1uOTZd43qfq8_UpuirOyoiIc7UHBayBRcSuwF46ufggqXfzIiJQ8t0joyNWFBf8olUPIvpaKDaruEK9bYzHdy6PMo1Imm9_QkZuQQkRm4Gc6EyMvqnk73WJ51_w-KyIfZfhJc7WQ0ziK7XCtGGdG4OyGVQ4qDZQu1DhHwE8HpojMXqLfabRzo5UiUxpfW8bZ_PzrAYlxmKIbHM4_A5I-of3mApA3rqP4L02_Dym22DEQRULwn1FVjKxMgZVWtrr5PMBoWPRze48odad9pkuJXzWrJbMREk61MJcg4km_K36-TexG7e79MMSHrDdZ7Bvx06G3MVoMhmViYrxOD6hlTPCD_tmWVwOaPRarey2nPixnhKBS4Jr4oqQkab7px20ufkHDnNT3nN_gQ_y5gyalsu3VZ4-gBTeJ15ogDA0sqBUlm8_QXXK3mt65tnfvJoHKPLZRQ4=w735-h979-no?authuser=0)
 

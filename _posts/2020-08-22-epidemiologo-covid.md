@@ -12,7 +12,7 @@ description: Historia sobre como ha vivido un epidemiólogo digital el confinami
 comments: true
 
 ---
-Te voy a contar como un **epidemiólogo computacional**, como yo, está viviendo  toda esta situación de incertidumbre, de locura colectiva y conseguido a portar mi granito de arena a una solución al problema actual de los rebrotes. Pero antes quiero darte un poco de contexto.
+Te voy a contar cómo un **epidemiólogo computacional**, como yo, está viviendo  toda esta situación de incertidumbre, de locura colectiva y conseguido a portar mi granito de arena a una solución al problema actual de los rebrotes. Pero antes quiero darte un poco de contexto.
 
 Soy David Martín-Corral Calvo, doctorando en computación social y epidemiológica. Entrego mi tesis en los próximos meses. Esta siendo un parto de 6 años. Además, soy emprendedor y cofundador de [Zensei, una clínica virtual respiratoria basada en datos.](https://zenseiapp.com)
 

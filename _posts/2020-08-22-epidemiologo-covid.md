@@ -162,7 +162,7 @@ Actualmente, me siento como en el cuadro del [Amanecer](https://en.wikipedia.org
 
 ![](https://webartacademy.com/wp-content/uploads/2010/08/Web_Art_Academy_Dawn_-Odd_Nerdrum.jpg)
 
-Por último, el cuadro de [Ofelía](https://en.wikipedia.org/wiki/Ophelia_(painting)) Sir [John Everett Millais](https://en.wikipedia.org/wiki/John_Everett_Millais), creo que es el sentimiento de muchos de nosotros. Y parte de la situación actual es debido a lo que representa el cuadro. La muerte de la naturaleza, Ofelia personaje de Hamlet de William Shakespeare, por la locura de su enamorado, en este caso la especia humana. En el caso de la obra literaria es el príncipe Hamlet.
+Por último, el cuadro de [Ofelía](https://en.wikipedia.org/wiki/Ophelia_(painting)) Sir [John Everett Millais](https://en.wikipedia.org/wiki/John_Everett_Millais), creo que es el sentimiento de muchos de nosotros. Y parte de la situación actual es debido a lo que representa el cuadro. La muerte de la naturaleza, Ofelia personaje de Hamlet de William Shakespeare, por la locura de su enamorado, en este caso la especie humana. En el caso de la obra literaria es el príncipe Hamlet.
 
 ![John Everett Millais - Ophelia - Google Art Project.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg/1920px-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg)
 

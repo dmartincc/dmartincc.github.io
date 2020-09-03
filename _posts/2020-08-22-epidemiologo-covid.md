@@ -127,10 +127,10 @@ Después de muchas revisiones. El artículo es publicado en Nature Human Behavio
 
 [Modelling the impact of testing, contact tracing and household quarantine on second waves of COVID-19](https://www.nature.com/articles/s41562-020-0931-9.epdf?sharing_token=itW75rYaCm6fRP4rDkJov9RgN0jAjWel9jnR3ZoTv0MLrFAv4IoCVan9pnzRUjws17XD5c9eFPRjdQalW_PlN1diAsH2Stgnr-G-hwDVRa-bRNAD0DMsdBmBds_Sm2KNwy9CIWJGXpY8_q1uWy9YeJzfmvGIKOMIFgcxqIMT7Rg%3D)
 
-Resumen los no entendidos del estudio:
+Resumen de los resultados del estudio para los no entendidos:
 
-* Necesitamos identificar mediante tests al menos el 50% de los casos positivos.
-* Necesitamos trazar los contactos de al menos el 40% de los contactos de los casos positivos para aislarlos y cortar las cadenas de contagio.
+1. Necesitamos identificar mediante tests al menos el 50% de los casos positivos.
+2. Necesitamos trazar los contactos de al menos el 40% de los contactos de los casos positivos para aislarlos y cortar las cadenas de contagio.
 
 Mi primer artículo como coautor, publicado en [Nature Human Behaviour](https://www.nature.com/nathumbehav/) y retuiteado por [Eric Topol, reputado cardiólogo y autor de Deep Medicine](https://drerictopol.com/). Muy orgulloso de mi aportación y de aprender a cómo hacer ciencia de los mejores.
 

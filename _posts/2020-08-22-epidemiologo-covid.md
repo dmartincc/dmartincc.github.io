@@ -14,7 +14,7 @@ comments: true
 ---
 Te voy a contar como un **epidemiólogo computacional**, como yo, está viviendo  toda esta situación de incertidumbre, de locura colectiva y conseguido a portar mi granito de arena a una solución al problema actual de los rebrotes. Pero antes quiero darte un poco de contexto.
 
-Soy David Martín-Corral Calvo, doctorando en computación social y epidemiológica. Entrego mi tesis en los próximos meses. Esta siendo un parto de 6 años. Y además soy emprendedor y cofundador de [Zensei, una clínica virtual respiratoria basada en datos.](https://zenseiapp.com) 
+Soy David Martín-Corral Calvo, doctorando en computación social y epidemiológica. Entrego mi tesis en los próximos meses. Esta siendo un parto de 6 años. Y además soy emprendedor y cofundador de [Zensei, una clínica virtual respiratoria basada en datos.](https://zenseiapp.com)
 
 Parece que estoy de moda, pero hoy solo te voy a hablar sobre mi faceta científica. La emprendedora la dejo para otro día.
 
@@ -38,9 +38,9 @@ Azul, curva oficial de la gripe para la campaña de 2019-2020, rojo, búsquedas 
 
 #### **Última semana de Febrero y primera semana Marzo**
 
-A mi madre ya la venía avisando, que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (Me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra. Yo ya tenía asumido que ibamos a estar 60 días.
+A mi madre ya la venía avisando, que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (Me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra. Yo ya tenía asumido que íbamos a estar 60 días.
 
-De hecho un amigo, cuando paso todo, me dijo: "David, tío, ha pasado exactamente todo lo que dijiste". Claro, todas las curvas epidémicas son iguales. Y cuando hablaba por videollamadas y les comentaba a amigos todo lo que iba a pasar, les cambiaba la cara y me decían: "Callaté, no queremos saberlo". No sé. La mente humana funciona así.
+De hecho un amigo, cuando paso todo, me dijo: "David, tío, ha pasado exactamente todo lo que dijiste". Claro, todas las curvas epidémicas son iguales. Y cuando hablaba por videollamadas y les comentaba a amigos todo lo que iba a pasar, les cambiaba la cara y me decían: "Cállate, no queremos saberlo". No sé. La mente humana funciona así.
 
 #### **Semana del estado de alarma**
 
@@ -56,7 +56,7 @@ Me puse en contacto con mi director de tesis, Esteban Moro, reside en Boston, y 
 
 **11 de Marzo. Miércoles.**
 
-Nos cierran la oficina de Google for Startups en Madrid hasta nueva orden.
+Nos cierran la oficina de [Google for Startups en Madrid](https://www.campus.co/madrid/) hasta nueva orden.
 
 **12 de Marzo. Jueves.**
 
@@ -66,7 +66,7 @@ Se desata la locura. Se empiezan a movilizar recursos de forma espontánea en Ma
 
 _Medio día_
 
-Mi nombre le llega a algún político. Consulto con mi director de tesis, [Esteban Moro](https://twitter.com/estebanmoro), que hago. Me dice: “Dediquemos nos a lo que sabemos hacer” y así hicimos.
+Mi nombre le llega a algún político. Consulto con mi director de tesis, [Esteban Moro](https://twitter.com/estebanmoro), que hago. Me dice: “Dediquémonos a lo que sabemos hacer” y así hicimos.
 
 _Media tarde_
 
@@ -109,7 +109,7 @@ Empezamos a tener los primeros resultados consistentes de las simulaciones y las
 Publicamos este primer informe.
 [https://covid-19-sds.github.io/](https://covid-19-sds.github.io/)
 
-Se lo presentamos a quién más sabe de estas cosas. Alex Vespignani. Ve potencial, nos ponemos a trabajar para mejorar el modelo y los resultados e identificar una estrategia óptima para minimizar los rebrotes y la segunda ola de contagios, con el objetivo de no saturar el sistema hospitalario. Definimos los niveles óptimos del famoso Test, Trace and Isolate. Testear, Trazar y Aislar.
+Se lo presentamos a quién más sabe de estas cosas a nivel mundial. [Alex Vespignani](https://twitter.com/alexvespi). Ve potencial, nos ponemos a trabajar para mejorar el modelo y los resultados e identificar una estrategia óptima para minimizar los rebrotes y la segunda ola de contagios, con el objetivo de no saturar el sistema hospitalario. Definimos los niveles óptimos del famoso Test, Trace and Isolate. Testear, Trazar y Aislar.
 
 **6 de Mayo. Miércoles.**
 

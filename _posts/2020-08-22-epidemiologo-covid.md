@@ -154,14 +154,15 @@ Emocionalmente cuando vi este cuadro de [Marc Eemans](https://fr.wikipedia.org/w
 
 Vale.
 
-Durante todo ese tiempo pasaron muchas más cosas, que hicieron que mis niveles de cortisoles, hormona del estrés, fueran muy altos y afectaran mucho a mi estado anímico. Como supongo también te pasó a tí durante el confinamiento.
-Como ves un poco en el ojo del huracán he estado y estoy. No soy Fernando Simón, ni tengo su presión mediática, pero si una presión emocional algo parecida desde otro punto de vista. Y esto todavía no ha acabado.
+Durante todo ese tiempo pasaron muchas más cosas, que hicieron que mis niveles de cortisoles, hormona del estrés, fueran muy altos y afectaran mucho a mi estado anímico. Supongo que también te pasó a ti durante el confinamiento. 
 
-Por eso ahora mismo, según te escribo, el cuadro que mejor representa mi estado emocional es el [Amanecer](https://en.wikipedia.org/wiki/Dawn_(painting)) de Odd Nerdrum. Representa un amanecer a una nueva era sin recursos y con una sociedad sin rumbo.
+Así que, como ves, estoy un poco en el ojo del huracán. No soy Fernando Simón, ni tengo su presión mediática, pero si una presión emocional algo parecida desde otro punto de vista. Escribir tesis y leerla. Sacar adelante Zensei. 
+
+Actualmente, me siento como en el cuadro del [Amanecer](https://en.wikipedia.org/wiki/Dawn_(painting)) de Odd Nerdrum. Representa un amanecer a una nueva era sin recursos y con una sociedad sin rumbo.
 
 ![](https://webartacademy.com/wp-content/uploads/2010/08/Web_Art_Academy_Dawn_-Odd_Nerdrum.jpg)
 
-Por último, el cuadro de [Ofelía](https://en.wikipedia.org/wiki/Ophelia_(painting)) Sir [John Everett Millais](https://en.wikipedia.org/wiki/John_Everett_Millais), creo que es el sentimiento de muchos de nosotros. Y parte de la situación actual es debido a lo que representa el cuadro. La muerte de la naturaleza, Ofelia personaje de Hamlet de William Shakespeare, por la locura de su enamorado, en este caso la especia humana. En en el caso de la obra literaria es el príncipe Hamlet.
+Por último, el cuadro de [Ofelía](https://en.wikipedia.org/wiki/Ophelia_(painting)) Sir [John Everett Millais](https://en.wikipedia.org/wiki/John_Everett_Millais), creo que es el sentimiento de muchos de nosotros. Y parte de la situación actual es debido a lo que representa el cuadro. La muerte de la naturaleza, Ofelia personaje de Hamlet de William Shakespeare, por la locura de su enamorado, en este caso la especia humana. En el caso de la obra literaria es el príncipe Hamlet.
 
 ![John Everett Millais - Ophelia - Google Art Project.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg/1920px-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg)
 
@@ -173,7 +174,7 @@ Es suficiente por hoy.
 
 En los próximos días escribiré sobre mi otra mitad, mi faceta emprendedora y cómo monté un equipo en remoto durante el confinamiento, para lanzar la clínica virtual respiratoria basada en datos de Zensei, a la vez que por las noches trabajaba como científico.
 
-Si montar una empresa y hacer una tesis doctoral son difíciles emocionalmente, hacerlo a la vez lo es más.
+Si montar una empresa y hacer una tesis doctoral son difíciles emocionalmente por separado, hacerlo a la vez lo es más.
 
 Si crees que mi historia es interesante, te agradecería que la compartieras. Necesito darme a conocer para poder lanzar con éxito [Zensei, nuestra clínica virtual respiratoria](https://zenseiapp.com) y así ayudar a millones de personas a evitar los horribles síntomas respiratorios de la covid, la gripe, el asma, la EPOC y otras muchas más enfermedades respiratorias.
 

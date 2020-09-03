@@ -140,7 +140,7 @@ En contra.
 
 Solo vi una película durante todo el confinamiento. Roma de Fellini.
 
-Emocionalmente cuando vi este cuadro de [Marc Eemans](https://fr.wikipedia.org/wiki/Marc_Eemans) de la vanguardía belga, me encanto. Justo como me sentía, un desnudo emocional para prepararme para el futuro.
+Emocionalmente cuando vi este cuadro de [Marc Eemans](https://fr.wikipedia.org/wiki/Marc_Eemans) de la vanguardia belga, me encanto. Justo como me sentía, un desnudo emocional para prepararme para el futuro.
 
 ![](https://lh3.googleusercontent.com/wBw9FJPIOBTDRXCIUvpSpYLAdmdRn3ZMTVbKOzGK2prUzyjVjo2bBwTK7EhifwEF7SYp2bqbdaAqo1MoPWbhDxBw-NbRWIlq9K4eNAnFVrFBzBXL6pLWxZm0QJqFzTHSGRuQJd-1apl42AS1u7O-vDBZHdzKg_G_O2rLIyEG897WFh-JBYOsu9mfPm8WFv2G-DpIhmHRjxpKH_Cntm7y2w7XHILfCRqUYS9xWvVG8z46flM6Eghwaa3Gm1uOTZd43qfq8_UpuirOyoiIc7UHBayBRcSuwF46ufggqXfzIiJQ8t0joyNWFBf8olUPIvpaKDaruEK9bYzHdy6PMo1Imm9_QkZuQQkRm4Gc6EyMvqnk73WJ51_w-KyIfZfhJc7WQ0ziK7XCtGGdG4OyGVQ4qDZQu1DhHwE8HpojMXqLfabRzo5UiUxpfW8bZ_PzrAYlxmKIbHM4_A5I-of3mApA3rqP4L02_Dym22DEQRULwn1FVjKxMgZVWtrr5PMBoWPRze48odad9pkuJXzWrJbMREk61MJcg4km_K36-TexG7e79MMSHrDdZ7Bvx06G3MVoMhmViYrxOD6hlTPCD_tmWVwOaPRarey2nPixnhKBS4Jr4oqQkab7px20ufkHDnNT3nN_gQ_y5gyalsu3VZ4-gBTeJ15ogDA0sqBUlm8_QXXK3mt65tnfvJoHKPLZRQ4=w735-h979-no?authuser=0)
 
@@ -163,8 +163,8 @@ Bien.
 
 Es suficiente por hoy.
 
-En los próximos días escribiré sobre mi otra mitad, mi faceta emprendedora y cómo monté un equipo en remoto durante el confinamiento, para  lanzar la clínica virtual respiratoria basada en datos de Zensei, a la vez que por las noches trabajaba como científico.
+En los próximos días escribiré sobre mi otra mitad, mi faceta emprendedora y cómo monté un equipo en remoto durante el confinamiento, para lanzar la clínica virtual respiratoria basada en datos de Zensei, a la vez que por las noches trabajaba como científico.
 
 Si montar una empresa y hacer una tesis doctoral son difíciles emocionalmente, hacerlo a la vez lo es más.
 
-Si crees que mi historia es interesante, te agradecería que la compartieras. Necesito darme a conocer para poder lanzar con éxito [Zensei, nuestra clínica virtual respiratoria](https://zenseiapp.com) y así ayudar a millones de personas a evitar los horribles síntomas respiratorios, del covid, la gripe, el asma, la EPOC y otras muchas más enfermedades respiratorias.
+Si crees que mi historia es interesante, te agradecería que la compartieras. Necesito darme a conocer para poder lanzar con éxito [Zensei, nuestra clínica virtual respiratoria](https://zenseiapp.com) y así ayudar a millones de personas a evitar los horribles síntomas respiratorios de la covid, la gripe, el asma, la EPOC y otras muchas más enfermedades respiratorias.

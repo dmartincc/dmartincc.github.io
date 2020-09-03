@@ -40,7 +40,7 @@ Azul, curva oficial de la gripe para la campaña de 2019-2020.
 
 Rojo, búsquedas en google sobre la gripe, podemos ver perfectamente el cambio de comportamiento, la curva debería haber seguido una dinámica parecida a la de la gripe oficial. 
 
-Amarillo, [predicción del modelo de la gripe que tenemos en Zensei](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/) desde hace 3 años.
+Amarillo, [predicción del modelo de la gripe que tenemos en Zensei](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/).
 
 #### **Última semana de febrero y primera semana marzo**
 

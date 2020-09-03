@@ -30,11 +30,17 @@ Me gusta expresar mis situaciones emocionales con cuadros. En ese momento, antes
 
 Este estado emocional me hacía estar preparado para lo que venía y poner foco en lo importante.
 
-A principios de Marzo, el virus nos acechaba y el contagio comunitario estaba ya presente. Después de estudiar durante casi 6 años un doctorado en epidemiología y sociología computacional y comportamiento humano, algo sé del tema, podía aportar y tenía la responsabilidad moral de ayudar. Teníamos señales que nos confirmaban lo que podía pasar y lo que se nos venía encima.
+A principios de marzo, el virus nos acechaba y el contagio comunitario estaba ya presente. Después de estudiar durante casi 6 años un doctorado en epidemiología y sociología computacional y comportamiento humano, algo sé del tema, podía aportar y tenía la responsabilidad moral de ayudar. Teníamos señales que nos confirmaban lo que podía pasar y lo que se nos venía encima. 
 
-Azul, curva oficial de la gripe para la campaña de 2019-2020, rojo, búsquedas en google sobre la gripe, podemos ver perfectamente el cambio de comportamiento, la curva debería haber seguido una dinámica parecida a la de la gripe ofocial. Amarillo, [predicción del modelo de la gripe que tenemos en Zensei.](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
+Me venía fijando en un modelo de predicción de la gripe que había desarrollado hace 3 años para ver diferencias de comportamiento. Tengo que actualizarlo con datos del COVID. Pero todavía no se pueden hacer predicciones fiables con la técnica que utilizo para la gripe.
 
 ![](/uploads/screen-shot-2020-08-20-at-12-50-55.png)
+
+Azul, curva oficial de la gripe para la campaña de 2019-2020. 
+
+Rojo, búsquedas en google sobre la gripe, podemos ver perfectamente el cambio de comportamiento, la curva debería haber seguido una dinámica parecida a la de la gripe oficial. 
+
+Amarillo, [predicción del modelo de la gripe que tenemos en Zensei](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/) desde hace 3 años.
 
 #### **Última semana de febrero y primera semana marzo**
 

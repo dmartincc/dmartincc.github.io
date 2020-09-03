@@ -132,7 +132,9 @@ Resumen de los resultados del estudio para los no entendidos:
 1. Necesitamos identificar mediante tests al menos el 50% de los casos positivos.
 2. Necesitamos trazar los contactos de al menos el 40% de los contactos de los casos positivos para aislarlos y cortar las cadenas de contagio.
 
-Mi primer artículo como coautor, publicado en [Nature Human Behaviour](https://www.nature.com/nathumbehav/) y retuiteado por [Eric Topol, reputado cardiólogo y autor de Deep Medicine](https://drerictopol.com/). Muy orgulloso de mi aportación y de aprender a cómo hacer ciencia de los mejores.
+Mi primer artículo como coautor, publicado en [Nature Human Behaviour](https://www.nature.com/nathumbehav/) y retuiteado por [Eric Topol, reputado cardiólogo y autor de Deep Medicine](https://drerictopol.com/). 
+
+Muy orgulloso de mi aportación y de aprender a cómo hacer ciencia de los mejores.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you <a href="https://twitter.com/hashtag/TestTraceIsolate?src=hash&ref_src=twsrc%5Etfw">#TestTraceIsolate</a> right, then reopening can be done right. New modeling report <a href="https://twitter.com/NatureHumBehav?ref_src=twsrc%5Etfw">@NatureHumBehav</a> <a href="https://t.co/8IkEODt7af">https://t.co/8IkEODt7af</a> by <a href="https://twitter.com/cosnet_bifi?ref_src=twsrc%5Etfw">@cosnet_bifi</a> and collaborators <a href="https://t.co/cyyXeMhTn2">pic.twitter.com/cyyXeMhTn2</a></p>— Eric Topol (@EricTopol) <a href="https://twitter.com/EricTopol/status/1291012030594334721?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

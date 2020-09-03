@@ -24,7 +24,7 @@ En diciembre del 2019 aparece un nuevo virus, llamado [SARS-Cov-2](https://es.wi
 
 Desde las primeras noticias que tuve de su existencia, empecé a monitorizar diariamente los casos en China y los casos importados que iban apareciendo en otros países. Al principio, algo escéptico, no era la primera pandemia que se originaba en los últimos años en Asia. Sabíamos del riesgo, pero nunca pensamos que llegaríamos a donde estamos hoy. Todo era incierto.
 
-Me gusta expresar mi situaciones emocionales con cuadros. En ese momento, antes de que empezara toda esta locura y por motivos personales, me sentía identificado con _Vanitas_ (1636), de [Antonio de Pereda](https://es.wikipedia.org/wiki/Antonio_de_Pereda "Antonio de Pereda"). El cuadro es una alegoría de la vanidad. Es decir, la importancia de lo material es mínima, la muerte nos alcanza a todos.
+Me gusta expresar mis situaciones emocionales con cuadros. En ese momento, antes de que empezara toda esta locura y por motivos personales, me sentía identificado con _Vanitas_ (1636), de [Antonio de Pereda](https://es.wikipedia.org/wiki/Antonio_de_Pereda "Antonio de Pereda"). El cuadro es una alegoría de la vanidad. Es decir, la importancia de lo material es mínima, la muerte nos alcanza a todos.
 
 ![Vanitas – HiSoUR Arte Cultura Historia](https://i2.wp.com/www.hisour.com/wp-content/uploads/2018/04/Vanitas.jpg?fit=960%2C739&ssl=1)
 

@@ -2,7 +2,7 @@
 layout: post
 title: Cómo un epidemiologo no convencional consigue aportar su granito de arena a
   una solución para los rebrotes del COVID-19
-date: 2020-08-31 22:00:00 +0000
+date: 2020-09-02 22:00:00 +0000
 author: David
 keywords: covid
 category: virus

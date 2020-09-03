@@ -170,3 +170,5 @@ En los próximos días escribiré sobre mi otra mitad, mi faceta emprendedora y 
 Si montar una empresa y hacer una tesis doctoral son difíciles emocionalmente, hacerlo a la vez lo es más.
 
 Si crees que mi historia es interesante, te agradecería que la compartieras. Necesito darme a conocer para poder lanzar con éxito [Zensei, nuestra clínica virtual respiratoria](https://zenseiapp.com) y así ayudar a millones de personas a evitar los horribles síntomas respiratorios de la covid, la gripe, el asma, la EPOC y otras muchas más enfermedades respiratorias.
+
+P.D.- Si los emprendedores son incansable trabajadores, los científicos lo son más.

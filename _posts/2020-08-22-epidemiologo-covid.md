@@ -44,7 +44,7 @@ Amarillo, [predicción del modelo de la gripe que tenemos en Zensei](https://zen
 
 #### **Última semana de febrero y primera semana marzo**
 
-A mi madre ya la venía avisando que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (Me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra. Yo ya tenía asumido que íbamos a estar 60 días.
+A mi madre ya la venía avisando que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra. Yo ya tenía asumido que íbamos a estar 60 días.
 
 De hecho un amigo, cuando paso todo, me dijo: "David, tío, ha pasado exactamente todo lo que dijiste". Claro, todas las curvas epidémicas son iguales. Y cuando hablaba por videollamadas y les comentaba a amigos todo lo que iba a pasar, les cambiaba la cara y me decían: "Cállate, no queremos saberlo". No sé. La mente humana funciona así.
 

@@ -32,11 +32,11 @@ Este estado emocional me hacía estar preparado para lo que venía y poner foco 
 
 A principios de Marzo, el virus nos acechaba y el contagio comunitario estaba ya presente. Después de estudiar durante casi 6 años un doctorado en epidemiología y sociología computacional y comportamiento humano, algo sé del tema, podía aportar y tenía la responsabilidad moral de ayudar. Teníamos señales que nos confirmaban lo que podía pasar y lo que se nos venía encima.
 
-Azul, curva oficial de la gripe para la campaña de 2019-2020, rojo, búsquedas en google sobre la gripe, podemos ver perfectamente el cambio de comportamiento, la curva debería haber seguido una dinámica parecida a la de la gripe ofocial. Amarillo, [predicción del modelo de la gripe que tenemos en Zensei. ](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
+Azul, curva oficial de la gripe para la campaña de 2019-2020, rojo, búsquedas en google sobre la gripe, podemos ver perfectamente el cambio de comportamiento, la curva debería haber seguido una dinámica parecida a la de la gripe ofocial. Amarillo, [predicción del modelo de la gripe que tenemos en Zensei.](https://zenseiapp.com/gripe/gripe-sintomas-tratamiento-curar-evitar-epidemia-ahora/)
 
 ![](/uploads/screen-shot-2020-08-20-at-12-50-55.png)
 
-#### **Última semana de Febrero y primera semana Marzo**
+#### **Última semana de febrero y primera semana marzo**
 
 A mi madre ya la venía avisando, que a lo mejor deberían ella y mi padre empezar a pensar en mudarse conmigo a la granja familiar (Me he criado y llevaba viviendo desde Octubre después de vivir 11 años fuera de Toledo) y que hiciéramos algún tipo de compra. Yo ya tenía asumido que íbamos a estar 60 días.
 
@@ -44,25 +44,25 @@ De hecho un amigo, cuando paso todo, me dijo: "David, tío, ha pasado exactament
 
 #### **Semana del estado de alarma**
 
-**9 de Marzo. Lunes.**
+**9 de marzo. Lunes.**
 
 Hicimos simulacro de trabajo en remoto en mi empresa.
 
-**10 de Marzo. Martes.**
+**10 de marzo. Martes.**
 
 Última vez que fui a Madrid, vivo en una granja en medio del campo en Toledo.
 
 Me puse en contacto con mi director de tesis, Esteban Moro, reside en Boston, y con Manuel García-Herranz, colaborador y amigo, que reside en Nueva York, trabaja en UNICEF y es experto en pandemias. Estaba a su servicio para todo lo que necesitaran.
 
-**11 de Marzo. Miércoles.**
+**11 de marzo. Miércoles.**
 
 Nos cierran la oficina de [Google for Startups en Madrid](https://www.campus.co/madrid/) hasta nueva orden.
 
-**12 de Marzo. Jueves.**
+**12 de marzo. Jueves.**
 
 Se desata la locura. Se empiezan a movilizar recursos de forma espontánea en Madrid. Pero como pollos sin cabeza, muchos egos intentando ponerse medallas.
 
-**13 de Marzo. Viernes.**
+**13 de marzo. Viernes.**
 
 _Medio día_
 
@@ -80,7 +80,7 @@ Me escribe una de las principales operadoras de telecomunicación con quien hab�
 
 Les dije que no. Su visión era muy local, la mía era global y me había unido al grupo correcto de personas para tener un impacto a nivel mundial.
 
-**14 de Marzo. Sábado.**
+**14 de marzo. Sábado.**
 
 Declaración del estado de alarma
 
@@ -90,7 +90,7 @@ Empezamos a preparar el modelo, los datos y las estrategias de salida para ver c
 
 Empiezan los días de locura trabajando, haciendo horario español y estadounidense, pocas horas de sueño.
 
-**16 de Marzo. Lunes.**
+**16 de marzo. Lunes.**
 
 Trabajando desde mi habitación en la granja.
 
@@ -111,7 +111,7 @@ Publicamos este primer informe.
 
 Se lo presentamos a quién más sabe de estas cosas a nivel mundial. [Alex Vespignani](https://twitter.com/alexvespi). Ve potencial, nos ponemos a trabajar para mejorar el modelo y los resultados e identificar una estrategia óptima para minimizar los rebrotes y la segunda ola de contagios, con el objetivo de no saturar el sistema hospitalario. Definimos los niveles óptimos del famoso Test, Trace and Isolate. Testear, Trazar y Aislar.
 
-**6 de Mayo. Miércoles.**
+**6 de mayo. Miércoles.**
 
 Después de casi un mes de trabajo sin parar enviamos el manuscrito del artículo a Nature. Los revisores nos lo rechazan. Nos invitan a enviarlo Nature Human Behaviour. Una subrevista de Nature.
 
@@ -121,7 +121,7 @@ Salgo a desfogarme.
 
 Tenía tantas ganas de patinar, que me vine arriba saltando bordillos, me di un trompazo monumental montando con el skate y me dejé la muñeca tocada, todavía estoy recuperándome. Menos mal que no me rompí ningún hueso. Fue una temeridad por mi parte.
 
-**5 de Agosto. Miércoles.**
+**5 de agosto. Miércoles.**
 
 Después de muchas revisiones. El artículo es publicado en Nature Human Behaviour. Aquí puedes acceder.
 

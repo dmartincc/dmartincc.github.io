@@ -39,7 +39,7 @@ Como todo niño pequeño, yo soñaba. Seguro que tú también soñabas, por ejem
 
 Pero en mi caso, yo soñaba con ser científico, ingeniero genético, escritor, … no sé, en algo que me permitiera ayudar a millones de personas y dejar un legado, que de verdad tuviera un impacto.
 
-Todo esto lo soñaba desde la granja en la que me críe, en un ambiente de libertad total, de experimentación, en constante contacto con plantas y animales. De hecho, de pequeño tenía un semental limusin que le llamábamos “Butragueño”, como el futbolista. Nunca me gustó el fútbol.
+Todo esto lo soñaba desde la granja en la que me críe, en un ambiente de libertad total, de experimentación, en constante contacto con plantas y animales. De hecho, de pequeño tenía un semental limusín que le llamábamos “Butragueño”, como el futbolista. Nunca me gustó el fútbol.
 
 También por parte familiar, he vivido desde siempre en un ambiente empresarial. Soy hijo y nieto de empresario. Sé lo que es trabajar para los clientes, sacrificarse por un negocio y dedicar el capital familiar para que no falte nada de comer en ninguna de las familias de los empleados de la empresa familiar en tiempos de crisis.
 
@@ -51,18 +51,18 @@ Ahora, con la edad, reflexionando, no me considero más inteligente que nadie, p
 
 Entonces por qué digo que tengo toda la piel en el juego de los datos, la epidemiología y la salud respiratoria.
 
-Pues mira, por dos sencillas razones.
+Pues mira, por dos sencillas razones:
 
 1. He dedicado los últimos 6 años de mi vida para aprender sobre epidemiología. [Aquí puedes saber más.](/epidemiologo-covid/)
 2. Desde abril del 2017 co fundé [Zensei](https://zenseiapp.com), una empresa tecnológica dedicada a la salud preventiva y respiratoria.
 
-Estas dos decisiones que tomé en el pasado, además de otras muchas, me han hecho llegar a septiembre de 2020 bastante ventajosa, pero pese a que yo me encuentre mejor que nunca en la incertidumbre, el camino no ha sido fácil.
+Estas dos decisiones que tomé en el pasado, además de otras muchas, me han hecho llegar a septiembre de 2020 en un situación bastante ventajosa, pero pese a que yo me encuentre mejor que nunca en la incertidumbre, el camino no ha sido fácil ni lo será.
 
 Aislamiento social, depresión, una vida asceta sin lujos, etc… Estas son las consecuencias de mis decisiones, ningún camino es corto, fácil y recto. Al contrario, son largos, difíciles y tortuosos.
 
-Este anuncio de trabajo de Shackleton, explorador británico que intentó cruzar la Antártida por primera vez en 1914, lo define perfectamente.
+Este anuncio de trabajo de [Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton), explorador británico que intentó cruzar la Antártida por primera vez en 1914, lo define perfectamente.
 
-“Se busca a hombres para un viaje peligroso. Salarios bajos, frío amargo, largas horas de completa oscuridad. El regreso seguro es dudoso. Honor y reconocimiento en caso de éxito.”
+_“Se busca a hombres para un viaje peligroso. Salarios bajos, frío amargo, largas horas de completa oscuridad. El regreso seguro es dudoso. Honor y reconocimiento en caso de éxito.”_
 
 Me gusta, resume perfectamente lo que conlleva la toma de riesgos y los retornos a esperar. Entonces, me he grabado a fuego lo que es más probable: “Salario bajo, frío amargo, largas horas de completa oscuridad. El regreso seguro es dudoso.” Esto me permite dar todo mi potencial sin esperar nada a cambio.
 
@@ -73,3 +73,5 @@ Si tienes algún problema respiratorio o conoces a alguien con ellos, la forma t
 Si crees que te puede interesar cuidar de tu salud respiratoria, echa un vistazo a nuestra app diario de salud respiratoria.
 
 [**Aquí puedes probarla**](https://zenseiapp.com/)
+
+P.D.- En el enlace de arriba puedes cuidar tu salud respiratoria. Compártela si te parece útil.

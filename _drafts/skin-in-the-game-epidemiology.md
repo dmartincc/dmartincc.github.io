@@ -1,8 +1,8 @@
 ---
-layout: ''
-title: ''
-date: 
-author: ''
+layout: post
+title: Toda la piel en el juego de los datos, la epidemiología y la salud respiratoria
+date: 2020-09-16 22:00:00 +0000
+author: David
 keywords: ''
 category: ''
 image: ''
@@ -45,7 +45,7 @@ Entonces por qué digo que tengo toda la piel en el juego de los datos, la epide
 
 Pues mira, por dos sencillas razones.
 
-1. He dedicado los últimos 6 años de mi vida para aprender sobre epidemiología.
+1. He dedicado los últimos 6 años de mi vida para aprender sobre epidemiología. [Aquí puedes saber más.](/epidemiologo-covid/)
 2. Desde abril del 2017 co fundé Zensei, una empresa tecnológica dedicada a la salud preventiva y respiratoria.
 
 Estas dos decisiones que tomé en el pasado, además de otras muchas, me han hecho llegar a septiembre de 2020 bastante ventajosa, pero pese a que yo me encuentre mejor que nunca en la incertidumbre, el camino no ha sido fácil.
@@ -60,6 +60,8 @@ Me gusta, resume perfectamente lo que conlleva la toma de riesgos y los retornos
 
 Bueno.
 
-Si tienes algún problema respiratorio o conoces a alguien con ellos, la forma tradicional ha sido, cuando te falta el aire o tienes otro síntomas respiratorio, ir a urgencias o consulta, pero desde Zensei creemos en la salud preventiva, dandote un servicio totalmente personal para evitar esos horribles síntomas respiratorios.
+Si tienes algún problema respiratorio o conoces a alguien con ellos, la forma tradicional ha sido, cuando te falta el aire o tienes otro síntomas respiratorio, ir a urgencias o consulta, pero desde Zensei creemos en la salud preventiva, dándote un servicio totalmente personal para evitar esos horribles síntomas respiratorios.
 
 Si crees que te puede interesar cuidar de tu salud respiratoria, echa un vistazo a nuestra app diario de salud respiratoria.
+
+[**Aquí puedes probarla**](https://zenseiapp.com/)

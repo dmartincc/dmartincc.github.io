@@ -5,13 +5,13 @@ date: 2020-09-16 22:00:00 +0000
 author: David
 keywords: ''
 category: ''
-image: ''
+image: "/uploads/saam-1909-10-2_1.jpg"
 description: ''
 
 ---
 El otro día, un lector de mi primer artículo me dijo: “Sí, tienes “skin in the game”, de veras que te admiro.”
 
-Sus palabras me abrieron los ojos, nunca pensé que pudiera ser admirado, además de recomendarme el libro [**_Skin in the Game: Hidden Asymmetries in Daily Life_**](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)) de [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb).
+Sus palabras me abrieron los ojos sobre situación actual y me sorprendió porque nunca pensé que pudiera ser admirado por alguien, además de recomendarme el libro [**_Skin in the Game: Hidden Asymmetries in Daily Life_**](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)) de [Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb).
 
 El libro explica exactamente la posición en la que estoy, explica las asimetrías de información en las interacciones humanas y la gestión de la incertidumbre.
 

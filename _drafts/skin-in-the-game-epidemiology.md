@@ -15,6 +15,14 @@ Sus palabras me abrieron los ojos, nunca pensé que pudiera ser admirado, ademá
 
 El libro explica exactamente la posición en la que estoy, explica las asimetrías de información en las interacciones humanas y la gestión de la incertidumbre.
 
+Este cuadro del pintor romántico alemán, [Caspar David Friedrich](https://en.wikipedia.org/wiki/Caspar_David_Friedrich "Caspar David Friedrich"), y titulado "Montañero sobre un mar de niebla", puede representar la situación en la que me encuentro actualmente, nervioso y emocionado, sé donde quiero ir, pero desconozco el camino por delante.
+
+![Caspar David Friedrich - Wanderer above the sea of fog.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
+
+Para poder llegar donde quiero es necesario minimizar los riesgos y planificar.
+
+Bien.
+
 Te estarás preguntando qué significa la frase “skin in the game”, si es que no lo has adivinado o la conocías ya.
 
 Se refiere a haber incurrido en un riesgo por intentar conseguir un objetivo.
@@ -46,7 +54,7 @@ Entonces por qué digo que tengo toda la piel en el juego de los datos, la epide
 Pues mira, por dos sencillas razones.
 
 1. He dedicado los últimos 6 años de mi vida para aprender sobre epidemiología. [Aquí puedes saber más.](/epidemiologo-covid/)
-2. Desde abril del 2017 co fundé Zensei, una empresa tecnológica dedicada a la salud preventiva y respiratoria.
+2. Desde abril del 2017 co fundé [Zensei](https://zenseiapp.com), una empresa tecnológica dedicada a la salud preventiva y respiratoria.
 
 Estas dos decisiones que tomé en el pasado, además de otras muchas, me han hecho llegar a septiembre de 2020 bastante ventajosa, pero pese a que yo me encuentre mejor que nunca en la incertidumbre, el camino no ha sido fácil.
 
@@ -60,7 +68,7 @@ Me gusta, resume perfectamente lo que conlleva la toma de riesgos y los retornos
 
 Bueno.
 
-Si tienes algún problema respiratorio o conoces a alguien con ellos, la forma tradicional ha sido, cuando te falta el aire o tienes otro síntomas respiratorio, ir a urgencias o consulta, pero desde Zensei creemos en la salud preventiva, dándote un servicio totalmente personal para evitar esos horribles síntomas respiratorios.
+Si tienes algún problema respiratorio o conoces a alguien con ellos, la forma tradicional ha sido, cuando te falta el aire o tienes otro síntomas respiratorio, ir a urgencias o consulta, pero desde [Zensei](https://zenseiapp.com) creemos en la salud preventiva, dándote un servicio totalmente personal para evitar esos horribles síntomas respiratorios.
 
 Si crees que te puede interesar cuidar de tu salud respiratoria, echa un vistazo a nuestra app diario de salud respiratoria.
 

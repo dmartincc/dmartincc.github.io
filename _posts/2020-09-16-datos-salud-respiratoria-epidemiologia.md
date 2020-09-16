@@ -6,8 +6,7 @@ author: David
 keywords: ''
 category: ''
 image: "/uploads/saam-1909-10-2_1.jpg"
-description: ''
-
+description: 'Historia sobre un experto en datos, epidemiología y salud respiratoria.'
 ---
 El otro día, un lector de mi primer artículo me dijo: “Sí, tienes “skin in the game”, de veras que te admiro.”
 

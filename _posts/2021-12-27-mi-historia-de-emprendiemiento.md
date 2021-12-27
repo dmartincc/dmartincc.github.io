@@ -56,13 +56,13 @@ Básicamente. Colapsé. De nuevo. No era la primera vez. Te puedes imaginar como
 
 Por diversos motivos, recibí de las pocas regañinas que he recibido en mi vida profesional. Lloré desconsoladamente, me preguntaba a mi mismo, por qué, por qué, por qué me merezco esto. He dinamitado mi vida, he puesto toda mi energía y ahorros en dos proyectos que no han tenido el rédito que yo esperaba. 
 
-Solo recibo hostias por todos lados, nadie me paga un sueldo. Al contrario, encima tengo que poner dinero de mi bolsillo, el poco que tengo. Lo haría por ambición. Por qué. Qué hecho mal. Habré sido muy ambicioso. L
+Solo recibo hostias por todos lados, nadie me paga un sueldo. Al contrario, encima tengo que poner dinero de mi bolsillo, el poco que tengo. Lo haría por ambición. Por qué. Qué hecho mal. Habré sido muy ambicioso.
 
-os límites me los ponía yo y mi imaginación era la única restricción que tenía. El caso, es que después de esta regañina, tampoco tuve mucho tiempo de reflexión, de nuevo, tuve que limpiarme las lágrimas y volver a trabajar. 
+Los límites me los ponía yo y mi imaginación, que era la única restricción que tenía. El caso, es que después de esta regañina, tampoco tuve mucho tiempo de reflexión, de nuevo, tuve que limpiarme las lágrimas y volver a trabajar. 
 
-Trabajé una semana sin dormir y comer para solucionar todo aquellos problemas que generé. Por suerte, llevaba viviendo desde hace unos meses en Tarifa. S
+Trabajé una semana sin dormir y comer para solucionar todo aquellos problemas que generé. Por suerte, llevaba viviendo desde hace unos meses en Tarifa.
 
-eguramente, el mejor sitio para recibir malas noticias. Cuando me fuí a vivir allí, internamente, me decía, me voy a mi metamorfosis. La cual yo esperaba que fuera totalmente distinta a la que he vivido. Pero ahora, mirando hacía atrás, puedo decir, que esta es la que necesitaba. 
+Seguramente, el mejor sitio para recibir malas noticias. Cuando me fuí a vivir allí, internamente, me decía, me voy a mi metamorfosis. La cual yo esperaba que fuera totalmente distinta a la que he vivido. Pero ahora, mirando hacía atrás, puedo decir, que esta es la que necesitaba. 
 
 La vida literalmente me restregó la cara contra el suelo, y me dijo: “Si quieres llegar a donde quieres llegar, esto es lo que tienes que aprender”.
 
@@ -74,9 +74,9 @@ Así que me centré en mí, en vivir, en existir, en ser yo, en recuperar mi ver
 
 Lo primero que hice, fue plantearme, por qué, por qué, había tomado estos caminos. Mi pasión es crear, aprender y ser libre. Montar la empresa, me daría la libertad económica, y el doctorado, las bases para poder seguir aprendiendo en mi vida y responder mis aspiraciones existenciales. Así algún día podría dedicarme a lo que realmente llena todos y cada uno de los poros de mi piel, crear. 
 
-Hacer música, escribir, pintar, hacer escultura y algún día poder educar a mis hijos eran mis ambiciones de futuro. Pero mi situación, era que había dinamitado mi vida. Económicamente, estaba en bancarrota con un crédito que empezaba a pagar en breve. 
+Hacer música, escribir, pintar, hacer escultura y algún día poder educar a mis hijos eran mis ambiciones de futuro. Pero mi situación, era que había dinamitado mi vida. 
 
-Emocionalmente, era incapaz de querer a mi mismo con lo que conlleva. Salud, me estaba destruyendo, llevaba veinte años fumando, a escondidas, y desde el confinamiento no había hecho nada más que aumentar. Alcohol, nunca me gusto y nunca lo utilicé para evadirme, pero es verdad, que últimamente, no controlaba mucho. 
+Económicamente, estaba en bancarrota con un crédito que empezaba a pagar en breve. SEmocionalmente, era incapaz de querer a mi mismo con lo que conlleva. Salud, me estaba destruyendo, llevaba veinte años fumando, a escondidas, y desde el confinamiento no había hecho nada más que aumentar. Alcohol, nunca me gusto y nunca lo utilicé para evadirme, pero es verdad, que últimamente, no controlaba mucho. 
 
 Un año antes había vuelto a componer canciones, hacía unos años que no tocaba de forma diaria la guitarra. Una de mis pasiones. No seré el mejor músico, pero lo que toco sé que sale de mi corazón, de mi espíritu. 
 

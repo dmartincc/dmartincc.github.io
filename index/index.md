@@ -72,7 +72,9 @@ Cosa que he intentado que no han funcionado o si.
 
 ❌ **helth.ai**, 2016. Un asistente de salud via email. FALLIDO.
 
-✅ [**Politibot**](http://politibot.io), 2016. Ayudé a un robot a que cuente historias sobre política. FUNCIONANDO.
+❌ [**Politibot**](http://politibot.io), 2016. Ayudé a un robot a que cuente historias sobre política. CESE.
+
+❌ [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Dediqué mis ahorros, energia, tiempo y conocimientos a ayudar a millones de personas con problemas respiratorios a cuidarse. Se acabó. FALLIDO.
 
 <br>
 
@@ -80,11 +82,13 @@ Cosa que he intentado que no han funcionado o si.
 
 ¿En qué estoy trabajando ahora mismo? Espero que funcionen.
 
-👷 [**Zensei**](https://zenseiapp.com), desde Abril del 2017. Estoy dedicando mis ahorros, energia, tiempo y conocimientos a ayudar a millones de personas con problemas respiratorios a cuidarse. Deje una oferta de trabajo en NY por montar Zensei. WIP.
-
 👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature.
 
-👷 **CÑPN**, arte y moda. Muy pronto.
+👷 **Escritor**, estoy nutriendo la actividad. He escrito dos libros y voy a por el tercero.
+
+👷 [**Crystal Dreams**](https://crystal-dreams.org). Servicio de análisis del contenido de sueños con IA.
+
+👷 [**Certificado de Data Science de The Power MBA**](https://www.thepowermba.com/es/data-science/). Hemos diseñado el mejor curso de ciencia de datos para personas de negocio.
 
 <br>
 
@@ -124,7 +128,7 @@ Hipertextual: [Zensei, la evolución del bot que analiza el aire que respiras](h
 
 ¿Quieres ver más? [**Mira aquí**](/blog).
 
-Si quieres ponerte en contacto conmigo. Puedes escribirme [**aquí**](mailto:hola@dmartincc.com)
+Si quieres ponerte en contacto conmigo. Puedes escribirme [**aquí**](mailto:dmartincc84@gmail.com)
 
 No soy muy activo en redes, a lo mejor me encuentra en:
 

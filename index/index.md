@@ -90,6 +90,8 @@ Cosa que he intentado que no han funcionado o si.
 
 👷 [**Certificado de Data Science de The Power MBA**](https://www.thepowermba.com/es/data-science/). Hemos diseñado el mejor curso de ciencia de datos para personas de negocio.
 
+👷 [**Envio un poema diario**](https://poemas.io/) para que vuelvas a querer.
+
 <br>
 
 ## **Mis proyectos de futuro y sueños**

@@ -38,7 +38,7 @@ Nosotros lo hacíamos. Parecía que la situación de pandemia podía ayudar, lo 
 
 Después de muchos meses de trabajo, reuniones con inversores, auditorías, negociaciones de contratos, todo parecía que iba a acabar bien. Aunque en mi interior, si te soy sincero, algo me decía que no iba a salir bien. 
 
-Llevaba unos meses preparándome inconscientemente para el golpe. Leyendo de forma compulsivamente filosofía existencial y meditando esporádicamnt. Pues bien. Justo ese día, cuando íbamos a firmar los term sheets, uno de ellos se echó atrás. 
+Llevaba unos meses preparándome inconscientemente para el golpe. Leyendo de forma compulsivamente filosofía existencial y meditando esporádicamente. Pues bien. Justo ese día, cuando íbamos a firmar los term sheets, uno de ellos se echó atrás. 
 
 Esto provocó un efecto dominó que hizo que toda la operación se cayera. No teníamos dinero para la semana siguiente, que había que pagar nóminas. 
 
@@ -72,7 +72,7 @@ Tenía una ayuda del COVID para autónomos que me daba lo justo. Necesito muy po
 
 Así que me centré en mí, en vivir, en existir, en ser yo, en recuperar mi verdadero yo, en volver a sentir. Por ejemplo, me era imposible entablar relaciones personales con chicas. Si, tenía citas, pero todo el sufrimiento al que me había infligido a mi mismo no me permitía dar ese paso. Tenía la autoestima totalmente aniquilada, no me quería a mi mismo. 
 
-Lo primero que hice, fue plantearme, por qué, por qué, había tomado estos caminos. Mi pasión es crear, aprender y ser libre. Montar la empresa, me daría la libertad económica, y el doctorado, las bases para poder seguir aprendiendo en mi vida y responder mis aspiraciones existenciales. Así algún día podría dedicarme a lo que realmente llena todos y cada uno de los poros de mi piel, crear. 
+Lo primero que hice, fue plantearme, por qué, por qué, por qué había tomado estos caminos. Mi pasión es crear, aprender y ser libre. Montar la empresa, me daría la libertad económica, y el doctorado, las bases para poder seguir aprendiendo en mi vida y responder mis aspiraciones existenciales. Así algún día podría dedicarme a lo que realmente llena todos y cada uno de los poros de mi piel, crear. 
 
 Hacer música, escribir, pintar, hacer escultura y algún día poder educar a mis hijos eran mis ambiciones de futuro. Pero mi situación, era que había dinamitado mi vida. 
 

@@ -135,8 +135,10 @@ Ahora, por fin, estoy volviendo a retomar las riendas de mi vida y todo empieza 
 
 [**Curso de data science en ThePowerMBA**](https://www.thepowermba.com/es/data-science/)
 
-[**Mi primer libro: Viviendo en un sociedad enferma. En marzo se publicará.**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/)
-
 [**Escribo un poema diario para que vuelvas a quererte**](https://poemas.io/)
+
+[**Aquí puedes comprar mi primer libro: Viviendo en un sociedad enferma.**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/)
+
+
 
 

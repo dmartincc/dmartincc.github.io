@@ -92,6 +92,12 @@ Cosa que he intentado que no han funcionado o si.
 
 👷 [**Envio un poema diario**](https://poemas.io/) para que vuelvas a querer.
 
+👷 [**Viviendo en una sociedad enferma**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/). Mi primer libro publicado. Marco teóico para diluir el ego. Ya puedes comprarlo.
+
+👷 **Descubriendo a Iridis**. Segundo libro. Mi viaje de disolución del ego. En edición.
+
+👷 **Sanando a Iridis**. Tercer libro. Rescutrucción de mi ego, después de haberlo diluido.  En edición.
+
 <br>
 
 ## **Mis proyectos de futuro y sueños**

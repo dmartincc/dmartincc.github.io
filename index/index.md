@@ -85,9 +85,9 @@ Cosa que he intentado que no han funcionado o si.
 👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature.
 
 👷 **Escritor**, estoy nutriendo la actividad. He escrito dos libros y voy a por el tercero. 
-[**Viviendo en una sociedad enferma**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/). Mi primer libro publicado. Marco teóico para diluir el ego. Ya puedes comprarlo.
-**Descubriendo a Iridis**. Segundo libro. Mi viaje de disolución del ego. En edición.
-**Sanando a Iridis**. Tercer libro. Rescutrucción de mi ego, después de haberlo diluido.  En edición.
+- [**Viviendo en una sociedad enferma**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/). Mi primer libro publicado. Marco teóico para diluir el ego. Ya puedes comprarlo.
+- **Descubriendo a Iridis**. Segundo libro. Mi viaje de disolución del ego. En edición.
+- **Sanando a Iridis**. Tercer libro. Rescutrucción de mi ego, después de haberlo diluido.  En edición.
 
 👷 [**Crystal Dreams**](https://crystal-dreams.org). Servicio de análisis del contenido de sueños con IA.
 
@@ -116,6 +116,8 @@ ABC: [Un científico toledano y su receta para evitar rebrotes de coronavirus](h
 Vozpopuli: [Los humanos y algoritmos detrás de Politibot](https://www.vozpopuli.com/economia-y-finanzas/startups/humanos-algoritmos-detras-Politibot-chatbot-startup-telegram-inteligencia-artificial_0_1096691048.html)
 
 Hipertextual: [Zensei, la evolución del bot que analiza el aire que respiras](https://hipertextual.com/2018/04/zensei-app-ambiente)
+
+RTVE: [Mi director de tesis habla sobre nuestros estudios de epidemias y datos móviles](https://www.rtve.es/play/videos/cerebros-sin-fronteras/esteban-moro-estudiando-sociedad-microscopio-big-data/6410889/)
 
 <br>
 

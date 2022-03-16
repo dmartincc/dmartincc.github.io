@@ -84,19 +84,16 @@ Cosa que he intentado que no han funcionado o si.
 
 👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature.
 
-👷 **Escritor**, estoy nutriendo la actividad. He escrito dos libros y voy a por el tercero.
+👷 **Escritor**, estoy nutriendo la actividad. He escrito dos libros y voy a por el tercero. 
+[**Viviendo en una sociedad enferma**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/). Mi primer libro publicado. Marco teóico para diluir el ego. Ya puedes comprarlo.
+**Descubriendo a Iridis**. Segundo libro. Mi viaje de disolución del ego. En edición.
+**Sanando a Iridis**. Tercer libro. Rescutrucción de mi ego, después de haberlo diluido.  En edición.
 
 👷 [**Crystal Dreams**](https://crystal-dreams.org). Servicio de análisis del contenido de sueños con IA.
 
 👷 [**Certificado de Data Science de The Power MBA**](https://www.thepowermba.com/es/data-science/). Hemos diseñado el mejor curso de ciencia de datos para personas de negocio.
 
 👷 [**Envio un poema diario**](https://poemas.io/) para que vuelvas a querer.
-
-👷 [**Viviendo en una sociedad enferma**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/). Mi primer libro publicado. Marco teóico para diluir el ego. Ya puedes comprarlo.
-
-👷 **Descubriendo a Iridis**. Segundo libro. Mi viaje de disolución del ego. En edición.
-
-👷 **Sanando a Iridis**. Tercer libro. Rescutrucción de mi ego, después de haberlo diluido.  En edición.
 
 <br>
 

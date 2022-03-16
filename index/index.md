@@ -87,7 +87,7 @@ Cosa que he intentado que no han funcionado o si.
 👷 **Escritor**, estoy nutriendo la actividad. He escrito dos libros y voy a por el tercero. 
 - [**Viviendo en una sociedad enferma**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/). Mi primer libro publicado. Marco teóico para diluir el ego. Ya puedes comprarlo.
 - **Descubriendo a Iridis**. Segundo libro. Mi viaje de disolución del ego. En edición.
-- **Sanando a Iridis**. Tercer libro. Rescutrucción de mi ego, después de haberlo diluido.  En edición.
+- **Sanando a Iridis**. Tercer libro. Resconstrucción de mi ego, después de haberlo diluido.  En edición.
 
 👷 [**Crystal Dreams**](https://crystal-dreams.org). Servicio de análisis del contenido de sueños con IA.
 

@@ -26,7 +26,7 @@ Practícalo, seguro que te va mucho mejor.
 
 Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aportar algo en:
 
-🔬 **Datos y salud**. He dedicado 6 años de mi vida, a la vez que trabajaba, a estudiar un doctorado en computación epidemiológica, computación social y comportamiento humano. Toda mi experiencia laboral en la industria y académica ha sido como Data Scientist.
+🔬 **Datos y salud**. He dedicado 6 años de mi vida, a la vez que trabajaba, a estudiar un doctorado en sistemas complejos, computación epidemiológica, computación social, comportamiento humano y machine learning aplicado a salud. Toda mi experiencia laboral en la industria y académica ha sido como Data Scientist y emprendedor.
 
 💵 **Negocios**. De pequeño soñé con ser ingeniero genético. Me quedé en ingeniero industrial para llevar el negocio familiar. Al final monté mi propio negocio.
 

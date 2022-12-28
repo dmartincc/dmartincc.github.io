@@ -6,13 +6,15 @@ date: 2018-10-06 00:00:00 +0200
 permalink: /
 ---
 
-Lo primero, soy un Don Nadie que no tiene __ni p*** idea de casi nada__ y obsesionado con la disolución del ego.
+Lo primero, soy un Don Nadie que no tiene __ni p*** idea de casi nada__ y me obsesioné con la disolución del ego.
+
+Ya lo he conseguido disolver y hacerlo coherente.
 
 Sueño desde pequeño con hacer algo que pueda ayudar a vivir mejor a millones de personas. Ese es el mi baremo del éxito.
 
 Por eso, me he dedicado a estudiar y observar. Parece que no voy mal desencaminado, con tesón y paciencia estoy más cerca de conseguirlo.
 
-Esto me ha llevado a ser una persona que entra en flujo cuando aprende y a ser polifacético.
+Esto me ha llevado a ser una persona que entra en flujo cuando aprende, a ser polifacético y auténtico.
 
 Aquí te dejo mi principal aprendizaje hasta ahora.
 
@@ -34,11 +36,13 @@ Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aporta
 
 🐐 **Granja**. Me he criado y vivo en una granja con vacas, cabras, caballos, gallinas, huerto, etc. Intento aprender de mi padre por si hay un holocausto.
 
-🧠 **Mi mundo**. Pienso luego existo, pero de forma inconexa y de esto no sé nada de nada. Empecé la licenciatura de filosofía. Opté por ser autodidacta y leer mucho. Me obsesiona la psiconáutica y la disolución del ego.
+🧠 **Mi mundo**. Pienso luego existo, pero de forma inconexa y de esto no sé nada de nada. Empecé la licenciatura de filosofía. Opté por ser autodidacta y leer mucho. Me obsesiona la psiconáutica y la disolución del ego. Descartes se equivoco. No es pienso luego existo. Es siento luego existo.
 
-🏊‍♂️ **Piscina**. He nadado en 20 años más de 10.000km. Lo único que he conseguido ha sido marearme dando virajes y ser campeón de España master.
+🏊‍♂️ **Piscina**. He nadado en 20 años más de 10.000km. Lo único que he conseguido ha sido marearme dando virajes y ser campeón de España master. De cinco a seis días en semana nado mínimo 2000 metros diarios.
 
 🤪 **Skate**. He ofrecido algún hueso al dios del skate. O estás concentrado encima de la tabla o te la pegas. Me gusta porque me hace sentirme vivo.
+
+🧘 **Meditación y viajes interiores**. He abierto las puertas de la percepción múltiples veces con ayuda psicodélica.
 
 <br>
 
@@ -82,19 +86,18 @@ Cosa que he intentado que no han funcionado o si.
 
 ¿En qué estoy trabajando ahora mismo? Espero que funcionen.
 
-👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature.
+👷 **Doctorado**, estudio la dinámica de las epidemias sobre redes sociales con datos y machine learning. Me gusta meter miedo con historias de epidemias. Parece que el tema está de moda. Puedo decir que he publicado en Nature. [**Mi Google Scholar**](https://scholar.google.com/citations?user=iQ2rQNkAAAAJ&hl=en) donde encontrarás mis trabajos científicos.
 
 👷 **Escritor**, estoy nutriendo la actividad. He escrito dos libros y voy a por el tercero. 
 - [**Viviendo en una sociedad enferma**](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/). Mi primer libro publicado. Marco teóico para diluir el ego. Ya puedes comprarlo.
-- **Descubriendo a Iridis**. Segundo libro. Mi viaje de disolución del ego. En edición.
-- **Sanando a Iridis**. Tercer libro. Resconstrucción de mi ego, después de haberlo diluido.  En edición.
-
-👷 [**Crystal Dreams**](https://crystal-dreams.org). Servicio de análisis del contenido de sueños con IA.
+- **En búsqueda del ego coherente de la nueva era**. Segundo libro. Mi viaje de disolución del ego. En edición.
 
 👷 [**Certificado de Data Science de The Power MBA**](https://www.thepowermba.com/es/data-science/). Hemos diseñado el mejor curso de ciencia de datos para personas de negocio.
 
-👷 [**Envio un poema diario**](https://poemas.io/) para que vuelvas a querer.
+👷 [**Escibo poemas**](https://poemas.io/) para que vuelvas a querer.
 
+👷 [**Ayudo a reducir el estrés en Iridis Care**](https://iridis.care/) para que no seas un esclavo de tus emociones.
+ 
 <br>
 
 ## **Mis proyectos de futuro y sueños**
@@ -110,6 +113,9 @@ No tengo ni idea, pero me gustaría algún día:
 <br>
 
 ## **Apariciones de mi trabajo en medios**
+
+Tribuna de Toledo: [Nociones cuánticas para entender a la sociedad actual
+](https://www.latribunadetoledo.es/Noticia/Z4F631007-E3B7-2503-D2EEC6ECB263F23F/202212/Nociones-cuanticas-para-entender-a-la-sociedad-actual)
 
 ABC: [Un científico toledano y su receta para evitar rebrotes de coronavirus](https://www.abc.es/espana/castilla-la-mancha/toledo/abci-cientifico-toledano-y-receta-para-evitar-rebrotes-202008092022_noticia.html)
 
@@ -135,11 +141,15 @@ RTVE: [Mi director de tesis habla sobre nuestros estudios de epidemias y datos m
 
 ¿Quieres ver más? [**Mira aquí**](/blog).
 
-Si quieres ponerte en contacto conmigo. Puedes escribirme [**aquí**](mailto:dmartincc84@gmail.com)
+Si quieres ponerte en contacto conmigo. 
 
-No soy muy activo en redes, a lo mejor me encuentra en:
+Puedes escribirme [**aquí**](mailto:dmartincc84@gmail.com)
 
-[Twitter](https://twitter.com/Dmartincc) o [LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/)
+No soy muy activo en redes, a lo mejor me encuentras en:
+
+[Twitter](https://twitter.com/Dmartincc) Aquí lo dudo, borré todo lo que publiqué.
+
+[LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/)
 
 
 

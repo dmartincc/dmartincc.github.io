@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Expansión interna para levantarme y volver emprender
+title: 2022 Expansión interna para levantarme y volver a emprender
 date: 2022-12-28T09:00:00.000+00:00
 author: David
 keywords: ''
@@ -12,7 +12,11 @@ description: Historia de crecimiento personal de un emprendedor
 
 No suelo escribir y publicar mucho públicamente. La última vez que publiqué una reflexión fue hace justo un año. [Contando mi historia de emprendimiento](https://dmartincc.com/mi-historia-de-emprendiemiento/), donde relataba y anunciaba el cierre de mi primera empresa que dirigía. Mi primer fracaso empresarial. El cual ya ha sido digerido, integrado y trascendido. Cuando escribí ese anuncio, me encontraba en pleno brote psicótico, fruto de haber pasado años con unos niveles excesivos de cortisoles, por diferentes motivos, totalmente fruto de mi ambición, y de una bipolaridad diagnosticada que me impedía controlar mi mente. Un día eufórico y otro depresivo. Un tiovivo emocional muy alocado.
 
+<br>
+
 ![David Martín-Corral Calvo](/img/TC4A5551.jpg)
+
+<br>
 
 Mi sistema de creencias estaba en plena expansión, se estaba actualizando. Mi sistema nervioso, el sistema informacional que hace que mi cuerpo-mente funcione, perdía el contacto con la realidad en contadas ocasiones. Mi percepción se encontraba abierta a dimensiones alternativas a las que no estamos acostumbrados y la cultura nos ha adoctrinado a tener miedo. Una apertura a mi consciencia interna. Tenía que actuar como un niño. No podía operar de forma normal. Solo podía hacer caso a mi deseo interno, viviendo en el ahora eterno.
 

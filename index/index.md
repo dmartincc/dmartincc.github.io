@@ -108,7 +108,7 @@ No tengo ni idea, pero me gustaría algún día:
 
 🐬 Nadar con delfines.
 
-🎨 Volver a pintar y hacer escultura.
+🎨 Volver a pintar y hacer escultura. Muy pronto.
 
 <br>
 

@@ -54,9 +54,13 @@ Ahora me dedico a eso de los datos, productos digitales y salud. Básicamente, u
 
 Soy de Toledo, España. Y no de Toledo de Ohio.
 
-Viví en Madrid durante 9 años. Antes he vivido en Ploiesti, Edimburgo, Glasgow, Barcelona y ahora sueño con vivir en la playa.
+Viví en Madrid durante 9 años. Antes he vivido en Ploiesti, Edimburgo, Glasgow, Barcelona y sueño con vivir en la playa. 
 
-Ah! Soy y he sido profe en varias universidad y escuelas de negocio. Enseñar, enseñar,... ayudo a descubrir el mundo. 
+Bueno, ya lo he conseguido, he vivido 2 años en Tarifa en primera línea de playa. Me tomaba el café todos los días viendo África.
+
+Ah! Soy y he sido profe en varias universidad y escuelas de negocio. Universidad Complutense de Madrid, Universidad de Alcalá, Universidad Carlos III de Madrid e Insituto de Empresa. 
+
+Enseñar, enseñar,... ayudo a descubrir el mundo. 
 
 Cosas de la vida. Estuve el 10 de septiembre de 2011 en la terraza de una de las Twin Towers en NY.
 

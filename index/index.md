@@ -6,13 +6,11 @@ date: 2018-10-06 00:00:00 +0200
 permalink: /
 ---
 
-Lo primero, soy un Don Nadie que no tiene __ni p*** idea de casi nada__ y me obsesioné con la disolución del ego.
+Lo primero, soy un Don Nadie que no tiene __ni p*** idea de casi nada__ y he disuelto mi ego.
 
-Ya lo he conseguido disolver y hacerlo coherente.
+Sueño desde pequeño con hacer algo que pueda ayudar a vivir mejor a millones de personas. Ese es mi baremo del éxito.
 
-Sueño desde pequeño con hacer algo que pueda ayudar a vivir mejor a millones de personas. Ese es el mi baremo del éxito.
-
-Por eso, me he dedicado a estudiar y observar. Parece que no voy mal desencaminado, con tesón y paciencia estoy más cerca de conseguirlo.
+Por eso, me he dedicado a estudiar y observar. Parece que no voy mal desencaminado, con pasión, tesón y paciencia estoy más cerca de conseguirlo.
 
 Esto me ha llevado a ser una persona que entra en flujo cuando aprende, a ser polifacético y auténtico.
 
@@ -42,7 +40,7 @@ Saber, saber, lo que se dice saber, más bien poco. Pero seguro que puedo aporta
 
 🤪 **Skate**. He ofrecido algún hueso al dios del skate. O estás concentrado encima de la tabla o te la pegas. Me gusta porque me hace sentirme vivo.
 
-🧘 **Meditación y viajes interiores**. He abierto las puertas de la percepción múltiples veces con ayuda psicodélica.
+🧘 **Meditación y pisconaútica**. Llevo abriendo las puertas de la percepción desde que tengo 17 años con ayuda psicodélica.
 
 <br>
 

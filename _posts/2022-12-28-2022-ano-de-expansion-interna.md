@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 Expansión interna y nuevo emprendimiento
+title: 2022 Expansión interna para levantarme y volver emprender
 date: 2022-12-28T09:00:00.000+00:00
 author: David
 keywords: ''

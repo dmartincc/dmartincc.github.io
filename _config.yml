@@ -32,7 +32,7 @@ disqus:
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-relative-links
   - jekyll-seo-tag

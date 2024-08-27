@@ -83,7 +83,7 @@ Desarrollo de modelos predictivos, análisis de grandes volúmenes de datos, dis
 
 **Formación**
 
-Imparto cursos y talleres sobre ciencia de datos, inteligencia artificial, sistemas complejos sociales y salud digital.
+Imparto cursos y talleres sobre ciencia de datos, inteligencia artificial, sistemas complejos sociales, salud digital y consciencia.
 
 **Coaching**
 

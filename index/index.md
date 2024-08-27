@@ -77,9 +77,25 @@ También he escrito varios poemarios que exploran temas como la naturaleza, la e
 <br>
 ### **🤝 Servicios**
 
-Consultoría estratégica y científico-tecnológica, conferenciante, coaching y terapia energética.
+**Consultoría**
 
-Para contratación de servicios puedes enviarme un email [**pulsando aquí**](mailto:dmartincc84@gmail.com).
+Llevo desde 2008 trabajando en modelización matemática, ciencia de datos, inteligencia artificial, diseño de producto y estrategia.
+
+**Conferencias y cursos**
+
+Imparto clases a nivel universitario desde 2014 y dando conferencias a nivel académico e industrial. Materias que imparto: Sistemas complejos, Ciencia de redes, Ciencia de datos, Inteligencia artificial, Ciencias sociales computacionales, Epidmiología computacional, Salud digital.
+
+**Coaching**
+
+Acompaño a personas que han sufrido el despertar de su kundalini después de haber recorrido yo ese camino. 
+
+**Trabajo energético**
+
+Soy canal de la energía primordial y mediante imposición de manos elevo el nivel de consciencia y equilibro el campo bioenergético de la persona.
+
+### **🤝 Contacto**
+
+Si algo te resuena de lo que has leído puedes contactar conmigo [**pulsando aquí**](mailto:dmartincc84@gmail.com).
 
 <br>
 <br>

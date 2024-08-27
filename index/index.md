@@ -22,9 +22,9 @@ Actualmente soy cofundador de StressTech. Una empresa de salud digital que utili
 
 Lideré las prácticas de ciencia de datos en Smartvel y el equipo de productos de salud basados en datos en Sanitas, como Senior Data Scientist. Anteriormente, trabajé en IBM como Advanced Analytics Consultant, diseñando y construyendo las primeras plataformas de Big Data e iniciativas de ciencias de datos en España para BBVA, CaixaBank y Bankinter. Como científico de datos con más de 15 años de experienia he puesto en producción más de 500 modelos de inteligencia artificial y he ayudado a empresas tecnológicas a lanzar sus iniciativas de datos e inteligencia artificial como 24symbols, SafeTrack, Quantica, Getro y Fandit.
 
-Imparto o he impartido clases en múltiples insituticiones académicas como Universidad Pontificia de Comillas, Universidad Complutense de Madrid, The Power Business School, The Valley Business School, Instituto de Empresa, Universidad Carlos III de Madrid o Universidad de Alcalá y doy charlas e imparto cursos a todo tipo de públicos.
+Imparto o he impartido clases en múltiples insituticiones académicas como Universidad Pontificia de Comillas, Universidad Complutense de Madrid, The Power Business School, The Valley Business School, Instituto de Empresa, Universidad Carlos III de Madrid o Universidad de Alcalá y doy charlas e imparto cursos a todo tipo de públicos. Como investigador he publicado en revistas de alto impacto como Nature o PNAS y he sido investigador invitado en el laboratorio de Dinámica Humana del MIT Media Lab (USA). 
 
-Como investigador he publicado en revistas de alto impacto como Nature o PNAS y he sido investigador invitado en el laboratorio de Dinámica Humana del MIT Media Lab.
+Soy un profesional con una sólida experiencia en trabajar y liderar de equipos multiculturales a nivel internacional en el mundo académico e industrial. Mi enfoque se centra en un liderazgo empático, la consecución de objetivos y la adaptación constante al cambio.
 
 Puedes saber más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/) o [Google Scholar](https://scholar.google.com/citations?user=iQ2rQNkAAAAJ&hl=en).
 

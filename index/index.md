@@ -18,7 +18,7 @@ Mis intereses se centran en **mejorar la salud y el bienestar**, así como en la
 <br>
 ### **💻 Experiencia profesional**
 
-__Intentamos ayudar con nuetras habilidades.__
+_Intentamos ayudar con nuetras habilidades._
 
 Actualmente soy cofundador de StressTech. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Cofundé y fui CEO de Zensei, una startup de salud digital para pacientes respiratorios. También fui cofundador de Politibot, una startup española centrada en noticias políticas y ganadora del premio DNI de Google. 
 
@@ -33,7 +33,7 @@ Puedes saber más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/da
 <br>
 ### **🎓 Formación académica**
 
-__Me gusta mucho aprender y saturar campos del conocimiento.__
+_Me gusta mucho aprender y saturar campos del conocimiento._
 
 Doctor en Ingeniería Matemática (Cum Laude), Universidad Carlos III de Madrid (España).
 
@@ -48,7 +48,7 @@ Filosofía, UNED (España). Primeros cursos.
 <br>
 ### **✍🏻 Libros y escritos**
 
-__Escribir me ayuda a estructurar mis ideas.__
+_Escribir me ayuda a estructurar mis ideas._
 
 **['Viviendo en una sociedad enferma: Una historia sobre naturaleza, comportamiento humano, salud y espiritualidad'](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/)** (libros.com, 2022), un ensayo que explora las complejidades de nuestro mundo actual. 
 
@@ -59,7 +59,7 @@ También he escrito varios poemarios que exploran temas como la naturaleza, la e
 <br>
 ### **📸 Apariciones en medios**
 
-__De vez en cuando se interesan por mi trabajo.__
+_De vez en cuando se interesan por mi trabajo._
 
 **[Despertar tras colapsar](https://open.spotify.com/episode/59KAv9UTAkd5BQsDvl56ww)**, Al Borde del Burnout, mayo 2024.
 
@@ -84,7 +84,7 @@ __De vez en cuando se interesan por mi trabajo.__
 <br>
 ### **🤝 Servicios**
 
-__Temas sobre los que sé un poquito y puedo ayudar.__
+_Temas sobre los que sé un poquito y puedo ayudar._
 
 **Consultoría en ciencia de datos e inteligencia artificial**
 

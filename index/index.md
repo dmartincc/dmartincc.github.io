@@ -77,21 +77,17 @@ También he escrito varios poemarios que exploran temas como la naturaleza, la e
 <br>
 ### **🤝 Servicios**
 
-**Consultoría**
+**Consultoría en ciencia de datos e inteligencia artificial**
 
-Llevo desde 2008 trabajando en modelización matemática, ciencia de datos, inteligencia artificial, diseño de producto y estrategia.
+Desarrollo de modelos predictivos, análisis de grandes volúmenes de datos, diseño de estrategias de datos y creación de soluciones de inteligencia artificial para resolver problemas complejos.
 
-**Conferencias y cursos**
+**Formación**
 
-Imparto clases a nivel universitario desde 2014 y dando conferencias a nivel académico e industrial. Materias que imparto: Sistemas complejos, Ciencia de redes, Ciencia de datos, Inteligencia artificial, Ciencias sociales computacionales, Epidmiología computacional, Salud digital.
+Imparto cursos y talleres sobre ciencia de datos, inteligencia artificial, sistemas complejos sociales y salud digital.
 
 **Coaching**
 
-Acompaño a personas que han sufrido el despertar de su kundalini después de haber recorrido yo ese camino. 
-
-**Trabajo energético**
-
-Soy canal de la energía primordial y mediante imposición de manos elevo el nivel de consciencia y equilibro el campo bioenergético de la persona.
+Acompañamiento personalizado para el desarrollo personal y espiritual, con un enfoque en las bases científicas de la energía y la consciencia.
 
 ### **🤝 Contacto**
 

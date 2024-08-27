@@ -28,7 +28,7 @@ Imparto o he impartido clases en múltiples insituticiones académicas como Univ
 
 Soy un profesional con una sólida experiencia en liderar y trabajar con equipos multiculturales a nivel internacional en el mundo industrial y académico. Mi enfoque se centra en un liderazgo empático, la adaptación constante al cambio y la consecución de objetivos.
 
-Puedes saber más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/) o [Google Scholar](https://scholar.google.com/citations?user=iQ2rQNkAAAAJ&hl=en).
+Puedes conocer más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/) o [Google Scholar](https://scholar.google.com/citations?user=iQ2rQNkAAAAJ&hl=en).
 
 <br>
 ### **🎓 Formación académica**

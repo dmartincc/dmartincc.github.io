@@ -52,9 +52,9 @@ _Escribir me ayuda a estructurar mis ideas._
 
 **['Viviendo en una sociedad enferma: Una historia sobre naturaleza, comportamiento humano, salud y espiritualidad'](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/)** (libros.com, 2022), un ensayo que explora las complejidades de nuestro mundo actual. 
 
-**'El despertar del ser: Experiencias y reflexiones sobre la nueva consciencia'** (en edición), es un diario íntimo de mi exploración espiritual a través del arte, la meditación y la medicina psicodélica a lo largo de los últimos veinte años.
+**'El despertar del ser: Experiencias y reflexiones sobre la nueva consciencia'** (en edición), es un diario íntimo de mi exploración espiritual a través del arte, la meditación y la medicina psicodélica. Llevo abriendo las puertas de la percepción conscientemente desde que tengo diecisiete años.
 
-También he escrito varios poemarios que exploran temas como la naturaleza, la espiritualidad y la condición humana.
+También escribo poesía donde exploro temas como la naturaleza, la espiritualidad y la condición humana.
 
 <br>
 ### **📸 Apariciones en medios**

@@ -20,7 +20,7 @@ Como artista hago acción subersiva para ayudar a la apertura de corazones. Así
 <br>
 ### **💻 Experiencia profesional**
 
-_Intentamos ayudar con nuetras habilidades._
+_Intento ayudar con mis habilidades._
 
 Actualmente soy cofundador de StressTech. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Cofundé y fui CEO de Zensei, una startup de salud digital para pacientes respiratorios. También fui cofundador de Politibot, una startup española centrada en noticias políticas y ganadora del premio DNI de Google. 
 

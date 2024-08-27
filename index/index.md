@@ -88,7 +88,7 @@ _Temas sobre los que sé un poquito y puedo ayudar._
 
 **Consultoría en ciencia de datos e inteligencia artificial**
 
-Desarrollo de modelos predictivos, análisis de grandes volúmenes de datos, diseño de estrategias de datos y creación de soluciones de inteligencia artificial para resolver problemas complejos.
+Desarrollo de modelos predictivos y prescriptivos, análisis de grandes volúmenes de datos, diseño de estrategias de datos y creación de soluciones de inteligencia artificial para resolver problemas complejos.
 
 **Formación**
 

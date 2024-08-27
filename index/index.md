@@ -16,7 +16,7 @@ Como **artista, ingeniero y emprendedor en serie** poseo una amplia experiencia 
 Mis intereses se centran en **mejorar la salud y el bienestar**, así como en la **exploración de los límites de la consciencia**. A través de mi arte, proyectos y publicaciones, **busco inspirar a otras almas a ser más auténticas y a crear un futuro más consciente**.
 
 <br>
-### **Experiencia profesional**
+### **💻 Experiencia profesional**
 
 Actualmente soy cofundador de StressTech. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Cofundé y fui CEO de Zensei, una startup de salud digital para pacientes respiratorios. También fui cofundador de Politibot, una startup española centrada en noticias políticas y ganadora del premio DNI de Google. 
 
@@ -29,7 +29,7 @@ Como investigador he publicado en revistas de alto impacto como Nature o PNAS y 
 Puedes saber más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/) o [Google Scholar](https://scholar.google.com/citations?user=iQ2rQNkAAAAJ&hl=en).
 
 <br>
-### **Formación académica**
+### **🎓 Formación académica**
 
 Doctor en Ingeniería Matemática (Cum Laude), Universidad Carlos III de Madrid (España).
 
@@ -42,7 +42,7 @@ Ingeniería Eléctrica, Universidad de Castilla-La Mancha (España).
 Filosofía, UNED (España). Primeros cursos.
 
 <br>
-### **Libros y escritos**
+### **✍🏻 Libros y escritos**
 
 **['Viviendo en una sociedad enferma: Una historia sobre naturaleza, comportamiento humano, salud y espiritualidad'](https://libros.com/comprar/covid-19-viviendo-en-una-sociedad-enferma/)** (libros.com, 2022), un ensayo que explora las complejidades de nuestro mundo actual. 
 
@@ -51,7 +51,7 @@ Filosofía, UNED (España). Primeros cursos.
 También he escrito varios poemarios que exploran temas como la naturaleza, la espiritualidad y la condición humana.
 
 <br>
-### **Apariciones en medios**
+### **📸 Apariciones en medios**
 
 **[Despertar tras colapsar](https://open.spotify.com/episode/59KAv9UTAkd5BQsDvl56ww)**, Al Borde del Burnout, mayo 2024.
 
@@ -75,7 +75,7 @@ También he escrito varios poemarios que exploran temas como la naturaleza, la e
 **[Consejos de madre con base científica](https://elpais.com/elpais/2017/07/12/talento_digital/1499880554_103986.html)**, El País, julio 2017.
 
 <br>
-### **Servicios**
+### **🤝 Servicios**
 
 Consultoría estratégica y científico-tecnológica, conferenciante, coaching y terapia energética.
 

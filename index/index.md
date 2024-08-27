@@ -89,6 +89,7 @@ Imparto cursos y talleres sobre ciencia de datos, inteligencia artificial, siste
 
 Acompañamiento personalizado para el desarrollo personal y espiritual, con un enfoque en las bases científicas de la energía y la consciencia.
 
+<br>
 ### **💬 Contacto**
 
 Si algo te resuena de lo que has leído y quieres contactar conmigo [**pulsa aquí**](mailto:dmartincc84@gmail.com).

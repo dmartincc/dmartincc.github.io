@@ -1,10 +1,9 @@
 ---
 layout: landing
 title:  "David Martín-Corral, Phd."
-date: 2018-10-06 00:00:00 +0200
+date: 2024-08-27 00:00:00 +0200
 permalink: /
 ---
-<br>
 
 ![David Martín-Corral](/assets/img/David.jpg)
 <br>

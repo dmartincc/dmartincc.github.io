@@ -101,7 +101,7 @@ Acompañamiento personalizado para el desarrollo personal y espiritual, con un e
 <br>
 ### **💬 Contacto**
 
-Si algo te resuena de lo que has leído y quieres contactar conmigo [**pulsa aquí**](mailto:dmartincc84@gmail.com).
+Si algo te resuena algo de lo que has leído y quieres contactar conmigo [**pulsa aquí**](mailto:dmartincc84@gmail.com).
 
 <br>
 <br>

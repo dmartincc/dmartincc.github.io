@@ -24,7 +24,7 @@ Lideré las prácticas de ciencia de datos en Smartvel y el equipo de productos 
 
 Imparto o he impartido clases en múltiples insituticiones académicas como Universidad Pontificia de Comillas, Universidad Complutense de Madrid, The Power Business School, The Valley Business School, Instituto de Empresa, Universidad Carlos III de Madrid o Universidad de Alcalá y doy charlas e imparto cursos a todo tipo de públicos. Como investigador he publicado en revistas de alto impacto como Nature o PNAS y he sido investigador invitado en el laboratorio de Dinámica Humana del MIT Media Lab (USA). 
 
-Soy un profesional con una sólida experiencia en trabajar y liderar de equipos multiculturales a nivel internacional en el mundo académico e industrial. Mi enfoque se centra en un liderazgo empático, la consecución de objetivos y la adaptación constante al cambio.
+Soy un profesional con una sólida experiencia en liderar y trabajar con equipos multiculturales a nivel internacional en el mundo industrial y académico. Mi enfoque se centra en un liderazgo empático, la consecución de objetivos y la adaptación constante al cambio.
 
 Puedes saber más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/davidmartincorralcalvo/) o [Google Scholar](https://scholar.google.com/citations?user=iQ2rQNkAAAAJ&hl=en).
 

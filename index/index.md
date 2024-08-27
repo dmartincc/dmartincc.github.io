@@ -33,7 +33,7 @@ Puedes saber más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/da
 <br>
 ### **🎓 Formación académica**
 
-_Me gusta mucho aprender y saturar campos del conocimiento._
+_Me encanta expandir mi mente._
 
 Doctor en Ingeniería Matemática (Cum Laude), Universidad Carlos III de Madrid (España).
 

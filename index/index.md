@@ -15,7 +15,7 @@ Como **artista, ingeniero y emprendedor en serie** poseo una amplia experiencia 
 
 Mis intereses se centran en **mejorar la salud y el bienestar**, así como en la **exploración de los límites de la consciencia** a través de la psiconáutica. Mediante mi arte, proyectos y publicaciones, **busco inspirar a otras almas a ser más auténticas y a crear un futuro más consciente**. 
 
-Como artista hago acción subersiva mediante la apertura de corazones. Así nos lo demandan las energías de la nueva era.
+Como artista hago acción subersiva para ayudar a la apertura de corazones. Así nos lo demandan las energías de la nueva era.
 
 <br>
 ### **💻 Experiencia profesional**

@@ -87,7 +87,7 @@ Imparto cursos y talleres sobre ciencia de datos, inteligencia artificial, siste
 
 **Coaching**
 
-Acompañamiento personalizado para el desarrollo personal y espiritual, con un enfoque en las bases científicas de la energía y la consciencia.
+Acompañamiento personalizado para el desarrollo personal y espiritual, con un enfoque en las bases científicas de la energía, antiguas tradiciones filosóficas y la consciencia.
 
 <br>
 ### **💬 Contacto**

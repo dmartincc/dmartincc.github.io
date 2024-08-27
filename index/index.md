@@ -35,7 +35,7 @@ Puedes conocer más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/
 
 _Me encanta expandir mi mente para aprender, entender y comprender._
 
-Doctor en Ingeniería Matemática (Cum Laude), Universidad Carlos III de Madrid (España).
+Doctor Cum Laude en Ingeniería Matemática, Universidad Carlos III de Madrid (España).
 
 Máster en Investigación Operativa, Universidad de Strathclyde (Reino Unido).
 

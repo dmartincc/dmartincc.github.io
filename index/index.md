@@ -23,13 +23,13 @@ Como artista hago acción subersiva para ayudar a la apertura de corazones y el 
 
 _Intento ayudar con mis habilidades._
 
-Actualmente soy cofundador de StressTech. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Cofundé y fui CEO de Zensei, una startup de salud digital para pacientes respiratorios. También fui cofundador de Politibot, una startup española centrada en noticias políticas y ganadora del premio DNI de Google. 
+Actualmente, soy **cofundador de StressTech**. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Previamente, fui **cofundador y CEO de Zensei**, una startup de salud digital para pacientes respiratorios. También fui **cofundador de Politibot**, una startup española centrada en noticias políticas y ganadora del premio DNI de Google. 
 
-Lideré las prácticas de ciencia de datos en Smartvel y el equipo de productos de salud basados en datos en Sanitas, como Senior Data Scientist. Anteriormente, trabajé en IBM como Advanced Analytics Consultant, diseñando y construyendo las primeras plataformas de Big Data e iniciativas de ciencias de datos en España para BBVA, CaixaBank y Bankinter. Como científico de datos con más de 15 años de experienia he puesto en producción más de 500 modelos de inteligencia artificial y he ayudado a empresas tecnológicas a lanzar sus iniciativas de datos e inteligencia artificial como 24symbols, SafeTrack, Quantica, Getro y Fandit.
+Lideré las prácticas de ciencia de datos en **Smartvel** y el equipo de productos de salud basados en datos en **Sanitas**, como **Senior Data Scientist**. Anteriormente, trabajé en **IBM** como **Advanced Analytics Consultant**, diseñando y construyendo las primeras plataformas de Big Data e iniciativas de ciencias de datos en España para **BBVA, CaixaBank y Bankinter**. Como **científico de datos con más de 15 años de experienia he puesto en producción más de 500 modelos de aprendizaje estadístico (IA)** y he ayudado como consultor a empresas tecnológicas a lanzar sus iniciativas de datos e inteligencia artificial como **24symbols, SafeTrack, Quantica, Getro y Fandit**.
 
-Imparto o he impartido clases en múltiples insituticiones académicas como Universidad Pontificia de Comillas, Universidad Complutense de Madrid, The Power Business School, The Valley Business School, Instituto de Empresa, Universidad Carlos III de Madrid o Universidad de Alcalá y doy charlas e imparto cursos a todo tipo de públicos. 
+Llevo más de 10 años impartiendo clases en múltiples insituticiones académicas como **Universidad Pontificia de Comillas, Universidad Complutense de Madrid, The Power Business School, The Valley Business School, Instituto de Empresa, Universidad Carlos III de Madrid o Universidad de Alcalá** y doy charlas e imparto cursos a todo tipo de públicos sobre ciencia de datos, inteligencia artificial, sistemas complejos sociales y salud digital.
 
-Como investigador he publicado en revistas de alto impacto como Nature o PNAS y he sido investigador invitado en el laboratorio de Dinámica Humana del MIT Media Lab (USA). 
+Como investigador he publicado en revistas de alto impacto como Nature o PNAS y he sido **investigador invitado en el laboratorio de Dinámica Humana del MIT Media Lab** (USA). 
 
 Soy un profesional con una sólida experiencia en liderar y trabajar con equipos multiculturales a nivel internacional en el mundo industrial y académico. Mi enfoque se centra en un liderazgo empático, la adaptación constante al cambio y la consecución de objetivos.
 
@@ -40,15 +40,17 @@ Puedes conocer más sobre mí trabajo en [LinkedIn](https://www.linkedin.com/in/
 
 _Me encanta expandir mi mente para aprender, entender y comprender._
 
-Doctor Cum Laude en Ingeniería Matemática, Universidad Carlos III de Madrid (España).
+**Doctor Cum Laude en Ingeniería Matemática**, Universidad Carlos III de Madrid (España).
+Tesis: [Mathematical models of digital epidemiology in social networks](https://e-archivo.uc3m.es/bitstream/10016/40023/1/tesis_david_martin-corral_calvo_2023.pdf).
 
-Máster en Investigación Operativa, Universidad de Strathclyde (Reino Unido).
+**Máster en Investigación Operativa**, Universidad de Strathclyde (Reino Unido).
 
-Ingeniería Industrial, Universidad Politécnica de Madrid (España).
+**Ingeniería Industrial**, Universidad Politécnica de Madrid (España).
 
-Ingeniería Eléctrica, Universidad de Castilla-La Mancha (España).  
+**Ingeniería Eléctrica**, Universidad de Castilla-La Mancha (España).  
 
-Filosofía, UNED (España). Primeros cursos.
+**Filosofía**, UNED (España). Primeros cursos.
+
 
 <br>
 ### **✍🏻 Libros y escritos**

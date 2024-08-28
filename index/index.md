@@ -23,7 +23,7 @@ Como artista hago acción subersiva para ayudar a la apertura de corazones y el 
 
 _Intento ayudar con mis habilidades._
 
-Actualmente, soy **cofundador de StressTech**. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Previamente, fui **cofundador y CEO de Zensei**, una startup de salud digital para pacientes respiratorios. También fui **cofundador de Politibot**, una startup centrada en noticias políticas y ganadora dos años consecutivos el premio DNI de Google. 
+Actualmente, soy **cofundador de StressTech**. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Previamente, fui **cofundador y CEO de Zensei**, una startup de salud digital para pacientes respiratorios. También fui **cofundador de Politibot**, una startup centrada en noticias políticas y ganadora dos años consecutivos del premio DNI de Google. 
 
 Lideré las prácticas de ciencia de datos en **Smartvel** y el equipo de productos de salud basados en datos en **Sanitas**, como **Senior Data Scientist**. Anteriormente, trabajé en **IBM** como **Advanced Analytics Consultant**, diseñando y construyendo las primeras plataformas de Big Data e iniciativas de ciencias de datos en España para **BBVA, CaixaBank y Bankinter**. Como **científico de datos con más de 15 años de experienia he puesto en producción más de 500 modelos de aprendizaje estadístico (IA)** y he ayudado como consultor a empresas tecnológicas a lanzar sus iniciativas de datos e inteligencia artificial como **24symbols, SafeTrack, Quantica, Getro y Fandit**.
 

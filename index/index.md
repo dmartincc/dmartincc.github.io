@@ -84,6 +84,8 @@ _De vez en cuando se interesan por mi trabajo._
 
 **[The bots that are changing politics](https://www.vice.com/en/article/mb37k4/twitter-facebook-google-bots-misinformation-changing-politics)**, Vice, noviemebre 2017.
 
+**[Apps para elegir el mejor barrio y crear campañas de geomarketing, ganadoras de InnovaChallenge MX](https://www.bbva.com/es/innovacion/apps-elegir-mejor-barrio-crear-campanas-geomarketing-ganadoras-innovachallenge-mx/)**, BBVA Innova Challenge, agosto 2017.
+
 **[Consejos de madre con base científica](https://elpais.com/elpais/2017/07/12/talento_digital/1499880554_103986.html)**, El País, julio 2017.
 
 <br>

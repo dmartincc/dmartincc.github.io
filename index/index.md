@@ -12,7 +12,7 @@ permalink: /
 
 Hola, soy un **alma inquieta** a la que le apasiona explorar las conexiones entre la ciencia, la tecnología y la consciencia.
 
-Como **artista, ingeniero y emprendedor en serie** poseo una amplia experiencia en el proceso creativo, el sector tecnológico y académico. Combino conocimiento técnico con una profunda curiosidad por el alma humana.
+Como **artista, ingeniero y emprendedor** poseo una amplia experiencia en el proceso creativo, el sector tecnológico y académico. Combino conocimiento técnico con una profunda curiosidad por el alma humana.
 
 Mis intereses se centran en **mejorar la salud y el bienestar**, así como en la **exploración de los límites de la consciencia** a través de la psiconáutica. Mediante mi arte, proyectos y publicaciones, **busco inspirar a otras almas a ser más auténticas y a crear un futuro más consciente**. 
 

@@ -66,27 +66,27 @@ También escribo poesía donde exploro temas como la naturaleza, la espiritualid
 
 _De vez en cuando se interesan por mi trabajo._
 
-**[Despertar tras colapsar](https://open.spotify.com/episode/59KAv9UTAkd5BQsDvl56ww)**, Al Borde del Burnout, mayo 2024.
+**[Despertar tras colapsar](https://open.spotify.com/episode/59KAv9UTAkd5BQsDvl56ww)**, Al Borde del Burnout, mayo de 2024.
 
-**[Nociones cuánticas para entender a la sociedad actual](https://www.latribunadetoledo.es/Noticia/Z4F631007-E3B7-2503-D2EEC6ECB263F23F/202212/Nociones-cuanticas-para-entender-a-la-sociedad-actual)**, Tribuna de Toledo, diciembre 2022.
+**[Nociones cuánticas para entender a la sociedad actual](https://www.latribunadetoledo.es/Noticia/Z4F631007-E3B7-2503-D2EEC6ECB263F23F/202212/Nociones-cuanticas-para-entender-a-la-sociedad-actual)**, Tribuna de Toledo, diciembre de 2022.
 
-**[La receta de un científico español para evitar los rebrotes y una segunda ola de COVID-19](https://www.larazon.es/sociedad/20200809/4dbtletasne3fmenpvw6fwnk6a.html)**, La Razón, agosto 2020.
+**[La receta de un científico español para evitar los rebrotes y una segunda ola de COVID-19](https://www.larazon.es/sociedad/20200809/4dbtletasne3fmenpvw6fwnk6a.html)**, La Razón, agosto de 2020.
 
-**[Un científico toledano y su receta para evitar rebrotes de coronavirus](https://www.abc.es/espana/castilla-la-mancha/toledo/abci-cientifico-toledano-y-receta-para-evitar-rebrotes-202008092022_noticia.html)**, ABC, agosto 2020.
+**[Un científico toledano y su receta para evitar rebrotes de coronavirus](https://www.abc.es/espana/castilla-la-mancha/toledo/abci-cientifico-toledano-y-receta-para-evitar-rebrotes-202008092022_noticia.html)**, ABC, agosto de 2020.
 
-**[Measuring the Effectiveness of Coronavirus Social Distancing Policies](https://www.wsj.com/articles/measuring-the-effectiveness-of-coronavirus-social-distancing-policies-01586547592)**, Wall Street Journal, abril 2020.
+**[Measuring the Effectiveness of Coronavirus Social Distancing Policies](https://www.wsj.com/articles/measuring-the-effectiveness-of-coronavirus-social-distancing-policies-01586547592)**, Wall Street Journal, abril de 2020.
 
-**[Zensei, la evolución del bot que analiza el aire que respiras](https://hipertextual.com/2018/04/zensei-app-ambiente)**, Hipertextual, abril 2018.
+**[Zensei, la evolución del bot que analiza el aire que respiras](https://hipertextual.com/2018/04/zensei-app-ambiente)**, Hipertextual, abril de 2018.
 
-**[Zensei, una aplicación que nos ayuda a prevenir los problemas respiratorios](https://www.xatakamovil.com/aplicaciones/zensei-una-aplicacion-que-nos-ayuda-a-prevenir-los-problemas-respiratorios)**, Xataka, abril 2018.
+**[Zensei, una aplicación que nos ayuda a prevenir los problemas respiratorios](https://www.xatakamovil.com/aplicaciones/zensei-una-aplicacion-que-nos-ayuda-a-prevenir-los-problemas-respiratorios)**, Xataka, abril de 2018.
 
 **[Los humanos y algoritmos detrás de Politibot](https://www.vozpopuli.com/economia-y-finanzas/startups/humanos-algoritmos-detras-Politibot-chatbot-startup-telegram-inteligencia-artificial_0_1096691048.html)**, Vozpopuli, marzo 2018.
 
-**[The bots that are changing politics](https://www.vice.com/en/article/mb37k4/twitter-facebook-google-bots-misinformation-changing-politics)**, Vice, noviemebre 2017.
+**[The bots that are changing politics](https://www.vice.com/en/article/mb37k4/twitter-facebook-google-bots-misinformation-changing-politics)**, Vice, noviembre de 2017.
 
-**[Apps para elegir el mejor barrio y crear campañas de geomarketing, ganadoras de InnovaChallenge MX](https://www.bbva.com/es/innovacion/apps-elegir-mejor-barrio-crear-campanas-geomarketing-ganadoras-innovachallenge-mx/)**, BBVA Innova Challenge, agosto 2017.
+**[Apps para elegir el mejor barrio y crear campañas de geomarketing, ganadoras de InnovaChallenge MX](https://www.bbva.com/es/innovacion/apps-elegir-mejor-barrio-crear-campanas-geomarketing-ganadoras-innovachallenge-mx/)**, BBVA Innova Challenge, agosto de 2017.
 
-**[Consejos de madre con base científica](https://elpais.com/elpais/2017/07/12/talento_digital/1499880554_103986.html)**, El País, julio 2017.
+**[Consejos de madre con base científica](https://elpais.com/elpais/2017/07/12/talento_digital/1499880554_103986.html)**, El País, julio de 2017.
 
 <br>
 ### **🤝 Servicios**

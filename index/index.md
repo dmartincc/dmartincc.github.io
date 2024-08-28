@@ -61,7 +61,7 @@ _Escribir me ayuda a estructurar mis ideas._
 
 **'El despertar del ser: Experiencias y reflexiones sobre la nueva consciencia'** (en edición), es un diario íntimo de mi exploración espiritual a través del arte, la meditación y la medicina psicodélica. Llevo abriendo conscientemente las puertas de la percepción desde que tengo diecisiete años.
 
-También escribo poesía donde exploro temas como la naturaleza, la espiritualidad y la condición humana.
+**Iluminación** (en edición), primer poemario escrito durante los meses más intensos de la crisis existencial más intensa que he vivido hasta la fecha.
 
 <br>
 ### **📸 Apariciones en medios**
@@ -105,7 +105,7 @@ Imparto cursos y talleres sobre ciencia de datos, inteligencia artificial, siste
 
 **Coaching**
 
-Acompañamiento personalizado para el desarrollo personal y espiritual, con un enfoque en las bases científicas de la energía, antiguas tradiciones filosóficas y la consciencia.
+Acompañamiento personalizado para el desarrollo personal y espiritual, con un enfoque en las bases científicas de la energía (la consciencia), psicología transpersonal y antiguas tradiciones filosóficas contemplativas.
 
 <br>
 ### **💬 Contacto**

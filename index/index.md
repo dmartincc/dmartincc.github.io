@@ -61,7 +61,7 @@ _Escribir me ayuda a estructurar mis ideas._
 
 **'El despertar del ser: Experiencias y reflexiones sobre la nueva consciencia'** (en edición), es un diario íntimo de mi exploración espiritual a través del arte, la meditación y la medicina psicodélica. Llevo abriendo conscientemente las puertas de la percepción desde que tengo diecisiete años.
 
-**Iluminación** (en edición), poemario escrito durante los meses más intensos del despertar de mi ser.
+**'Iluminación'** (en edición), poemario escrito durante los meses más intensos del despertar de mi ser.
 
 <br>
 ### **📸 Apariciones en medios**

@@ -1,6 +1,7 @@
 ---
 layout: landing
 title:  "David Martín-Corral, Phd."
+description: Artista, científico, ingeniero, emprendedor y libre pensador.
 date: 2024-08-27 00:00:00 +0200
 permalink: /
 ---
@@ -15,7 +16,7 @@ Como **artista, ingeniero y emprendedor en serie** poseo una amplia experiencia 
 
 Mis intereses se centran en **mejorar la salud y el bienestar**, así como en la **exploración de los límites de la consciencia** a través de la psiconáutica. Mediante mi arte, proyectos y publicaciones, **busco inspirar a otras almas a ser más auténticas y a crear un futuro más consciente**. 
 
-Como artista hago acción subersiva para ayudar a la apertura de corazones. Así nos lo demandan las energías de la nueva era.
+Como artista hago acción subersiva para ayudar a la apertura de corazones y despertar consciencias.
 
 <br>
 ### **💻 Experiencia profesional**
@@ -26,7 +27,9 @@ Actualmente soy cofundador de StressTech. Una empresa de salud digital que utili
 
 Lideré las prácticas de ciencia de datos en Smartvel y el equipo de productos de salud basados en datos en Sanitas, como Senior Data Scientist. Anteriormente, trabajé en IBM como Advanced Analytics Consultant, diseñando y construyendo las primeras plataformas de Big Data e iniciativas de ciencias de datos en España para BBVA, CaixaBank y Bankinter. Como científico de datos con más de 15 años de experienia he puesto en producción más de 500 modelos de inteligencia artificial y he ayudado a empresas tecnológicas a lanzar sus iniciativas de datos e inteligencia artificial como 24symbols, SafeTrack, Quantica, Getro y Fandit.
 
-Imparto o he impartido clases en múltiples insituticiones académicas como Universidad Pontificia de Comillas, Universidad Complutense de Madrid, The Power Business School, The Valley Business School, Instituto de Empresa, Universidad Carlos III de Madrid o Universidad de Alcalá y doy charlas e imparto cursos a todo tipo de públicos. Como investigador he publicado en revistas de alto impacto como Nature o PNAS y he sido investigador invitado en el laboratorio de Dinámica Humana del MIT Media Lab (USA). 
+Imparto o he impartido clases en múltiples insituticiones académicas como Universidad Pontificia de Comillas, Universidad Complutense de Madrid, The Power Business School, The Valley Business School, Instituto de Empresa, Universidad Carlos III de Madrid o Universidad de Alcalá y doy charlas e imparto cursos a todo tipo de públicos. 
+
+Como investigador he publicado en revistas de alto impacto como Nature o PNAS y he sido investigador invitado en el laboratorio de Dinámica Humana del MIT Media Lab (USA). 
 
 Soy un profesional con una sólida experiencia en liderar y trabajar con equipos multiculturales a nivel internacional en el mundo industrial y académico. Mi enfoque se centra en un liderazgo empático, la adaptación constante al cambio y la consecución de objetivos.
 

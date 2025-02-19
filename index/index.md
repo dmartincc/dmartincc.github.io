@@ -23,7 +23,7 @@ Como artista hago acción subersiva para ayudar a la apertura de corazones y el 
 
 _Intento ayudar con mis habilidades._
 
-Actualmente, soy **cofundador de StressTech**. Una empresa de salud digital que utiliza la IA, las ciencias contemplativas, la terapia de sonido y el análisis genético personalizado para reducir el estrés y calmar la mente. Previamente, fui **cofundador y CEO de Zensei**, una startup de salud digital para pacientes respiratorios. También fui **cofundador de Politibot**, una startup centrada en noticias políticas y ganadora dos años consecutivos del premio DNI de Google. 
+Actualmente, soy **cofundador de Heratropic**, una empresa donde diseñamos tecnologías para aumentar el autoconocimiento de las personas y ayudarles a transitar el cambio ontológico que vivimos. Previamente, fui **cofundador y CEO de Zensei**, una startup de salud digital para pacientes respiratorios. También fui **cofundador de Politibot**, una startup centrada en noticias políticas y ganadora dos años consecutivos del premio DNI de Google. 
 
 Lideré las prácticas de ciencia de datos en **Smartvel** y el equipo de productos de salud basados en datos en **Sanitas (Bupa)**, como **Senior Data Scientist**. Anteriormente, trabajé en **IBM** como **Advanced Analytics Consultant**, diseñando y construyendo las primeras plataformas de Big Data e iniciativas de ciencias de datos en España. Como **científico de datos con más de 15 años de experiencia he puesto en producción más de 500 modelos de aprendizaje estadístico (IA)** y he ayudado a lanzar iniciativas de datos e inteligencia artificial a empresas como **BBVA, CaixaBank, Bankinter, 24symbols, SafeTrack, Quantyca, Getro y Fandit**.
 
@@ -66,7 +66,9 @@ _Escribir me ayuda a estructurar mis ideas._
 <br>
 ### **📸 Apariciones en medios**
 
-_De vez en cuando se interesan por mi trabajo._
+_De vez en cuando se interesan por mi trabajo e historia de vida._
+
+**[Pisconáutica, éxito y salud mental](https://youtu.be/l0dP8kqiLdU?si=0v06EaFzTnf996XA)**, The Yesman Show, febrero de 2025.
 
 **[Despertar tras colapsar](https://open.spotify.com/episode/59KAv9UTAkd5BQsDvl56ww)**, Al Borde del Burnout, mayo de 2024.
 
@@ -102,10 +104,6 @@ Desarrollo de modelos predictivos y prescriptivos, análisis de grandes volúmen
 **Formación**
 
 Imparto cursos y talleres sobre ciencia de datos, inteligencia artificial, sistemas complejos sociales, salud digital y consciencia.
-
-**Coaching**
-
-Acompañamiento personalizado para el desarrollo personal y espiritual, con un enfoque en las bases científicas de la energía (la consciencia), psicología transpersonal y antiguas tradiciones filosóficas contemplativas.
 
 <br>
 ### **💬 Contacto**

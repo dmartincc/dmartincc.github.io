@@ -1,5 +1,51 @@
 <!doctype html>
-<html lang="es" itemscope itemtype="http://schema.org/WebSite">
+<html ang="{{ page.lang }}" itemscope itemtype="http://schema.org/WebSite">
+
+    <div class="language-switcher">
+      <a id="lang-switcher" href="#">🇪🇸 / 🇬🇧</a>
+    </div>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var langSwitcher = document.getElementById("lang-switcher");
+        var currentPath = window.location.pathname;
+
+
+          // Check if the current path starts with '/en' (English version)
+          var isEnglish = currentPath.startsWith("/en");
+          var newPath;
+
+          // Switch between '/en' and '/' (Spanish version) depending on the current language
+          if (isEnglish) {
+              newPath = currentPath.replace("/en", "");  // Replace '/en' with the root, i.e., Spanish version
+          } else {
+              newPath = "/en" + currentPath;  // Add '/en' before the current path for English
+          }
+
+          // Update the link to switch languages
+          langSwitcher.href = newPath;
+        
+    });
+    </script>
+
+    <style>
+    .language-switcher {
+        position: fixed;
+        top: 10px;
+        right: 20px;
+        background: #f4f4f4;
+        padding: 8px;
+        border-radius: 5px;
+        font-size: 18px; /* Larger flag icons */
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        gap: 5px; /* Space between flags */
+    }
+    .language-switcher a {
+        text-decoration: none;
+        color: #333;
+    }
+    </style>
 
   {% include head.html %}
   <body>

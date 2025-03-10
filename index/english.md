@@ -4,7 +4,7 @@ title:  "David Martín-Corral, PhD."
 description: Artist, scientist, engineer, entrepreneur, and free thinker.  
 date: 2024-08-27 00:00:00 +0200  
 permalink: /en  
-lang: en  
+lang: en
 ---
 
 ![David Martín-Corral](/assets/img/David.jpg)  

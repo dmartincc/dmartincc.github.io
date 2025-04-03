@@ -9,7 +9,6 @@ lang: en
 
 ![David Martín-Corral](/assets/img/David.jpg)  
 <br>  
-<br>
 Hello, I am a **restless soul** passionate about exploring the connections between science, technology, and consciousness.  
 
 As an **artist, engineer, and entrepreneur**, I have extensive experience in the creative and building process, as well as in the tech and academic sectors. I combine technical knowledge with a deep curiosity about the human soul.  

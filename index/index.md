@@ -24,7 +24,7 @@ Como artista hago acción subersiva para ayudar a la apertura de corazones y el 
 
 _Intento ayudar con mis habilidades._
 
-Actualmente, soy **cofundador de Heratropic**, una empresa donde diseñamos tecnologías para aumentar el autoconocimiento de las personas y ayudarles a transitar el cambio ontológico que vivimos. Previamente, fui **cofundador y CEO de Zensei**, una startup de salud digital para pacientes respiratorios. También fui **cofundador de Politibot**, una startup centrada en noticias políticas y ganadora dos años consecutivos del premio DNI de Google. Además de otros proyectos fallidos para llegar donde estoy ahora.
+Actualmente, soy **cofundador de [Heratropic](https://heratropic.com)**, una empresa donde diseñamos tecnologías para aumentar el autoconocimiento de las personas y ayudarles a transitar el cambio ontológico que vivimos. Previamente, fui **cofundador y CEO de Zensei**, una startup de salud digital para pacientes respiratorios. También fui **cofundador de Politibot**, una startup centrada en noticias políticas y ganadora dos años consecutivos del premio DNI de Google. Además de otros proyectos fallidos para llegar donde estoy ahora.
 
 Lideré las prácticas de ciencia de datos en **Smartvel** y el equipo de productos de salud basados en datos en **Sanitas (Bupa)**, como **Senior Data Scientist**. Anteriormente, trabajé en **IBM** como **Advanced Analytics Consultant**, diseñando y construyendo las primeras plataformas de Big Data e iniciativas de ciencias de datos en España. Como **científico de datos con más de 15 años de experiencia he puesto en producción más de 500 modelos de aprendizaje estadístico (IA)** y he ayudado a lanzar iniciativas de datos e inteligencia artificial a empresas como **BBVA, CaixaBank, Bankinter, 24symbols, SafeTrack, Quantyca, Getro y Fandit**.
 
@@ -95,7 +95,9 @@ _De vez en cuando se interesan por mi trabajo e historia de vida._
 
 **[Despertar tras colapsar](https://open.spotify.com/episode/59KAv9UTAkd5BQsDvl56ww)**, Al Borde del Burnout, mayo de 2024.
 
-**[Probamos el baño de sonido antiestrés "único en el mundo"](https://www.elespanol.com/eldigitalcastillalamancha/vivir/20230207/probamos-sonido-antiestres-disponible-toledo-unico-mundo/738676466_0.html)**, El Español, febrero 2023.
+**[Iridis Care entrevista](https://www.youtube.com/watch?v=JQZHcUwBMpc)**, Sounds in Me, abril de 2023.
+
+**[Probamos el baño de sonido antiestrés "único en el mundo"](https://www.elespanol.com/eldigitalcastillalamancha/vivir/20230207/probamos-sonido-antiestres-disponible-toledo-unico-mundo/738676466_0.html)**, El Español, febrero de 2023.
 
 **[Nociones cuánticas para entender a la sociedad actual](https://www.latribunadetoledo.es/Noticia/Z4F631007-E3B7-2503-D2EEC6ECB263F23F/202212/Nociones-cuanticas-para-entender-a-la-sociedad-actual)**, Tribuna de Toledo, diciembre de 2022.
 

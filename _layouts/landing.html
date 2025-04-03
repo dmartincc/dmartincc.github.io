@@ -9,20 +9,17 @@
         var langSwitcher = document.getElementById("lang-switcher");
         var currentPath = window.location.pathname;
 
+        var isEnglish = currentPath.startsWith("/en");
+        var newPath;
 
-          // Check if the current path starts with '/en' (English version)
-          var isEnglish = currentPath.startsWith("/en");
-          var newPath;
+        if (isEnglish) {
+            newPath = currentPath.replace("/en", "");  // Replace '/en' with the root, i.e., Spanish version
+        } else {
+            newPath = "/en";  // Add '/en' before the current path for English
+        }
 
-          // Switch between '/en' and '/' (Spanish version) depending on the current language
-          if (isEnglish) {
-              newPath = currentPath.replace("/en", "");  // Replace '/en' with the root, i.e., Spanish version
-          } else {
-              newPath = "/en";  // Add '/en' before the current path for English
-          }
-
-          // Update the link to switch languages
-          langSwitcher.href = newPath;
+        // Update the link to switch languages
+        langSwitcher.href = newPath;
         
     });
     </script>
@@ -39,7 +36,7 @@
         font-weight: bold;
         display: flex;
         align-items: center;
-        gap: 5px; /* Space between flags */
+        gap: 5px; /* Space betweenstat flags */
     }
     .language-switcher a {
         text-decoration: none;

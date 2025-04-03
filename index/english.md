@@ -9,8 +9,7 @@ lang: en
 
 ![David Martín-Corral](/assets/img/David.jpg)  
 <br>  
-<br>  
-
+<br>
 Hello, I am a **restless soul** passionate about exploring the connections between science, technology, and consciousness.  
 
 As an **artist, engineer, and entrepreneur**, I have extensive experience in the creative and building process, as well as in the tech and academic sectors. I combine technical knowledge with a deep curiosity about the human soul.  
@@ -94,6 +93,8 @@ _Occasionally, people take an interest in my work and life story._
 [Psychonautics, Success, and Mental Health](https://youtu.be/l0dP8kqiLdU?si=0v06EaFzTnf996XA), The Yesman Show, February 2025.  
 
 [Awakening After Collapse](https://open.spotify.com/episode/59KAv9UTAkd5BQsDvl56ww), *Al Borde del Burnout*, May 2024.  
+
+[Iridis Care entrevista](https://www.youtube.com/watch?v=JQZHcUwBMpc), Sounds in Me, April 2023.
 
 [Testing the Unique Anti-stress Sound Bath](https://www.elespanol.com/eldigitalcastillalamancha/vivir/20230207/probamos-sonido-antiestres-disponible-toledo-unico-mundo/738676466_0.html), *El Español*, February 2023.  
 

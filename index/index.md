@@ -1,8 +1,8 @@
 ---
 layout: landing
-title:  "David Martín-Corral, Phd."
+title:  "David Martín-Corral, PhD."
 description: Artista, científico, ingeniero, emprendedor y libre pensador.
-date: 2024-08-27 00:00:00 +0200
+date: 2025-03-10 00:00:00 +0200
 permalink: /
 lang: es
 ---

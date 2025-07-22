@@ -22,7 +22,7 @@ As an artist, I engage in subversive action to help open hearts and awaken consc
 
 _I try to help with my skills._  
 
-Currently, I am **co-founder of [Heratropic](https://heratropic.com)**, a company where we design technologies to enhance people's self-awareness and help them navigate the ontological shift we are experiencing. Previously, I was **co-founder and CEO of Zensei**, a digital health startup for respiratory patients. I was also **co-founder of Politibot**, a startup focused on political news that won Google's DNI award two years in a row. And I have worked on other failed projects to get where I am today.  
+Currently, I am **co-founder of [Souly](https://mysouly.com)**, a company where we design technologies to enhance people's self-awareness and help them navigate the ontological shift we are experiencing. Previously, I was **co-founder and CEO of Zensei**, a digital health startup for respiratory patients. I was also **co-founder of Politibot**, a startup focused on political news that won Google's DNI award two years in a row. And I have worked on other failed projects to get where I am today.  
 
 I led data science practices at **Smartvel** and the data-driven health product team at **Sanitas (Bupa)** as a **Senior Data Scientist**. Before that, I worked at **IBM** as an **Advanced Analytics Consultant**, designing and building the first Big Data platforms and data science initiatives in Spain. As a **data scientist with over 15 years of experience, I have deployed more than 500 statistical learning (AI) models** and helped launch data and artificial intelligence initiatives for companies such as **BBVA, CaixaBank, Bankinter, 24symbols, SafeTrack, Quantyca, Getro, and Fandit**.  
 
